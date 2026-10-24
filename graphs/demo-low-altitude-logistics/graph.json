@@ -1,0 +1,395 @@
+{
+  "report_id": "demo-low-altitude-logistics",
+  "query": "低空物流",
+  "created_at": "2026-10-21T14:49:02+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "低空物流",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "id": "channel-internal_data",
+      "type": "channel",
+      "label": "内部数据",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "id": "source-S1",
+      "type": "internal_data",
+      "label": "低空物流试点服务反馈台账（合成）",
+      "source_refs": [
+        "S1"
+      ],
+      "url": "",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "risk-819ed55cb7",
+      "type": "risk",
+      "label": "投诉",
+      "source_refs": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "risk-af75e78cac",
+      "type": "risk",
+      "label": "风险",
+      "source_refs": [
+        "S1",
+        "S3",
+        "S7"
+      ]
+    },
+    {
+      "id": "channel-forum_post",
+      "type": "channel",
+      "label": "论坛",
+      "source_refs": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "source-S2",
+      "type": "forum_post",
+      "label": "低空物流航线信息与反馈渠道汇总",
+      "source_refs": [
+        "S2"
+      ],
+      "url": "https://example.com/demo/forum/103",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "source-S3",
+      "type": "forum_post",
+      "label": "低空物流试点社区的噪声反馈",
+      "source_refs": [
+        "S3"
+      ],
+      "url": "https://example.com/demo/forum/102",
+      "sentiment": "negative"
+    },
+    {
+      "id": "risk-55cb55eadb",
+      "type": "risk",
+      "label": "担忧",
+      "source_refs": [
+        "S3",
+        "S5",
+        "S7"
+      ]
+    },
+    {
+      "id": "risk-867d0e7007",
+      "type": "risk",
+      "label": "事故",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "id": "risk-5a0cc6c047",
+      "type": "risk",
+      "label": "故障",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "id": "source-S4",
+      "type": "forum_post",
+      "label": "低空物流能否优先保障急救运输？",
+      "source_refs": [
+        "S4"
+      ],
+      "url": "https://example.com/demo/forum/101",
+      "sentiment": "positive"
+    },
+    {
+      "id": "channel-video",
+      "type": "channel",
+      "label": "视频字幕",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "id": "source-S5",
+      "type": "video",
+      "label": "低空物流试飞现场与居民采访",
+      "source_refs": [
+        "S5"
+      ],
+      "url": "https://example.com/demo/videos/flight",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "risk-8a3bfabb55",
+      "type": "risk",
+      "label": "泄露",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "id": "channel-image",
+      "type": "channel",
+      "label": "图片说明",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "id": "source-S6",
+      "type": "image",
+      "label": "低空物流航线与配送站示意图",
+      "source_refs": [
+        "S6"
+      ],
+      "url": "https://example.com/demo/images/route",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "channel-news",
+      "type": "channel",
+      "label": "新闻",
+      "source_refs": [
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "id": "source-S7",
+      "type": "news",
+      "label": "低空物流试点公布监管与噪声评估安排",
+      "source_refs": [
+        "S7"
+      ],
+      "url": "https://example.com/demo/news/regulation",
+      "sentiment": "negative"
+    },
+    {
+      "id": "source-S8",
+      "type": "news",
+      "label": "城市低空物流试点启动，配送时效得到提升",
+      "source_refs": [
+        "S8"
+      ],
+      "url": "https://example.com/demo/news/pilot",
+      "sentiment": "positive"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "channel-internal_data",
+      "type": "propagated_via",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "channel-internal_data",
+      "target": "source-S1",
+      "type": "contains",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "source-S1",
+      "target": "risk-819ed55cb7",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "source-S1",
+      "target": "risk-af75e78cac",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-forum_post",
+      "type": "propagated_via",
+      "source_refs": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S2",
+      "type": "contains",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S3",
+      "type": "contains",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "source-S3",
+      "target": "risk-55cb55eadb",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "source-S3",
+      "target": "risk-819ed55cb7",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "source-S3",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "source-S3",
+      "target": "risk-af75e78cac",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "source-S3",
+      "target": "risk-5a0cc6c047",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S4",
+      "type": "contains",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-video",
+      "type": "propagated_via",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S5",
+      "type": "contains",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "source-S5",
+      "target": "risk-55cb55eadb",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "source-S5",
+      "target": "risk-8a3bfabb55",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-image",
+      "type": "propagated_via",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "source": "channel-image",
+      "target": "source-S6",
+      "type": "contains",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-news",
+      "type": "propagated_via",
+      "source_refs": [
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "source": "channel-news",
+      "target": "source-S7",
+      "type": "contains",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "source-S7",
+      "target": "risk-55cb55eadb",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "source-S7",
+      "target": "risk-af75e78cac",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "channel-news",
+      "target": "source-S8",
+      "type": "contains",
+      "source_refs": [
+        "S8"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,965 @@
+{
+  "report_id": "20261021-152608-ed76d787",
+  "query": "中朝关系",
+  "created_at": "2026-10-21T15:26:08+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "中朝关系",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32"
+      ]
+    },
+    {
+      "id": "channel-forum_post",
+      "type": "channel",
+      "label": "论坛",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S30",
+        "S32"
+      ]
+    },
+    {
+      "id": "source-S1",
+      "type": "forum_post",
+      "label": "#中朝最高领导人握手合影#【此行间·现场画面！#习近平和金正恩种下一株枞树#】习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。枞树四季常绿，象征",
+      "source_refs": [
+        "S1"
+      ],
+      "url": "https://m.weibo.cn/detail/5307906267810557",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307906267810557"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S2",
+      "type": "forum_post",
+      "label": "【#习近平参访朝鲜劳动党中央干部学校#】当地时间2026年6月9日上午，中共中央总书记、国家主席习近平在朝鲜劳动党总书记、国务委员长金正恩陪同下，参访位于平壤的",
+      "source_refs": [
+        "S2"
+      ],
+      "url": "https://m.weibo.cn/detail/5307905982857457",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307905982857457"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S3",
+      "type": "forum_post",
+      "label": "#中朝最高领导人会谈有这些关键词##朝鲜欢迎最尊重的贵宾#当地时间 6 月 8 日下午，习近平主席在平壤锦绣山迎宾馆同朝鲜劳动党总书记、国务委员长金正恩举行会谈",
+      "source_refs": [
+        "S3"
+      ],
+      "url": "https://m.weibo.cn/detail/5307904926156134",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904926156134"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S4",
+      "type": "forum_post",
+      "label": "【出席金正恩举行的欢迎宴会 强调两国命运与共 习近平：拓展中朝务实合作 增进民心相通】当地时间6月8日晚，中共中央总书记、国家主席习近平和夫人彭丽媛在平壤木兰馆",
+      "source_refs": [
+        "S4"
+      ],
+      "url": "https://m.weibo.cn/detail/5307904824708729",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904824708729"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S5",
+      "type": "forum_post",
+      "label": "#近观中国#【习近平访朝提出四个“坚持”，推动中朝关系与时俱进】#习近平访朝提出四个坚持#“面对加速演进的世界百年变局，双方要登高望远、继往开来”，当地时间6月",
+      "source_refs": [
+        "S5"
+      ],
+      "url": "https://m.weibo.cn/detail/5307902412986207",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307902412986207"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S6",
+      "type": "forum_post",
+      "label": "#推动中朝关系与时俱进#【独家视频 | 习近平：#时隔七年再次到访美丽的平壤# 我感到十分高兴 也格外亲切】当地时间6月8日下午，中共中央总书记、国家主席习近平",
+      "source_refs": [
+        "S6"
+      ],
+      "url": "https://m.weibo.cn/detail/5307901864576660",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307901864576660"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S7",
+      "type": "forum_post",
+      "label": "#中朝最高领导人握手合影#【此行间·现场画面！#习近平和金正恩种下一株枞树#】习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。枞树四季常绿，象征",
+      "source_refs": [
+        "S7"
+      ],
+      "url": "https://m.weibo.cn/detail/5307897737120186",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307897737120186"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S8",
+      "type": "forum_post",
+      "label": "【#中朝关系必将乘风破浪勇往直前#】当地时间6月8日下午，#习近平同金正恩举行会谈#。在会谈时，习近平同金正恩共话中朝传统友谊，共商中朝关系发展大计。谈及中朝传",
+      "source_refs": [
+        "S8"
+      ],
+      "url": "https://m.weibo.cn/detail/5307882226322214",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307882226322214"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S9",
+      "type": "forum_post",
+      "label": "第一观察·瞬间 | 最隆重礼遇欢迎最尊贵客人网页链接 拾光纪·中朝两党两国最高领导人会谈，有这些关键词网页链接 独家视频丨习近平：时隔七年再次到访美丽的平壤 我",
+      "source_refs": [
+        "S9"
+      ],
+      "url": "https://m.weibo.cn/detail/5307882128016153",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307882128016153"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S10",
+      "type": "forum_post",
+      "label": "习近平总书记署名文章为中朝关系迈向新高度提供指引网页链接",
+      "source_refs": [
+        "S10"
+      ],
+      "url": "https://m.weibo.cn/detail/5307875406906841",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307875406906841"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S11",
+      "type": "forum_post",
+      "label": "【读懂中朝关系“三个不会改变”】#习近平同金正恩在平壤会谈#6月8日至9日，中共中央总书记、国家主席习近平对朝鲜进行国事访问。“习近平总书记同志时隔7年再次访问",
+      "source_refs": [
+        "S11"
+      ],
+      "url": "https://m.weibo.cn/detail/5307843043133774",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307843043133774"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-454f03c968",
+      "type": "risk",
+      "label": "反对",
+      "source_refs": [
+        "S11",
+        "S32"
+      ]
+    },
+    {
+      "id": "source-S12",
+      "type": "forum_post",
+      "label": "中朝关系世代友好，中朝人民幸福安康[比心]",
+      "source_refs": [
+        "S12"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649273441422820131"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "channel-video",
+      "type": "channel",
+      "label": "视频字幕",
+      "source_refs": [
+        "S13",
+        "S14",
+        "S29",
+        "S31"
+      ]
+    },
+    {
+      "id": "source-S13",
+      "type": "video",
+      "label": "习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。枞树四季常绿，象征中朝友谊生生不息。7年前，习近平总书记曾以“参天大树”生动比喻中朝关系。“中朝友谊万古长青”！（来源：人民日报）",
+      "source_refs": [
+        "S13"
+      ],
+      "url": "https://www.douyin.com/video/7649272289929760026",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649272289929760026"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S14",
+      "type": "video",
+      "label": "习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。枞树四季常绿，象征中朝友谊生生不息。7年前，习近平总书记曾以“参天大树”生动比喻中朝关系。“中朝友谊万古长青”！",
+      "source_refs": [
+        "S14"
+      ],
+      "url": "https://www.douyin.com/video/7649270370809302324",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649270370809302324"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S15",
+      "type": "forum_post",
+      "label": "中朝关系山水相连，唇齿相依，友谊长存[握手]",
+      "source_refs": [
+        "S15"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649249507636790073"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S16",
+      "type": "forum_post",
+      "label": "中朝关系是唯一具有军事互助的双边关系",
+      "source_refs": [
+        "S16"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649231643211875121"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S17",
+      "type": "forum_post",
+      "label": "牢不可破的中朝关系！",
+      "source_refs": [
+        "S17"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649180883887702822"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S18",
+      "type": "forum_post",
+      "label": "#推动中朝关系与时俱进# #时隔七年再次到访美丽的平壤#",
+      "source_refs": [
+        "S18"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307654499211198"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S19",
+      "type": "forum_post",
+      "label": "#推动中朝关系与时俱进#【独家视频 | 习近平：#时隔七年再次到访美丽的平壤# 我感到十分高兴 也格外亲切】当地时间6月8日下午，中共中央总书记、国家主席习近平",
+      "source_refs": [
+        "S19"
+      ],
+      "url": "https://m.weibo.cn/detail/5307654278484467",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307654278484467"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S20",
+      "type": "forum_post",
+      "label": "【#习近平同金正恩举行会谈#】当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾馆同朝鲜劳动党总书记、国务委员长金正恩举行会谈。习近平指出，时",
+      "source_refs": [
+        "S20"
+      ],
+      "url": "https://m.weibo.cn/detail/5307651101820068",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307651101820068"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S21",
+      "type": "forum_post",
+      "label": "【#习近平同金正恩举行会谈#】6月8日，中共中央总书记、中国国家主席习近平在访问平壤时同朝鲜劳动党总书记、国务委员长金正恩举行会谈。习近平表示，愿以这次访问为契",
+      "source_refs": [
+        "S21"
+      ],
+      "url": "https://m.weibo.cn/detail/5307621206659198",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307621206659198"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S22",
+      "type": "forum_post",
+      "label": "#习近平强调3个不会改变#【#中朝关系的鲜明特征#】#习近平同金正恩举行会谈# 当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾馆同朝鲜劳动",
+      "source_refs": [
+        "S22"
+      ],
+      "url": "https://m.weibo.cn/detail/5307594860398649",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307594860398649"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S23",
+      "type": "forum_post",
+      "label": "#习近平同金正恩在平壤会谈#【习近平同金正恩举行会谈】#习近平就发展中朝关系提出4点意见#",
+      "source_refs": [
+        "S23"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307591788069819"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S24",
+      "type": "forum_post",
+      "label": "#习近平同金正恩在平壤会谈#【习近平同金正恩举行会谈】#习近平就发展中朝关系提出4点意见# 当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾",
+      "source_refs": [
+        "S24"
+      ],
+      "url": "https://m.weibo.cn/detail/5307591313589852",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307591313589852"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S25",
+      "type": "forum_post",
+      "label": "#外交部回应对朝鲜半岛问题立场#【外交部：中方在半岛问题上的立场和政策保持连续性、稳定性】6月8日，外交部发言人林剑主持例行记者会。法新社记者就中方对朝鲜半岛问",
+      "source_refs": [
+        "S25"
+      ],
+      "url": "https://m.weibo.cn/detail/5307557591125760",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307557591125760"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S26",
+      "type": "forum_post",
+      "label": "【此行间·#从这些瞬间感受中朝友谊#】#朝鲜民众沿途欢迎现场# 在礼宾摩托车队的护卫下，习近平总书记乘车前往金日成广场。沿途民众挥舞着中朝两国国旗，手持五彩缤纷",
+      "source_refs": [
+        "S26"
+      ],
+      "url": "https://m.weibo.cn/detail/5307548397208418",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307548397208418"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S27",
+      "type": "forum_post",
+      "label": "中朝关系同志加兄弟，山水相连，友谊长存[赞][赞]",
+      "source_refs": [
+        "S27"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649031341899760442"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S28",
+      "type": "forum_post",
+      "label": "中朝关系牢不可破，携手并进！！！",
+      "source_refs": [
+        "S28"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649030424697848630"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S29",
+      "type": "video",
+      "label": "当地时间6月8日下午，习近平同金正恩举行会谈。习近平就发展中朝关系提出“四个坚持”，为推动中朝关系与时俱进、得到更大发展提供了重要支撑。#主播说联播",
+      "source_refs": [
+        "S29"
+      ],
+      "url": "https://www.douyin.com/video/7649017828690889984",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649017828690889984"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S30",
+      "type": "forum_post",
+      "label": "#习近平这样阐述发展中朝关系#【金句海报 | 习近平总书记在署名文章中这样阐述发展中朝关系】6月8日，在赴平壤对朝鲜民主主义人民共和国进行国事访问之际，中共中央",
+      "source_refs": [
+        "S30"
+      ],
+      "url": "https://m.weibo.cn/detail/5307493695619113",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307493695619113"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S31",
+      "type": "video",
+      "label": "在礼宾摩托车队的护卫下，习近平总书记乘车前往金日成广场。沿途民众挥舞着中朝两国国旗，手持五彩缤纷的鲜花，高举欢迎标语，热情迎接习近平总书记的到访。期待中朝最高领导人共话中朝传统友谊，共商中朝关系发展大计。",
+      "source_refs": [
+        "S31"
+      ],
+      "url": "https://www.douyin.com/video/7648912921086414120",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7648912921086414120"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S32",
+      "type": "forum_post",
+      "label": "【习近平在朝鲜媒体发表署名文章】6月8日，在赴平壤对朝鲜民主主义人民共和国进行国事访问之际，中共中央总书记、国家主席习近平在朝鲜《劳动新闻》发表题为《继往开来、",
+      "source_refs": [
+        "S32"
+      ],
+      "url": "https://m.weibo.cn/detail/5307418143621737",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307418143621737"
+      },
+      "platform": "微博"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "channel-forum_post",
+      "type": "propagated_via",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S30",
+        "S32"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S1",
+      "type": "contains",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S2",
+      "type": "contains",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S3",
+      "type": "contains",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S4",
+      "type": "contains",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S5",
+      "type": "contains",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S6",
+      "type": "contains",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S7",
+      "type": "contains",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S8",
+      "type": "contains",
+      "source_refs": [
+        "S8"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S9",
+      "type": "contains",
+      "source_refs": [
+        "S9"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S10",
+      "type": "contains",
+      "source_refs": [
+        "S10"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S11",
+      "type": "contains",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "source": "source-S11",
+      "target": "risk-454f03c968",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S12",
+      "type": "contains",
+      "source_refs": [
+        "S12"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-video",
+      "type": "propagated_via",
+      "source_refs": [
+        "S13",
+        "S14",
+        "S29",
+        "S31"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S13",
+      "type": "contains",
+      "source_refs": [
+        "S13"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S14",
+      "type": "contains",
+      "source_refs": [
+        "S14"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S15",
+      "type": "contains",
+      "source_refs": [
+        "S15"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S16",
+      "type": "contains",
+      "source_refs": [
+        "S16"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S17",
+      "type": "contains",
+      "source_refs": [
+        "S17"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S18",
+      "type": "contains",
+      "source_refs": [
+        "S18"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S19",
+      "type": "contains",
+      "source_refs": [
+        "S19"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S20",
+      "type": "contains",
+      "source_refs": [
+        "S20"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S21",
+      "type": "contains",
+      "source_refs": [
+        "S21"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S22",
+      "type": "contains",
+      "source_refs": [
+        "S22"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S23",
+      "type": "contains",
+      "source_refs": [
+        "S23"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S24",
+      "type": "contains",
+      "source_refs": [
+        "S24"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S25",
+      "type": "contains",
+      "source_refs": [
+        "S25"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S26",
+      "type": "contains",
+      "source_refs": [
+        "S26"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S27",
+      "type": "contains",
+      "source_refs": [
+        "S27"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S28",
+      "type": "contains",
+      "source_refs": [
+        "S28"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S29",
+      "type": "contains",
+      "source_refs": [
+        "S29"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S30",
+      "type": "contains",
+      "source_refs": [
+        "S30"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S31",
+      "type": "contains",
+      "source_refs": [
+        "S31"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S32",
+      "type": "contains",
+      "source_refs": [
+        "S32"
+      ]
+    },
+    {
+      "source": "source-S32",
+      "target": "risk-454f03c968",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S32"
+      ]
+    }
+  ]
+}

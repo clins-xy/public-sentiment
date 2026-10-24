@@ -1,0 +1,36 @@
+{
+  "report_id": "20261021-184947-133e6f17",
+  "query": "问界m9起火",
+  "executed_at": "2026-10-21T18:49:47+08:00",
+  "source_types": [
+    "news",
+    "image",
+    "video",
+    "forum_post",
+    "internal_data"
+  ],
+  "source_count": 0,
+  "mode": "database",
+  "warnings": [],
+  "sources": [],
+  "sentiment": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 0
+  },
+  "channels": {},
+  "negative_ratio": 0,
+  "risk_level": "unknown",
+  "method": "可解释词典规则：按不同命中词数比较正负倾向，相同归为中性；非机器学习预测，不能代表总体民意。",
+  "opinions": [],
+  "risks": [],
+  "provenance": {
+    "mode": "database",
+    "database": "media_crawler",
+    "tables": [],
+    "sample_limit": 100
+  },
+  "markdown": "# 问界m9起火 · 舆情分析报告\n\n报告编号：20261021-184947-133e6f17\n执行时间：2026-10-21T18:49:47+08:00\n\n> 来自 media_crawler 数据库的只读检索快照，仅代表本次样本。\n\n## 事件概述\n围绕“问界m9起火”检索 新闻, 图片说明, 视频字幕, 论坛, 内部数据，纳入 0 条证据。\n\n## 时间线\n暂无可核验事件。\n\n## 传播渠道\n| 渠道 | 样本数 |\n| --- | ---: |\n\n## 主要观点\n证据不足。\n\n## 情绪倾向\n正向 0 / 中性 0 / 负向 0。 \n可解释词典规则：按不同命中词数比较正负倾向，相同归为中性；非机器学习预测，不能代表总体民意。\n\n## 风险判断\n规则等级：unknown。负向占比 0.0%。 \n暂无命中风险词的线索；不等于风险不存在。\n\n## 重点证据\n## 结论摘要\n未检索到匹配来源，证据不足，无法判断情绪与风险。建议补充来源或调整关键词后重新分析。\n\n## 方法与局限\n多媒体只检索已提供的文字说明、标题和字幕，不执行 OCR、语音识别或视频理解。关键词按空格/逗号分隔，任意词命中；去重按来源 ID；样本未按阅读量加权。\n",
+  "conclusion": "未检索到匹配来源，证据不足，无法判断情绪与风险。建议补充来源或调整关键词后重新分析。",
+  "graph_path": "graphs/20261021-184947-133e6f17/graph.json"
+}

@@ -1,0 +1,1962 @@
+{
+  "report_id": "20261021-152618-72a85cb3",
+  "query": "nba",
+  "executed_at": "2026-10-21T15:26:18+08:00",
+  "source_types": [
+    "news",
+    "image",
+    "video",
+    "forum_post",
+    "internal_data"
+  ],
+  "source_count": 58,
+  "mode": "database",
+  "warnings": [],
+  "sources": [
+    {
+      "id": "db-c54d7583816a2a1ce239cd58cd3f912b",
+      "source_type": "forum_post",
+      "title": "【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元",
+      "content": "【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元。大O与尤因领衔篮坛传奇亮相看台，甜茶、斯派克·李、本·斯蒂勒悉数到场，体坛与影视大咖同框吸睛。中场Cardi B登台献唱，动感舞台瞬间点燃现场氛围，全场球迷热情高涨。荔枝新闻的微博视频",
+      "url": "https://m.weibo.cn/detail/5307905223164473",
+      "published_at": "2026-06-09T14:31:24+00:00",
+      "author": "荔枝竞技",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307905223164473"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S1",
+      "summary": "【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元。大O与尤因领衔篮坛传奇亮相看台，甜茶、斯派克·李、本·斯蒂勒悉数到场，体坛与影视大咖同框吸睛。中场Cardi B登台献唱，动感舞台瞬间点燃现场氛围，全场球迷热情高涨。荔枝新闻的微博视频"
+    },
+    {
+      "id": "db-bb487e5036d23ce076fffb7b7cd26f54",
+      "source_type": "forum_post",
+      "title": "🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以1",
+      "content": "🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以115-111险胜尼克斯，将系列赛大比分扳为1-2。此役，文班亚马狂砍32分8篮板6助攻3盖帽，不仅带队终结尼克斯主场13连胜，更创下纪录，成为自魔术师约翰逊以来，NBA总决赛历史上最年轻的单场30分先生！ 这场胜利对马刺而言至关重要，此前两战全败的他们在麦迪逊花园打出团队篮球，6人得分上双，卡斯尔关键罚球锁定胜局。而文班亚马的全能表现，更是用攻防两端的统治力证明，他早已不是那个青涩的状元，而是能在总决赛舞台上扛起球队的未来超巨。 #文班创造总决赛纪录 #马刺vs尼克斯",
+      "url": "https://m.weibo.cn/detail/5307904803999092",
+      "published_at": "2026-06-09T14:29:44+00:00",
+      "author": "小李聊球分析",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904803999092"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S2",
+      "summary": "🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以115-111险胜尼克斯，将系列赛大比分扳为1-2。此役，文班亚马狂砍32分8篮板6助攻3盖帽，不仅带队终结尼克斯主场13连胜，更创下纪录，成为自魔术师约翰逊以来，NBA总决赛历史上最年轻的单场30分先生！ 这场胜利对马刺而言至关重要，此前两战全败的他们在麦迪逊花园打出团队篮球，6"
+    },
+    {
+      "id": "db-b15506c740432e419054c1e135f8b5de",
+      "source_type": "forum_post",
+      "title": "#马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第",
+      "content": "#马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第三场在尼克斯主场麦迪逊广场花园打响。客场作战的圣安东尼奥马刺以115-111险胜纽约尼克斯，将系列赛大比分改写为1-2，拒绝被对手拿到赛点 。 比赛回顾：剧情跌宕起伏，末节决胜 - 首节（33-22）：马刺反客为主，打出7-0完美开局，文班亚马内线强攻+外线发威，卡斯尔续上火力，马刺单节净胜11分，建立两位数领先。- 次节（24-42）：尼克斯强势反扑，布伦森与阿努诺比联手轰分，单节狂砍42分、净胜18分，半场反超7分 。- 第三节（35-27）：马刺调整节奏，尚帕尼、福克斯外线开火，文班亚马攻防一体，单节净胜8分，重夺领先优势。- 末节（23-20）：双方陷入胶着，布伦森连续高难度得分续命，阿努诺比三分追至2分；关键时刻卡斯尔命中关键三分，终场前两罚全中锁定胜局，尼克斯最后一攻未果。 核心球员数据 马刺（1-2） - 文班亚马：32分8篮板6助攻2抢断3盖帽，攻防全能，末节统治级表现。- 卡斯尔：23分5篮板5助攻，关键三分+致胜罚球，全场最佳奇兵。- 哈珀：13分9篮板4助攻；福克斯：12分8助攻；尚帕尼：12分；瓦塞尔：11分，六人得分上双。 尼克斯（2-1） - 布伦森：32分5篮板5助攻，全场最高分，末节独砍12分难救主。- 阿努诺比：28分5篮板；哈特：16分9篮板5助攻；唐斯：11分8篮板。 赛后要点 1. 马刺终结尼克斯季后赛13连胜（NBA季后赛历史第二长），避免0-3落后（NBA历史无球队能逆转此绝境） 。2. 文班亚马生涯总决赛首胜，32分追平个人季后赛得分纪录，攻防两端压制对手内线 。3. 总决赛G4将于6月11日继续在尼克斯主场进行，马刺有望乘势追平大比分。",
+      "url": "https://m.weibo.cn/detail/5307904173540879",
+      "published_at": "2026-06-09T14:27:14+00:00",
+      "author": "绿茵小只",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904173540879"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S3",
+      "summary": "#马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第三场在尼克斯主场麦迪逊广场花园打响。客场作战的圣安东尼奥马刺以115-111险胜纽约尼克斯，将系列赛大比分改写为1-2，拒绝被对手拿到赛点 。 比赛回顾：剧情跌宕起伏，末节决胜 - 首节（33-22）：马刺反客为主，打出7-0完美开局，文班亚马内线强攻+外线发威，卡斯尔续上火力，"
+    },
+    {
+      "id": "db-219c797b624551644290dc1ae955af23",
+      "source_type": "forum_post",
+      "title": "特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频",
+      "content": "特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频",
+      "url": "https://m.weibo.cn/detail/5307904136840805",
+      "published_at": "2026-06-09T14:27:05+00:00",
+      "author": "小何同學Anny",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904136840805"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S4",
+      "summary": "特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频"
+    },
+    {
+      "id": "db-724ca79d9d48553fb0b9f83de8d4826e",
+      "source_type": "forum_post",
+      "title": "NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常",
+      "content": "NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常",
+      "url": "",
+      "published_at": "2026-06-09T14:26:20+00:00",
+      "author": "厉害了加快速度",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307903949145668"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S5",
+      "summary": "NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常"
+    },
+    {
+      "id": "db-e352df8569079a0037e868bd2097cb2d",
+      "source_type": "forum_post",
+      "title": "🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚",
+      "content": "🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚帕尼命中三分后落地踩到布伦森脚部，裁判经过录像回看后，将普通犯规升级为一级恶意犯规。这个判罚瞬间引发现场巨大争议，麦迪逊广场花园嘘声四起。不少尼克斯球迷认为，布伦森当时已经提前站定位置，防守动作并不存在明显恶意，升级恶犯的尺度过于严厉。与此同时，上半场文班亚马一次身体对抗动作却未被追加处罚，也让外界对判罚标准是否统一产生质疑。虽然联盟近年来对于侵占落地空间的危险动作始终保持高压态势，但这次吹罚依旧成为赛后讨论焦点。随着总决赛竞争愈发激烈，关于裁判尺度的争论恐怕还将持续发酵。#布伦森一级恶意犯规##NBA总决赛#",
+      "url": "https://m.weibo.cn/detail/5307903856608208",
+      "published_at": "2026-06-09T14:25:58+00:00",
+      "author": "皮球画个C",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307903856608208"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S6",
+      "summary": "🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚帕尼命中三分后落地踩到布伦森脚部，裁判经过录像回看后，将普通犯规升级为一级恶意犯规。这个判罚瞬间引发现场巨大争议，麦迪逊广场花园嘘声四起。不少尼克斯球迷认为，布伦森当时已经提前站定位置，防守动作并不存在明显恶意，升级恶犯的尺度过于严厉。与此同时，上半场文班亚马一次身体对抗动作却未"
+    },
+    {
+      "id": "db-17128306dcd0179b14f2243aabb3f360",
+      "source_type": "forum_post",
+      "title": "nba裁判真tm cba",
+      "content": "nba裁判真tm cba",
+      "url": "",
+      "published_at": "2026-06-09T13:43:04+00:00",
+      "author": "闲溜ingshawnChan",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307893058637306"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S7",
+      "summary": "nba裁判真tm cba"
+    },
+    {
+      "id": "db-c823d6345543d3573a1aaa23c5bb6bf4",
+      "source_type": "forum_post",
+      "title": "“11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情",
+      "content": "“11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情",
+      "url": "",
+      "published_at": "2026-06-09T13:42:08+00:00",
+      "author": "民以殷盛_国以富强",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307892829782389"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S8",
+      "summary": "“11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情"
+    },
+    {
+      "id": "db-3ce2470355e496308596bb24c845a723",
+      "source_type": "forum_post",
+      "title": "【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一",
+      "content": "【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一名警察抓住一名尼克斯队球迷的衣领，将他的头部砸向一旁柱子。现场其他球迷对警察发出嘘声，目前纽约警方并未对此作出回应。（海客新闻） #马刺1比2尼克斯# 新浪热点的微博视频",
+      "url": "https://m.weibo.cn/detail/5307891777015235",
+      "published_at": "2026-06-09T13:37:58+00:00",
+      "author": "新浪热点",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307891777015235"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S9",
+      "summary": "【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一名警察抓住一名尼克斯队球迷的衣领，将他的头部砸向一旁柱子。现场其他球迷对警察发出嘘声，目前纽约警方并未对此作出回应。（海客新闻） #马刺1比2尼克斯# 新浪热点的微博视频"
+    },
+    {
+      "id": "db-4adb72ef1b8f96016a683900388a9fd3",
+      "source_type": "forum_post",
+      "title": "这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了#",
+      "content": "这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了#",
+      "url": "",
+      "published_at": "2026-06-09T12:59:43+00:00",
+      "author": "鲔鲔鲔",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307882149250817"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S10",
+      "summary": "这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了#"
+    },
+    {
+      "id": "db-e1c0220463351f6d334faab434b7d8cb",
+      "source_type": "forum_post",
+      "title": "？？？？#nba总决赛#",
+      "content": "？？？？#nba总决赛#",
+      "url": "https://m.weibo.cn/detail/5307878765760204",
+      "published_at": "2026-06-09T12:46:16+00:00",
+      "author": "霍嫂说",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307878765760204"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S11",
+      "summary": "？？？？#nba总决赛#"
+    },
+    {
+      "id": "db-447488fd21ca3e78a952743a51807016",
+      "source_type": "forum_post",
+      "title": "😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38",
+      "content": "😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38分钟，投篮18中11，三分球4中2，罚球9中8，得到32分8篮板6助攻2抢断3盖帽。美媒分享视频：太疯狂了，尼克斯球迷赛后撕烂文班球迷身穿的文班球衣#NBA总决赛##马刺vs尼克斯##马刺1比2尼克斯# Love马刺的微博视频",
+      "url": "https://m.weibo.cn/detail/5307877694898949",
+      "published_at": "2026-06-09T12:42:01+00:00",
+      "author": "Love马刺",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307877694898949"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S12",
+      "summary": "😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38分钟，投篮18中11，三分球4中2，罚球9中8，得到32分8篮板6助攻2抢断3盖帽。美媒分享视频：太疯狂了，尼克斯球迷赛后撕烂文班球迷身穿的文班球衣#NBA总决赛##马刺vs尼克斯##马刺1比2尼克斯# Love马刺的微博视频"
+    },
+    {
+      "id": "db-65b5c52a76aff3be9f2022bfd8e852aa",
+      "source_type": "forum_post",
+      "title": "🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场#",
+      "content": "🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场#",
+      "url": "https://m.weibo.cn/detail/5307876048375321",
+      "published_at": "2026-06-09T12:35:28+00:00",
+      "author": "包容万物恒河水",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307876048375321"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S13",
+      "summary": "🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场#"
+    },
+    {
+      "id": "db-0e60cb3fd9fd3a3bea77f56325a824bc",
+      "source_type": "forum_post",
+      "title": "【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1",
+      "content": "【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1，落地时踩到布伦森脚轻微扭伤，裁判吹罚布伦森一级恶意犯规。#马刺1比2尼克斯#隆多的战术板的微博视频",
+      "url": "https://m.weibo.cn/detail/5307875515958965",
+      "published_at": "2026-06-09T12:33:21+00:00",
+      "author": "新浪新闻",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307875515958965"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S14",
+      "summary": "【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1，落地时踩到布伦森脚轻微扭伤，裁判吹罚布伦森一级恶意犯规。#马刺1比2尼克斯#隆多的战术板的微博视频"
+    },
+    {
+      "id": "db-c8a938e7a950ec1014e1b0fb0551ea23",
+      "source_type": "forum_post",
+      "title": "一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地",
+      "content": "一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地##特朗普##特朗普观战nba总决赛#",
+      "url": "https://m.weibo.cn/detail/5307868599550696",
+      "published_at": "2026-06-09T12:05:52+00:00",
+      "author": "wanshi童鞋2",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307868599550696"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S15",
+      "summary": "一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地##特朗普##特朗普观战nba总决赛#"
+    },
+    {
+      "id": "db-67f2570c06a386cdf0c8531e2c893e02",
+      "source_type": "forum_post",
+      "title": "NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频",
+      "content": "NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频",
+      "url": "https://m.weibo.cn/detail/5307868035154909",
+      "published_at": "2026-06-09T12:03:38+00:00",
+      "author": "雷霆中文网",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307868035154909"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S16",
+      "summary": "NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频"
+    },
+    {
+      "id": "db-c97c6d28a4141bae4a83b64e57feca23",
+      "source_type": "forum_post",
+      "title": "尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯",
+      "content": "尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯都有关键球！太好看了！#马刺vs尼克斯##NBA总决赛##特朗普观战NBA总决赛# 篮球大历史的微博视频",
+      "url": "https://m.weibo.cn/detail/5307865498913861",
+      "published_at": "2026-06-09T11:53:33+00:00",
+      "author": "篮球大历史",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307865498913861"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S17",
+      "summary": "尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯都有关键球！太好看了！#马刺vs尼克斯##NBA总决赛##特朗普观战NBA总决赛# 篮球大历史的微博视频"
+    },
+    {
+      "id": "db-a6e37805de5ae4e1c7cf526c45b708b0",
+      "source_type": "forum_post",
+      "title": "拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛#",
+      "content": "拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛#",
+      "url": "https://m.weibo.cn/detail/5307859938314511",
+      "published_at": "2026-06-09T11:31:27+00:00",
+      "author": "圣安东尼奥马刺",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307859938314511"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S18",
+      "summary": "拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛#"
+    },
+    {
+      "id": "db-07bcd37d64208bd1acaa2e0879db7361",
+      "source_type": "forum_post",
+      "title": "裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛#",
+      "content": "裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛#",
+      "url": "https://m.weibo.cn/detail/5307851427545153",
+      "published_at": "2026-06-09T10:57:37+00:00",
+      "author": "霍嫂说",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307851427545153"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S19",
+      "summary": "裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛#"
+    },
+    {
+      "id": "db-d33a6dcef4fa0047c92b1337c65cf8a1",
+      "source_type": "forum_post",
+      "title": "#特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频",
+      "content": "#特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频",
+      "url": "https://m.weibo.cn/detail/5307832052221985",
+      "published_at": "2026-06-09T09:40:39+00:00",
+      "author": "后厂村体工队",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307832052221985"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S20",
+      "summary": "#特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频"
+    },
+    {
+      "id": "db-91a31982e1d8d2f27f102f4c0e1baf64",
+      "source_type": "forum_post",
+      "title": "杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频",
+      "content": "杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频",
+      "url": "https://m.weibo.cn/detail/5307828657195389",
+      "published_at": "2026-06-09T09:27:09+00:00",
+      "author": "演曼巴",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307828657195389"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S21",
+      "summary": "杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频"
+    },
+    {
+      "id": "db-d7527fca3bd31002589c99cbf9697dda",
+      "source_type": "forum_post",
+      "title": "这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频",
+      "content": "这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频",
+      "url": "https://m.weibo.cn/detail/5307823665709657",
+      "published_at": "2026-06-09T09:07:19+00:00",
+      "author": "隆多的战术板",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307823665709657"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S22",
+      "summary": "这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频"
+    },
+    {
+      "id": "db-25787316c9d3a4ad544bf39278cd0318",
+      "source_type": "forum_post",
+      "title": "不是说詹姆斯退役了，没有人看NBA了吗",
+      "content": "不是说詹姆斯退役了，没有人看NBA了吗",
+      "url": "",
+      "published_at": "2026-06-09T06:13:45+00:00",
+      "author": "Wink",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649275008149947170"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S23",
+      "summary": "不是说詹姆斯退役了，没有人看NBA了吗"
+    },
+    {
+      "id": "db-205d8dfa98765391553bed6d09f0b47b",
+      "source_type": "forum_post",
+      "title": "看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗",
+      "content": "看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗普执政时期没有任何一支NBA总冠军球队被请进白宫！[微笑]",
+      "url": "",
+      "published_at": "2026-06-09T06:06:41+00:00",
+      "author": "AROMA",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649273185967866687"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S24",
+      "summary": "看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗普执政时期没有任何一支NBA总冠军球队被请进白宫！[微笑]"
+    },
+    {
+      "id": "db-48208d316adaa1a9fa4c362bcfb2fcc4",
+      "source_type": "forum_post",
+      "title": "你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。",
+      "content": "你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。",
+      "url": "",
+      "published_at": "2026-06-09T06:01:49+00:00",
+      "author": "陨石是谁的",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649271933598925574"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S25",
+      "summary": "你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。"
+    },
+    {
+      "id": "db-5be4e9d1a78b656d41d5dc99933f7676",
+      "source_type": "forum_post",
+      "title": "NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。",
+      "content": "NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。",
+      "url": "",
+      "published_at": "2026-06-09T05:34:28+00:00",
+      "author": "刘植生",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649264884605584155"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S26",
+      "summary": "NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。"
+    },
+    {
+      "id": "db-724efbe44bb8ada6fe6043e93b641199",
+      "source_type": "forum_post",
+      "title": "马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔]",
+      "content": "马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔]",
+      "url": "",
+      "published_at": "2026-06-09T05:28:01+00:00",
+      "author": "一键MV君",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649263225732940559"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S27",
+      "summary": "马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔]"
+    },
+    {
+      "id": "db-b7c8720ec1468209148c534b64093bf6",
+      "source_type": "forum_post",
+      "title": "一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊",
+      "content": "一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊",
+      "url": "",
+      "published_at": "2026-06-09T05:18:45+00:00",
+      "author": "White",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649260835566699316"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S28",
+      "summary": "一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊"
+    },
+    {
+      "id": "db-d96b3c11324f5f25f7516eca7797385a",
+      "source_type": "forum_post",
+      "title": "当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。\n调研期间，特朗普专程",
+      "content": "当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。\n调研期间，特朗普专程前往麦迪逊花园广场，与广大市民群众一同观看NBA总决赛。他强调，尼克斯队要持续打好经济强市争冠攻坚战，以自身正带动联赛强。\n尼克斯老板詹姆斯·多兰等陪同。",
+      "url": "",
+      "published_at": "2026-06-09T05:17:03+00:00",
+      "author": "廉署",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649260400055698233"
+      },
+      "sentiment": "positive",
+      "matched_words": {
+        "positive": [
+          "安全"
+        ],
+        "negative": []
+      },
+      "reference": "S29",
+      "summary": "当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。\n调研期间，特朗普专程前往麦迪逊花园广场，与广大市民群众一同观看NBA总决赛。他强调，尼克斯队要持续打好经济强市争冠攻坚战，以自身正带动联赛强。\n尼克斯老板詹姆斯·多兰等陪同。"
+    },
+    {
+      "id": "db-798be72a479d14a74bbbb7f5a638e9b6",
+      "source_type": "video",
+      "title": "球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯",
+      "content": "球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯",
+      "url": "https://www.douyin.com/video/7649249124981673225",
+      "published_at": "2026-06-09T04:33:21+00:00",
+      "author": "老冯看篮球",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649249124981673225"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S30",
+      "summary": "球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯"
+    },
+    {
+      "id": "db-38cc6df6092d0d475dbde1d022492c65",
+      "source_type": "video",
+      "title": "NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城",
+      "content": "NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城",
+      "url": "https://www.douyin.com/video/7649249105156621669",
+      "published_at": "2026-06-09T04:33:13+00:00",
+      "author": "篮球电台",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649249105156621669"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S31",
+      "summary": "NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城"
+    },
+    {
+      "id": "db-df5d02b2601a0994e15fe3d571f607cb",
+      "source_type": "video",
+      "title": "大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛",
+      "content": "大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛",
+      "url": "https://www.douyin.com/video/7649248750364773119",
+      "published_at": "2026-06-09T04:31:52+00:00",
+      "author": "小杨哥解说篮球🏀",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649248750364773119"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S32",
+      "summary": "大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛"
+    },
+    {
+      "id": "db-2c35c389b0ecb76715956cb54dd22d87",
+      "source_type": "video",
+      "title": "NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛",
+      "content": "NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛",
+      "url": "https://www.douyin.com/video/7649246683263665657",
+      "published_at": "2026-06-09T04:23:49+00:00",
+      "author": "老杨说球",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649246683263665657"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S33",
+      "summary": "NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛"
+    },
+    {
+      "id": "db-93982adcc42f4305bb24fae1435ebc1c",
+      "source_type": "video",
+      "title": "#热门 总决赛G3 马刺战胜尼克斯扳回一城\n文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯",
+      "content": "#热门 总决赛G3 马刺战胜尼克斯扳回一城\n文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯",
+      "url": "https://www.douyin.com/video/7649246548655687545",
+      "published_at": "2026-06-09T04:23:17+00:00",
+      "author": "高先生（体育赛事）",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649246548655687545"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S34",
+      "summary": "#热门 总决赛G3 马刺战胜尼克斯扳回一城\n文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯"
+    },
+    {
+      "id": "db-f425f14c141b0e4ee700614e4d61e5bc",
+      "source_type": "video",
+      "title": "布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛",
+      "content": "布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛",
+      "url": "https://www.douyin.com/video/7649246032487796003",
+      "published_at": "2026-06-09T04:21:22+00:00",
+      "author": "ESPN",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649246032487796003"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S35",
+      "summary": "布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛"
+    },
+    {
+      "id": "db-12d408c6faf061b012b0266927eabf63",
+      "source_type": "video",
+      "title": "NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森",
+      "content": "NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森",
+      "url": "https://www.douyin.com/video/7649243773357395877",
+      "published_at": "2026-06-09T04:12:32+00:00",
+      "author": "杨侃汇",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649243773357395877"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S36",
+      "summary": "NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森"
+    },
+    {
+      "id": "db-82200fc878d8029763acae17bb280176",
+      "source_type": "video",
+      "title": "文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛",
+      "content": "文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛",
+      "url": "https://www.douyin.com/video/7649243549485707185",
+      "published_at": "2026-06-09T04:11:39+00:00",
+      "author": "雨说体育",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649243549485707185"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S37",
+      "summary": "文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛"
+    },
+    {
+      "id": "db-8016273e8dbe2df3cb68e608f06104db",
+      "source_type": "video",
+      "title": "文班亚马怒砍32分带队拿下G3！#文班亚马\n#马刺vs尼克斯#NBA",
+      "content": "文班亚马怒砍32分带队拿下G3！#文班亚马\n#马刺vs尼克斯#NBA",
+      "url": "https://www.douyin.com/video/7649238721431601000",
+      "published_at": "2026-06-09T03:52:55+00:00",
+      "author": "凯有点库🏀",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649238721431601000"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S38",
+      "summary": "文班亚马怒砍32分带队拿下G3！#文班亚马\n#马刺vs尼克斯#NBA"
+    },
+    {
+      "id": "db-68f439cf9084134a16fefbeebba23f02",
+      "source_type": "forum_post",
+      "title": "这nba还是硬啊，特朗普来了黑哨也不改一点儿的",
+      "content": "这nba还是硬啊，特朗普来了黑哨也不改一点儿的",
+      "url": "",
+      "published_at": "2026-06-09T03:46:19+00:00",
+      "author": "小吕小吕lhy",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649237016014504755"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S39",
+      "summary": "这nba还是硬啊，特朗普来了黑哨也不改一点儿的"
+    },
+    {
+      "id": "db-46fd0edffffce448667810cfbcf54f71",
+      "source_type": "video",
+      "title": "文班双历史纪录！马刺G3击败尼克斯追分 \n#2026NBA总决赛 #文班亚马 #马刺 #卡斯尔",
+      "content": "文班双历史纪录！马刺G3击败尼克斯追分 \n#2026NBA总决赛 #文班亚马 #马刺 #卡斯尔",
+      "url": "https://www.douyin.com/video/7649235695286029686",
+      "published_at": "2026-06-09T03:41:11+00:00",
+      "author": "篮球梦想家",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649235695286029686"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S40",
+      "summary": "文班双历史纪录！马刺G3击败尼克斯追分 \n#2026NBA总决赛 #文班亚马 #马刺 #卡斯尔"
+    },
+    {
+      "id": "db-8264050e4f3a88c4e9caa6f117f86637",
+      "source_type": "video",
+      "title": "文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛",
+      "content": "文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛",
+      "url": "https://www.douyin.com/video/7649230936475629222",
+      "published_at": "2026-06-09T03:22:43+00:00",
+      "author": "热点篮球",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649230936475629222"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S41",
+      "summary": "文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛"
+    },
+    {
+      "id": "db-73f8e99ab56229962e3d2b802b794aaa",
+      "source_type": "video",
+      "title": "【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯",
+      "content": "【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯",
+      "url": "https://www.douyin.com/video/7649223996080180495",
+      "published_at": "2026-06-09T02:55:51+00:00",
+      "author": "NBA",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649223996080180495"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S42",
+      "summary": "【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯"
+    },
+    {
+      "id": "db-db4659a89d9a11ae3ee94714d21710a8",
+      "source_type": "video",
+      "title": "NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马",
+      "content": "NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马",
+      "url": "https://www.douyin.com/video/7649223127595750885",
+      "published_at": "2026-06-09T02:52:25+00:00",
+      "author": "篮球大爆料",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649223127595750885"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S43",
+      "summary": "NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马"
+    },
+    {
+      "id": "db-e93853d74cd9b6c7e5f56ccd463c13c3",
+      "source_type": "video",
+      "title": "NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森",
+      "content": "NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森",
+      "url": "https://www.douyin.com/video/7649222252429723578",
+      "published_at": "2026-06-09T02:49:01+00:00",
+      "author": "狐说NBA",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649222252429723578"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S44",
+      "summary": "NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森"
+    },
+    {
+      "id": "db-d9d38fa1d9590e87950aa1c6629968fb",
+      "source_type": "video",
+      "title": "当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑…",
+      "content": "当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑…",
+      "url": "https://www.douyin.com/video/7649220978156883234",
+      "published_at": "2026-06-09T02:44:10+00:00",
+      "author": "纵览新闻",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649220978156883234"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S45",
+      "summary": "当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑…"
+    },
+    {
+      "id": "db-c64ccc5360dadd14fb423e9b084eec9f",
+      "source_type": "video",
+      "title": "川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺",
+      "content": "川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺",
+      "url": "https://www.douyin.com/video/7649218637123143929",
+      "published_at": "2026-06-09T02:34:59+00:00",
+      "author": "大史爱老詹🏀",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649218637123143929"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S46",
+      "summary": "川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺"
+    },
+    {
+      "id": "db-0103631fda3cdda0d26454ef12e23114",
+      "source_type": "video",
+      "title": "马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马",
+      "content": "马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马",
+      "url": "https://www.douyin.com/video/7649215190025866395",
+      "published_at": "2026-06-09T02:21:37+00:00",
+      "author": "热点篮球",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649215190025866395"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S47",
+      "summary": "马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马"
+    },
+    {
+      "id": "db-4e85f5f1dd87d1fd78a8994d44dcb99a",
+      "source_type": "video",
+      "title": "NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯",
+      "content": "NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯",
+      "url": "https://www.douyin.com/video/7649210695082391540",
+      "published_at": "2026-06-09T02:04:10+00:00",
+      "author": "篮球电台",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649210695082391540"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S48",
+      "summary": "NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯"
+    },
+    {
+      "id": "db-8b1ffd98d4351db41eecf2a6266e3dc4",
+      "source_type": "video",
+      "title": "#NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯",
+      "content": "#NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯",
+      "url": "https://www.douyin.com/video/7649210031275052294",
+      "published_at": "2026-06-09T02:01:42+00:00",
+      "author": "杨毅",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649210031275052294"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S49",
+      "summary": "#NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯"
+    },
+    {
+      "id": "db-e21c76d8120b52b45ef36a807d4ea281",
+      "source_type": "video",
+      "title": "文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森",
+      "content": "文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森",
+      "url": "https://www.douyin.com/video/7649202373369952154",
+      "published_at": "2026-06-09T01:31:53+00:00",
+      "author": "28号球员",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649202373369952154"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S50",
+      "summary": "文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森"
+    },
+    {
+      "id": "db-a5e612cf8e9e1a8b1e6d85c9168a5b72",
+      "source_type": "video",
+      "title": "特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应",
+      "content": "特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应",
+      "url": "https://www.douyin.com/video/7649199528641367332",
+      "published_at": "2026-06-09T01:20:57+00:00",
+      "author": "青蜂侠",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649199528641367332"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S51",
+      "summary": "特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应"
+    },
+    {
+      "id": "db-89b90542799cea9ee466f7096e3b3d2b",
+      "source_type": "video",
+      "title": "总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛",
+      "content": "总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛",
+      "url": "https://www.douyin.com/video/7649055452219430515",
+      "published_at": "2026-06-08T16:01:45+00:00",
+      "author": "懂球弟🏀",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649055452219430515"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S52",
+      "summary": "总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛"
+    },
+    {
+      "id": "db-029dbec474974657c318c86b1c3b0a94",
+      "source_type": "forum_post",
+      "title": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "content": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "url": "",
+      "published_at": "2026-05-25T15:22:26+00:00",
+      "author": "七宝宝公寓",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5302482246830365"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S53",
+      "summary": "#iQOOxNBA高校篮球赛# #iQOO15T#"
+    },
+    {
+      "id": "db-29779766420904dc538520810df9d1f6",
+      "source_type": "forum_post",
+      "title": "#iQOOxNBA高校篮球赛# 官方#iQOO15T#",
+      "content": "#iQOOxNBA高校篮球赛# 官方#iQOO15T#",
+      "url": "",
+      "published_at": "2026-05-22T08:18:16+00:00",
+      "author": "xlm零度",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5301288339769892"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S54",
+      "summary": "#iQOOxNBA高校篮球赛# 官方#iQOO15T#"
+    },
+    {
+      "id": "db-2baf5e5869220812c7c9b24521e5a98f",
+      "source_type": "forum_post",
+      "title": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "content": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "url": "",
+      "published_at": "2026-05-22T03:38:58+00:00",
+      "author": "用户5518483064",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5301218050310936"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S55",
+      "summary": "#iQOOxNBA高校篮球赛# #iQOO15T#"
+    },
+    {
+      "id": "db-7419dcc1d8a9bd76272dd735d3f78fd4",
+      "source_type": "forum_post",
+      "title": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "content": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "url": "",
+      "published_at": "2026-05-22T00:20:44+00:00",
+      "author": "火星夜晚之声",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5301168163262145"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S56",
+      "summary": "#iQOOxNBA高校篮球赛# #iQOO15T#"
+    },
+    {
+      "id": "db-0768e523b95741a0958ba07265cd0f0e",
+      "source_type": "forum_post",
+      "title": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "content": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "url": "",
+      "published_at": "2026-05-21T17:26:43+00:00",
+      "author": "妖风小姐姐闺蜜",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5301063978844990"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S57",
+      "summary": "#iQOOxNBA高校篮球赛# #iQOO15T#"
+    },
+    {
+      "id": "db-2fac0a0b8815c6a439d888bcc246637e",
+      "source_type": "forum_post",
+      "title": "第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！",
+      "content": "第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！",
+      "url": "https://m.weibo.cn/detail/5301049700123229",
+      "published_at": "2026-05-21T16:30:00+00:00",
+      "author": "iQOO手机",
+      "demo": false,
+      "origin": "database",
+      "platform": "微博",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5301049700123229"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S58",
+      "summary": "第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！"
+    }
+  ],
+  "sentiment": {
+    "positive": 1,
+    "neutral": 57,
+    "negative": 0
+  },
+  "channels": {
+    "forum_post": 36,
+    "video": 22
+  },
+  "negative_ratio": 0.0,
+  "risk_level": "low",
+  "method": "可解释词典规则：按不同命中词数比较正负倾向，相同归为中性；非机器学习预测，不能代表总体民意。",
+  "opinions": [
+    {
+      "source_type": "forum_post",
+      "author": "荔枝竞技",
+      "text": "【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元。大O与尤因领衔篮坛传奇亮相看台，甜茶、斯派克·李、本·斯蒂勒悉数到场，体坛与影视大咖同框吸睛。中场Cardi B登台献唱，动感舞台瞬间点燃现场氛围，全场球迷热情高涨。荔枝新闻的微博视频",
+      "references": [
+        "S1"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "小李聊球分析",
+      "text": "🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以115-111险胜尼克斯，将系列赛大比分扳为1-2。此役，文班亚马狂砍32分8篮板6助攻3盖帽，不仅带队终结尼克斯主场13连胜，更创下纪录，成为自魔术师约翰逊以来，NBA总决赛历史上最年轻的单场30分先生！ 这场胜利对马刺而言至关重要，此前两战全败的他们在麦迪逊花园打出团队篮球，6",
+      "references": [
+        "S2"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "绿茵小只",
+      "text": "#马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第三场在尼克斯主场麦迪逊广场花园打响。客场作战的圣安东尼奥马刺以115-111险胜纽约尼克斯，将系列赛大比分改写为1-2，拒绝被对手拿到赛点 。 比赛回顾：剧情跌宕起伏，末节决胜 - 首节（33-22）：马刺反客为主，打出7-0完美开局，文班亚马内线强攻+外线发威，卡斯尔续上火力，",
+      "references": [
+        "S3"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "小何同學Anny",
+      "text": "特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频",
+      "references": [
+        "S4"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "厉害了加快速度",
+      "text": "NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常",
+      "references": [
+        "S5"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "皮球画个C",
+      "text": "🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚帕尼命中三分后落地踩到布伦森脚部，裁判经过录像回看后，将普通犯规升级为一级恶意犯规。这个判罚瞬间引发现场巨大争议，麦迪逊广场花园嘘声四起。不少尼克斯球迷认为，布伦森当时已经提前站定位置，防守动作并不存在明显恶意，升级恶犯的尺度过于严厉。与此同时，上半场文班亚马一次身体对抗动作却未",
+      "references": [
+        "S6"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "闲溜ingshawnChan",
+      "text": "nba裁判真tm cba",
+      "references": [
+        "S7"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "民以殷盛_国以富强",
+      "text": "“11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情",
+      "references": [
+        "S8"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "新浪热点",
+      "text": "【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一名警察抓住一名尼克斯队球迷的衣领，将他的头部砸向一旁柱子。现场其他球迷对警察发出嘘声，目前纽约警方并未对此作出回应。（海客新闻） #马刺1比2尼克斯# 新浪热点的微博视频",
+      "references": [
+        "S9"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "鲔鲔鲔",
+      "text": "这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了#",
+      "references": [
+        "S10"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "霍嫂说",
+      "text": "？？？？#nba总决赛#",
+      "references": [
+        "S11"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "Love马刺",
+      "text": "😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38分钟，投篮18中11，三分球4中2，罚球9中8，得到32分8篮板6助攻2抢断3盖帽。美媒分享视频：太疯狂了，尼克斯球迷赛后撕烂文班球迷身穿的文班球衣#NBA总决赛##马刺vs尼克斯##马刺1比2尼克斯# Love马刺的微博视频",
+      "references": [
+        "S12"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "包容万物恒河水",
+      "text": "🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场#",
+      "references": [
+        "S13"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "新浪新闻",
+      "text": "【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1，落地时踩到布伦森脚轻微扭伤，裁判吹罚布伦森一级恶意犯规。#马刺1比2尼克斯#隆多的战术板的微博视频",
+      "references": [
+        "S14"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "wanshi童鞋2",
+      "text": "一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地##特朗普##特朗普观战nba总决赛#",
+      "references": [
+        "S15"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "雷霆中文网",
+      "text": "NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频",
+      "references": [
+        "S16"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "篮球大历史",
+      "text": "尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯都有关键球！太好看了！#马刺vs尼克斯##NBA总决赛##特朗普观战NBA总决赛# 篮球大历史的微博视频",
+      "references": [
+        "S17"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "圣安东尼奥马刺",
+      "text": "拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛#",
+      "references": [
+        "S18"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "霍嫂说",
+      "text": "裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛#",
+      "references": [
+        "S19"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "后厂村体工队",
+      "text": "#特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频",
+      "references": [
+        "S20"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "演曼巴",
+      "text": "杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频",
+      "references": [
+        "S21"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "隆多的战术板",
+      "text": "这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频",
+      "references": [
+        "S22"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "Wink",
+      "text": "不是说詹姆斯退役了，没有人看NBA了吗",
+      "references": [
+        "S23"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "AROMA",
+      "text": "看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗普执政时期没有任何一支NBA总冠军球队被请进白宫！[微笑]",
+      "references": [
+        "S24"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "陨石是谁的",
+      "text": "你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。",
+      "references": [
+        "S25"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "刘植生",
+      "text": "NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。",
+      "references": [
+        "S26"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "一键MV君",
+      "text": "马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔]",
+      "references": [
+        "S27"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "White",
+      "text": "一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊",
+      "references": [
+        "S28"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "廉署",
+      "text": "当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。\n调研期间，特朗普专程前往麦迪逊花园广场，与广大市民群众一同观看NBA总决赛。他强调，尼克斯队要持续打好经济强市争冠攻坚战，以自身正带动联赛强。\n尼克斯老板詹姆斯·多兰等陪同。",
+      "references": [
+        "S29"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "老冯看篮球",
+      "text": "球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯",
+      "references": [
+        "S30"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "篮球电台",
+      "text": "NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城",
+      "references": [
+        "S31"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "小杨哥解说篮球🏀",
+      "text": "大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛",
+      "references": [
+        "S32"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "老杨说球",
+      "text": "NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛",
+      "references": [
+        "S33"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "高先生（体育赛事）",
+      "text": "#热门 总决赛G3 马刺战胜尼克斯扳回一城\n文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯",
+      "references": [
+        "S34"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "ESPN",
+      "text": "布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛",
+      "references": [
+        "S35"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "杨侃汇",
+      "text": "NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森",
+      "references": [
+        "S36"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "雨说体育",
+      "text": "文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛",
+      "references": [
+        "S37"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "凯有点库🏀",
+      "text": "文班亚马怒砍32分带队拿下G3！#文班亚马\n#马刺vs尼克斯#NBA",
+      "references": [
+        "S38"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "小吕小吕lhy",
+      "text": "这nba还是硬啊，特朗普来了黑哨也不改一点儿的",
+      "references": [
+        "S39"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "篮球梦想家",
+      "text": "文班双历史纪录！马刺G3击败尼克斯追分 \n#2026NBA总决赛 #文班亚马 #马刺 #卡斯尔",
+      "references": [
+        "S40"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "热点篮球",
+      "text": "文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛",
+      "references": [
+        "S41"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "NBA",
+      "text": "【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯",
+      "references": [
+        "S42"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "篮球大爆料",
+      "text": "NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马",
+      "references": [
+        "S43"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "狐说NBA",
+      "text": "NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森",
+      "references": [
+        "S44"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "纵览新闻",
+      "text": "当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑…",
+      "references": [
+        "S45"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "大史爱老詹🏀",
+      "text": "川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺",
+      "references": [
+        "S46"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "热点篮球",
+      "text": "马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马",
+      "references": [
+        "S47"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "篮球电台",
+      "text": "NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯",
+      "references": [
+        "S48"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "杨毅",
+      "text": "#NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯",
+      "references": [
+        "S49"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "28号球员",
+      "text": "文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森",
+      "references": [
+        "S50"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "青蜂侠",
+      "text": "特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应",
+      "references": [
+        "S51"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "懂球弟🏀",
+      "text": "总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛",
+      "references": [
+        "S52"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "七宝宝公寓",
+      "text": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "references": [
+        "S53"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "xlm零度",
+      "text": "#iQOOxNBA高校篮球赛# 官方#iQOO15T#",
+      "references": [
+        "S54"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "用户5518483064",
+      "text": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "references": [
+        "S55"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "火星夜晚之声",
+      "text": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "references": [
+        "S56"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "妖风小姐姐闺蜜",
+      "text": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "references": [
+        "S57"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "iQOO手机",
+      "text": "第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！",
+      "references": [
+        "S58"
+      ]
+    }
+  ],
+  "risks": [],
+  "provenance": {
+    "mode": "database",
+    "database": "media_crawler",
+    "tables": [
+      "douyin_aweme",
+      "douyin_aweme_comment",
+      "weibo_note",
+      "weibo_note_comment"
+    ],
+    "sample_limit": 100
+  },
+  "markdown": "# nba · 舆情分析报告\n\n报告编号：20261021-152618-72a85cb3\n执行时间：2026-10-21T15:26:18+08:00\n\n> 来自 media_crawler 数据库的只读检索快照，仅代表本次样本。\n\n## 事件概述\n围绕“nba”检索 新闻, 图片说明, 视频字幕, 论坛, 内部数据，纳入 58 条证据。\n\n## 时间线\n- 2026-05-21T16:30:00+00:00 · 第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！ [S58]\n- 2026-05-21T17:26:43+00:00 · #iQOOxNBA高校篮球赛# #iQOO15T# [S57]\n- 2026-05-22T00:20:44+00:00 · #iQOOxNBA高校篮球赛# #iQOO15T# [S56]\n- 2026-05-22T03:38:58+00:00 · #iQOOxNBA高校篮球赛# #iQOO15T# [S55]\n- 2026-05-22T08:18:16+00:00 · #iQOOxNBA高校篮球赛# 官方#iQOO15T# [S54]\n- 2026-05-25T15:22:26+00:00 · #iQOOxNBA高校篮球赛# #iQOO15T# [S53]\n- 2026-06-08T16:01:45+00:00 · 总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛 [S52]\n- 2026-06-09T01:20:57+00:00 · 特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应 [S51]\n- 2026-06-09T01:31:53+00:00 · 文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森 [S50]\n- 2026-06-09T02:01:42+00:00 · #NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯 [S49]\n- 2026-06-09T02:04:10+00:00 · NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯 [S48]\n- 2026-06-09T02:21:37+00:00 · 马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马 [S47]\n- 2026-06-09T02:34:59+00:00 · 川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺 [S46]\n- 2026-06-09T02:44:10+00:00 · 当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑… [S45]\n- 2026-06-09T02:49:01+00:00 · NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森 [S44]\n- 2026-06-09T02:52:25+00:00 · NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马 [S43]\n- 2026-06-09T02:55:51+00:00 · 【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯 [S42]\n- 2026-06-09T03:22:43+00:00 · 文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛 [S41]\n- 2026-06-09T03:41:11+00:00 · 文班双历史纪录！马刺G3击败尼克斯追分  #2026NBA总决赛 #文班亚马 #马刺 #卡斯尔 [S40]\n- 2026-06-09T03:46:19+00:00 · 这nba还是硬啊，特朗普来了黑哨也不改一点儿的 [S39]\n- 2026-06-09T03:52:55+00:00 · 文班亚马怒砍32分带队拿下G3！#文班亚马 #马刺vs尼克斯#NBA [S38]\n- 2026-06-09T04:11:39+00:00 · 文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛 [S37]\n- 2026-06-09T04:12:32+00:00 · NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森 [S36]\n- 2026-06-09T04:21:22+00:00 · 布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛 [S35]\n- 2026-06-09T04:23:17+00:00 · #热门 总决赛G3 马刺战胜尼克斯扳回一城 文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯 [S34]\n- 2026-06-09T04:23:49+00:00 · NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛 [S33]\n- 2026-06-09T04:31:52+00:00 · 大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛 [S32]\n- 2026-06-09T04:33:13+00:00 · NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城 [S31]\n- 2026-06-09T04:33:21+00:00 · 球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯 [S30]\n- 2026-06-09T05:17:03+00:00 · 当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。 调研期间，特朗普专程 [S29]\n- 2026-06-09T05:18:45+00:00 · 一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊 [S28]\n- 2026-06-09T05:28:01+00:00 · 马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔] [S27]\n- 2026-06-09T05:34:28+00:00 · NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。 [S26]\n- 2026-06-09T06:01:49+00:00 · 你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。 [S25]\n- 2026-06-09T06:06:41+00:00 · 看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗 [S24]\n- 2026-06-09T06:13:45+00:00 · 不是说詹姆斯退役了，没有人看NBA了吗 [S23]\n- 2026-06-09T09:07:19+00:00 · 这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频 [S22]\n- 2026-06-09T09:27:09+00:00 · 杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频 [S21]\n- 2026-06-09T09:40:39+00:00 · #特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频 [S20]\n- 2026-06-09T10:57:37+00:00 · 裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛# [S19]\n- 2026-06-09T11:31:27+00:00 · 拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛# [S18]\n- 2026-06-09T11:53:33+00:00 · 尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯 [S17]\n- 2026-06-09T12:03:38+00:00 · NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频 [S16]\n- 2026-06-09T12:05:52+00:00 · 一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地 [S15]\n- 2026-06-09T12:33:21+00:00 · 【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1 [S14]\n- 2026-06-09T12:35:28+00:00 · 🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场# [S13]\n- 2026-06-09T12:42:01+00:00 · 😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38 [S12]\n- 2026-06-09T12:46:16+00:00 · ？？？？#nba总决赛# [S11]\n- 2026-06-09T12:59:43+00:00 · 这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了# [S10]\n- 2026-06-09T13:37:58+00:00 · 【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一 [S9]\n- 2026-06-09T13:42:08+00:00 · “11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情 [S8]\n- 2026-06-09T13:43:04+00:00 · nba裁判真tm cba [S7]\n- 2026-06-09T14:25:58+00:00 · 🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚 [S6]\n- 2026-06-09T14:26:20+00:00 · NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常 [S5]\n- 2026-06-09T14:27:05+00:00 · 特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频 [S4]\n- 2026-06-09T14:27:14+00:00 · #马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第 [S3]\n- 2026-06-09T14:29:44+00:00 · 🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以1 [S2]\n- 2026-06-09T14:31:24+00:00 · 【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元 [S1]\n\n## 传播渠道\n| 渠道 | 样本数 |\n| --- | ---: |\n| 论坛 | 36 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29] [S39] [S53] [S54] [S55] [S56] [S57] [S58] |\n| 视频字幕 | 22 [S30] [S31] [S32] [S33] [S34] [S35] [S36] [S37] [S38] [S40] [S41] [S42] [S43] [S44] [S45] [S46] [S47] [S48] [S49] [S50] [S51] [S52] |\n\n## 主要观点\n- 荔枝竞技：【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元。大O与尤因领衔篮坛传奇亮相看台，甜茶、斯派克·李、本·斯蒂勒悉数到场，体坛与影视大咖同框吸睛。中场Cardi B登台献唱，动感舞台瞬间点燃现场氛围，全场球迷热情高涨。荔枝新闻的微博视频 [S1]\n- 小李聊球分析：🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以115-111险胜尼克斯，将系列赛大比分扳为1-2。此役，文班亚马狂砍32分8篮板6助攻3盖帽，不仅带队终结尼克斯主场13连胜，更创下纪录，成为自魔术师约翰逊以来，NBA总决赛历史上最年轻的单场30分先生！ 这场胜利对马刺而言至关重要，此前两战全败的他们在麦迪逊花园打出团队篮球，6 [S2]\n- 绿茵小只：#马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第三场在尼克斯主场麦迪逊广场花园打响。客场作战的圣安东尼奥马刺以115-111险胜纽约尼克斯，将系列赛大比分改写为1-2，拒绝被对手拿到赛点 。 比赛回顾：剧情跌宕起伏，末节决胜 - 首节（33-22）：马刺反客为主，打出7-0完美开局，文班亚马内线强攻+外线发威，卡斯尔续上火力， [S3]\n- 小何同學Anny：特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频 [S4]\n- 厉害了加快速度：NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常 [S5]\n- 皮球画个C：🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚帕尼命中三分后落地踩到布伦森脚部，裁判经过录像回看后，将普通犯规升级为一级恶意犯规。这个判罚瞬间引发现场巨大争议，麦迪逊广场花园嘘声四起。不少尼克斯球迷认为，布伦森当时已经提前站定位置，防守动作并不存在明显恶意，升级恶犯的尺度过于严厉。与此同时，上半场文班亚马一次身体对抗动作却未 [S6]\n- 闲溜ingshawnChan：nba裁判真tm cba [S7]\n- 民以殷盛_国以富强：“11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情 [S8]\n- 新浪热点：【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一名警察抓住一名尼克斯队球迷的衣领，将他的头部砸向一旁柱子。现场其他球迷对警察发出嘘声，目前纽约警方并未对此作出回应。（海客新闻） #马刺1比2尼克斯# 新浪热点的微博视频 [S9]\n- 鲔鲔鲔：这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了# [S10]\n- 霍嫂说：？？？？#nba总决赛# [S11]\n- Love马刺：😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38分钟，投篮18中11，三分球4中2，罚球9中8，得到32分8篮板6助攻2抢断3盖帽。美媒分享视频：太疯狂了，尼克斯球迷赛后撕烂文班球迷身穿的文班球衣#NBA总决赛##马刺vs尼克斯##马刺1比2尼克斯# Love马刺的微博视频 [S12]\n- 包容万物恒河水：🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场# [S13]\n- 新浪新闻：【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1，落地时踩到布伦森脚轻微扭伤，裁判吹罚布伦森一级恶意犯规。#马刺1比2尼克斯#隆多的战术板的微博视频 [S14]\n- wanshi童鞋2：一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地##特朗普##特朗普观战nba总决赛# [S15]\n- 雷霆中文网：NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频 [S16]\n- 篮球大历史：尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯都有关键球！太好看了！#马刺vs尼克斯##NBA总决赛##特朗普观战NBA总决赛# 篮球大历史的微博视频 [S17]\n- 圣安东尼奥马刺：拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛# [S18]\n- 霍嫂说：裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛# [S19]\n- 后厂村体工队：#特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频 [S20]\n- 演曼巴：杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频 [S21]\n- 隆多的战术板：这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频 [S22]\n- Wink：不是说詹姆斯退役了，没有人看NBA了吗 [S23]\n- AROMA：看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗普执政时期没有任何一支NBA总冠军球队被请进白宫！[微笑] [S24]\n- 陨石是谁的：你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。 [S25]\n- 刘植生：NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。 [S26]\n- 一键MV君：马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔] [S27]\n- White：一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊 [S28]\n- 廉署：当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。 调研期间，特朗普专程前往麦迪逊花园广场，与广大市民群众一同观看NBA总决赛。他强调，尼克斯队要持续打好经济强市争冠攻坚战，以自身正带动联赛强。 尼克斯老板詹姆斯·多兰等陪同。 [S29]\n- 老冯看篮球：球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯 [S30]\n- 篮球电台：NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城 [S31]\n- 小杨哥解说篮球🏀：大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛 [S32]\n- 老杨说球：NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛 [S33]\n- 高先生（体育赛事）：#热门 总决赛G3 马刺战胜尼克斯扳回一城 文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯 [S34]\n- ESPN：布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛 [S35]\n- 杨侃汇：NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森 [S36]\n- 雨说体育：文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛 [S37]\n- 凯有点库🏀：文班亚马怒砍32分带队拿下G3！#文班亚马 #马刺vs尼克斯#NBA [S38]\n- 小吕小吕lhy：这nba还是硬啊，特朗普来了黑哨也不改一点儿的 [S39]\n- 篮球梦想家：文班双历史纪录！马刺G3击败尼克斯追分  #2026NBA总决赛 #文班亚马 #马刺 #卡斯尔 [S40]\n- 热点篮球：文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛 [S41]\n- NBA：【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯 [S42]\n- 篮球大爆料：NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马 [S43]\n- 狐说NBA：NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森 [S44]\n- 纵览新闻：当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑… [S45]\n- 大史爱老詹🏀：川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺 [S46]\n- 热点篮球：马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马 [S47]\n- 篮球电台：NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯 [S48]\n- 杨毅：#NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯 [S49]\n- 28号球员：文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森 [S50]\n- 青蜂侠：特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应 [S51]\n- 懂球弟🏀：总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛 [S52]\n- 七宝宝公寓：#iQOOxNBA高校篮球赛# #iQOO15T# [S53]\n- xlm零度：#iQOOxNBA高校篮球赛# 官方#iQOO15T# [S54]\n- 用户5518483064：#iQOOxNBA高校篮球赛# #iQOO15T# [S55]\n- 火星夜晚之声：#iQOOxNBA高校篮球赛# #iQOO15T# [S56]\n- 妖风小姐姐闺蜜：#iQOOxNBA高校篮球赛# #iQOO15T# [S57]\n- iQOO手机：第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！ [S58]\n\n## 情绪倾向\n正向 1 / 中性 57 / 负向 0。 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29] [S30] [S31] [S32] [S33] [S34] [S35] [S36] [S37] [S38] [S39] [S40] [S41] [S42] [S43] [S44] [S45] [S46] [S47] [S48] [S49] [S50] [S51] [S52] [S53] [S54] [S55] [S56] [S57] [S58]\n可解释词典规则：按不同命中词数比较正负倾向，相同归为中性；非机器学习预测，不能代表总体民意。\n\n## 风险判断\n规则等级：low。负向占比 0.0%。 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29] [S30] [S31] [S32] [S33] [S34] [S35] [S36] [S37] [S38] [S39] [S40] [S41] [S42] [S43] [S44] [S45] [S46] [S47] [S48] [S49] [S50] [S51] [S52] [S53] [S54] [S55] [S56] [S57] [S58]\n暂无命中风险词的线索；不等于风险不存在。\n\n## 重点证据\n### [S1] 【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元\n- 来源：论坛 / 荔枝竞技\n- 链接：https://m.weibo.cn/detail/5307905223164473\n- 摘要：【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元。大O与尤因领衔篮坛传奇亮相看台，甜茶、斯派克·李、本·斯蒂勒悉数到场，体坛与影视大咖同框吸睛。中场Cardi B登台献唱，动感舞台瞬间点燃现场氛围，全场球迷热情高涨。荔枝新闻的微博视频\n- 图谱引用：source-S1\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307905223164473\n- 平台：微博\n\n### [S2] 🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以1\n- 来源：论坛 / 小李聊球分析\n- 链接：https://m.weibo.cn/detail/5307904803999092\n- 摘要：🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以115-111险胜尼克斯，将系列赛大比分扳为1-2。此役，文班亚马狂砍32分8篮板6助攻3盖帽，不仅带队终结尼克斯主场13连胜，更创下纪录，成为自魔术师约翰逊以来，NBA总决赛历史上最年轻的单场30分先生！ 这场胜利对马刺而言至关重要，此前两战全败的他们在麦迪逊花园打出团队篮球，6\n- 图谱引用：source-S2\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307904803999092\n- 平台：微博\n\n### [S3] #马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第\n- 来源：论坛 / 绿茵小只\n- 链接：https://m.weibo.cn/detail/5307904173540879\n- 摘要：#马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第三场在尼克斯主场麦迪逊广场花园打响。客场作战的圣安东尼奥马刺以115-111险胜纽约尼克斯，将系列赛大比分改写为1-2，拒绝被对手拿到赛点 。 比赛回顾：剧情跌宕起伏，末节决胜 - 首节（33-22）：马刺反客为主，打出7-0完美开局，文班亚马内线强攻+外线发威，卡斯尔续上火力，\n- 图谱引用：source-S3\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307904173540879\n- 平台：微博\n\n### [S4] 特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频\n- 来源：论坛 / 小何同學Anny\n- 链接：https://m.weibo.cn/detail/5307904136840805\n- 摘要：特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频\n- 图谱引用：source-S4\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307904136840805\n- 平台：微博\n\n### [S5] NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常\n- 来源：论坛 / 厉害了加快速度\n- 链接：内部数据（无公开链接）\n- 摘要：NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常\n- 图谱引用：source-S5\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5307903949145668\n- 平台：微博评论\n\n### [S6] 🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚\n- 来源：论坛 / 皮球画个C\n- 链接：https://m.weibo.cn/detail/5307903856608208\n- 摘要：🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚帕尼命中三分后落地踩到布伦森脚部，裁判经过录像回看后，将普通犯规升级为一级恶意犯规。这个判罚瞬间引发现场巨大争议，麦迪逊广场花园嘘声四起。不少尼克斯球迷认为，布伦森当时已经提前站定位置，防守动作并不存在明显恶意，升级恶犯的尺度过于严厉。与此同时，上半场文班亚马一次身体对抗动作却未\n- 图谱引用：source-S6\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307903856608208\n- 平台：微博\n\n### [S7] nba裁判真tm cba\n- 来源：论坛 / 闲溜ingshawnChan\n- 链接：内部数据（无公开链接）\n- 摘要：nba裁判真tm cba\n- 图谱引用：source-S7\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5307893058637306\n- 平台：微博评论\n\n### [S8] “11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情\n- 来源：论坛 / 民以殷盛_国以富强\n- 链接：内部数据（无公开链接）\n- 摘要：“11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情\n- 图谱引用：source-S8\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5307892829782389\n- 平台：微博评论\n\n### [S9] 【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一\n- 来源：论坛 / 新浪热点\n- 链接：https://m.weibo.cn/detail/5307891777015235\n- 摘要：【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一名警察抓住一名尼克斯队球迷的衣领，将他的头部砸向一旁柱子。现场其他球迷对警察发出嘘声，目前纽约警方并未对此作出回应。（海客新闻） #马刺1比2尼克斯# 新浪热点的微博视频\n- 图谱引用：source-S9\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307891777015235\n- 平台：微博\n\n### [S10] 这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了#\n- 来源：论坛 / 鲔鲔鲔\n- 链接：内部数据（无公开链接）\n- 摘要：这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了#\n- 图谱引用：source-S10\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5307882149250817\n- 平台：微博评论\n\n### [S11] ？？？？#nba总决赛#\n- 来源：论坛 / 霍嫂说\n- 链接：https://m.weibo.cn/detail/5307878765760204\n- 摘要：？？？？#nba总决赛#\n- 图谱引用：source-S11\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307878765760204\n- 平台：微博\n\n### [S12] 😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38\n- 来源：论坛 / Love马刺\n- 链接：https://m.weibo.cn/detail/5307877694898949\n- 摘要：😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38分钟，投篮18中11，三分球4中2，罚球9中8，得到32分8篮板6助攻2抢断3盖帽。美媒分享视频：太疯狂了，尼克斯球迷赛后撕烂文班球迷身穿的文班球衣#NBA总决赛##马刺vs尼克斯##马刺1比2尼克斯# Love马刺的微博视频\n- 图谱引用：source-S12\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307877694898949\n- 平台：微博\n\n### [S13] 🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场#\n- 来源：论坛 / 包容万物恒河水\n- 链接：https://m.weibo.cn/detail/5307876048375321\n- 摘要：🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场#\n- 图谱引用：source-S13\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307876048375321\n- 平台：微博\n\n### [S14] 【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1\n- 来源：论坛 / 新浪新闻\n- 链接：https://m.weibo.cn/detail/5307875515958965\n- 摘要：【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1，落地时踩到布伦森脚轻微扭伤，裁判吹罚布伦森一级恶意犯规。#马刺1比2尼克斯#隆多的战术板的微博视频\n- 图谱引用：source-S14\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307875515958965\n- 平台：微博\n\n### [S15] 一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地\n- 来源：论坛 / wanshi童鞋2\n- 链接：https://m.weibo.cn/detail/5307868599550696\n- 摘要：一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地##特朗普##特朗普观战nba总决赛#\n- 图谱引用：source-S15\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307868599550696\n- 平台：微博\n\n### [S16] NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频\n- 来源：论坛 / 雷霆中文网\n- 链接：https://m.weibo.cn/detail/5307868035154909\n- 摘要：NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频\n- 图谱引用：source-S16\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307868035154909\n- 平台：微博\n\n### [S17] 尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯\n- 来源：论坛 / 篮球大历史\n- 链接：https://m.weibo.cn/detail/5307865498913861\n- 摘要：尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯都有关键球！太好看了！#马刺vs尼克斯##NBA总决赛##特朗普观战NBA总决赛# 篮球大历史的微博视频\n- 图谱引用：source-S17\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307865498913861\n- 平台：微博\n\n### [S18] 拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛#\n- 来源：论坛 / 圣安东尼奥马刺\n- 链接：https://m.weibo.cn/detail/5307859938314511\n- 摘要：拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛#\n- 图谱引用：source-S18\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307859938314511\n- 平台：微博\n\n### [S19] 裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛#\n- 来源：论坛 / 霍嫂说\n- 链接：https://m.weibo.cn/detail/5307851427545153\n- 摘要：裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛#\n- 图谱引用：source-S19\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307851427545153\n- 平台：微博\n\n### [S20] #特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频\n- 来源：论坛 / 后厂村体工队\n- 链接：https://m.weibo.cn/detail/5307832052221985\n- 摘要：#特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频\n- 图谱引用：source-S20\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307832052221985\n- 平台：微博\n\n### [S21] 杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频\n- 来源：论坛 / 演曼巴\n- 链接：https://m.weibo.cn/detail/5307828657195389\n- 摘要：杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频\n- 图谱引用：source-S21\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307828657195389\n- 平台：微博\n\n### [S22] 这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频\n- 来源：论坛 / 隆多的战术板\n- 链接：https://m.weibo.cn/detail/5307823665709657\n- 摘要：这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频\n- 图谱引用：source-S22\n\n- 数据溯源：media_crawler.weibo_note / note_id=5307823665709657\n- 平台：微博\n\n### [S23] 不是说詹姆斯退役了，没有人看NBA了吗\n- 来源：论坛 / Wink\n- 链接：内部数据（无公开链接）\n- 摘要：不是说詹姆斯退役了，没有人看NBA了吗\n- 图谱引用：source-S23\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7649275008149947170\n- 平台：抖音评论\n\n### [S24] 看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗\n- 来源：论坛 / AROMA\n- 链接：内部数据（无公开链接）\n- 摘要：看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗普执政时期没有任何一支NBA总冠军球队被请进白宫！[微笑]\n- 图谱引用：source-S24\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7649273185967866687\n- 平台：抖音评论\n\n### [S25] 你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。\n- 来源：论坛 / 陨石是谁的\n- 链接：内部数据（无公开链接）\n- 摘要：你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。\n- 图谱引用：source-S25\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7649271933598925574\n- 平台：抖音评论\n\n### [S26] NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。\n- 来源：论坛 / 刘植生\n- 链接：内部数据（无公开链接）\n- 摘要：NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。\n- 图谱引用：source-S26\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7649264884605584155\n- 平台：抖音评论\n\n### [S27] 马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔]\n- 来源：论坛 / 一键MV君\n- 链接：内部数据（无公开链接）\n- 摘要：马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔]\n- 图谱引用：source-S27\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7649263225732940559\n- 平台：抖音评论\n\n### [S28] 一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊\n- 来源：论坛 / White\n- 链接：内部数据（无公开链接）\n- 摘要：一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊\n- 图谱引用：source-S28\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7649260835566699316\n- 平台：抖音评论\n\n### [S29] 当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。 调研期间，特朗普专程\n- 来源：论坛 / 廉署\n- 链接：内部数据（无公开链接）\n- 摘要：当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。 调研期间，特朗普专程前往麦迪逊花园广场，与广大市民群众一同观看NBA总决赛。他强调，尼克斯队要持续打好经济强市争冠攻坚战，以自身正带动联赛强。 尼克斯老板詹姆斯·多兰等陪同。\n- 图谱引用：source-S29\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7649260400055698233\n- 平台：抖音评论\n\n### [S30] 球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯\n- 来源：视频字幕 / 老冯看篮球\n- 链接：https://www.douyin.com/video/7649249124981673225\n- 摘要：球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯\n- 图谱引用：source-S30\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649249124981673225\n- 平台：抖音\n\n### [S31] NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城\n- 来源：视频字幕 / 篮球电台\n- 链接：https://www.douyin.com/video/7649249105156621669\n- 摘要：NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城\n- 图谱引用：source-S31\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649249105156621669\n- 平台：抖音\n\n### [S32] 大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛\n- 来源：视频字幕 / 小杨哥解说篮球🏀\n- 链接：https://www.douyin.com/video/7649248750364773119\n- 摘要：大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛\n- 图谱引用：source-S32\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649248750364773119\n- 平台：抖音\n\n### [S33] NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛\n- 来源：视频字幕 / 老杨说球\n- 链接：https://www.douyin.com/video/7649246683263665657\n- 摘要：NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛\n- 图谱引用：source-S33\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649246683263665657\n- 平台：抖音\n\n### [S34] #热门 总决赛G3 马刺战胜尼克斯扳回一城 文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯\n- 来源：视频字幕 / 高先生（体育赛事）\n- 链接：https://www.douyin.com/video/7649246548655687545\n- 摘要：#热门 总决赛G3 马刺战胜尼克斯扳回一城 文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯\n- 图谱引用：source-S34\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649246548655687545\n- 平台：抖音\n\n### [S35] 布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛\n- 来源：视频字幕 / ESPN\n- 链接：https://www.douyin.com/video/7649246032487796003\n- 摘要：布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛\n- 图谱引用：source-S35\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649246032487796003\n- 平台：抖音\n\n### [S36] NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森\n- 来源：视频字幕 / 杨侃汇\n- 链接：https://www.douyin.com/video/7649243773357395877\n- 摘要：NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森\n- 图谱引用：source-S36\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649243773357395877\n- 平台：抖音\n\n### [S37] 文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛\n- 来源：视频字幕 / 雨说体育\n- 链接：https://www.douyin.com/video/7649243549485707185\n- 摘要：文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛\n- 图谱引用：source-S37\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649243549485707185\n- 平台：抖音\n\n### [S38] 文班亚马怒砍32分带队拿下G3！#文班亚马 #马刺vs尼克斯#NBA\n- 来源：视频字幕 / 凯有点库🏀\n- 链接：https://www.douyin.com/video/7649238721431601000\n- 摘要：文班亚马怒砍32分带队拿下G3！#文班亚马 #马刺vs尼克斯#NBA\n- 图谱引用：source-S38\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649238721431601000\n- 平台：抖音\n\n### [S39] 这nba还是硬啊，特朗普来了黑哨也不改一点儿的\n- 来源：论坛 / 小吕小吕lhy\n- 链接：内部数据（无公开链接）\n- 摘要：这nba还是硬啊，特朗普来了黑哨也不改一点儿的\n- 图谱引用：source-S39\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7649237016014504755\n- 平台：抖音评论\n\n### [S40] 文班双历史纪录！马刺G3击败尼克斯追分  #2026NBA总决赛 #文班亚马 #马刺 #卡斯尔\n- 来源：视频字幕 / 篮球梦想家\n- 链接：https://www.douyin.com/video/7649235695286029686\n- 摘要：文班双历史纪录！马刺G3击败尼克斯追分  #2026NBA总决赛 #文班亚马 #马刺 #卡斯尔\n- 图谱引用：source-S40\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649235695286029686\n- 平台：抖音\n\n### [S41] 文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛\n- 来源：视频字幕 / 热点篮球\n- 链接：https://www.douyin.com/video/7649230936475629222\n- 摘要：文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛\n- 图谱引用：source-S41\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649230936475629222\n- 平台：抖音\n\n### [S42] 【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯\n- 来源：视频字幕 / NBA\n- 链接：https://www.douyin.com/video/7649223996080180495\n- 摘要：【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯\n- 图谱引用：source-S42\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649223996080180495\n- 平台：抖音\n\n### [S43] NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马\n- 来源：视频字幕 / 篮球大爆料\n- 链接：https://www.douyin.com/video/7649223127595750885\n- 摘要：NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马\n- 图谱引用：source-S43\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649223127595750885\n- 平台：抖音\n\n### [S44] NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森\n- 来源：视频字幕 / 狐说NBA\n- 链接：https://www.douyin.com/video/7649222252429723578\n- 摘要：NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森\n- 图谱引用：source-S44\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649222252429723578\n- 平台：抖音\n\n### [S45] 当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑…\n- 来源：视频字幕 / 纵览新闻\n- 链接：https://www.douyin.com/video/7649220978156883234\n- 摘要：当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑…\n- 图谱引用：source-S45\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649220978156883234\n- 平台：抖音\n\n### [S46] 川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺\n- 来源：视频字幕 / 大史爱老詹🏀\n- 链接：https://www.douyin.com/video/7649218637123143929\n- 摘要：川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺\n- 图谱引用：source-S46\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649218637123143929\n- 平台：抖音\n\n### [S47] 马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马\n- 来源：视频字幕 / 热点篮球\n- 链接：https://www.douyin.com/video/7649215190025866395\n- 摘要：马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马\n- 图谱引用：source-S47\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649215190025866395\n- 平台：抖音\n\n### [S48] NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯\n- 来源：视频字幕 / 篮球电台\n- 链接：https://www.douyin.com/video/7649210695082391540\n- 摘要：NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯\n- 图谱引用：source-S48\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649210695082391540\n- 平台：抖音\n\n### [S49] #NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯\n- 来源：视频字幕 / 杨毅\n- 链接：https://www.douyin.com/video/7649210031275052294\n- 摘要：#NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯\n- 图谱引用：source-S49\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649210031275052294\n- 平台：抖音\n\n### [S50] 文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森\n- 来源：视频字幕 / 28号球员\n- 链接：https://www.douyin.com/video/7649202373369952154\n- 摘要：文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森\n- 图谱引用：source-S50\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649202373369952154\n- 平台：抖音\n\n### [S51] 特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应\n- 来源：视频字幕 / 青蜂侠\n- 链接：https://www.douyin.com/video/7649199528641367332\n- 摘要：特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应\n- 图谱引用：source-S51\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649199528641367332\n- 平台：抖音\n\n### [S52] 总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛\n- 来源：视频字幕 / 懂球弟🏀\n- 链接：https://www.douyin.com/video/7649055452219430515\n- 摘要：总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛\n- 图谱引用：source-S52\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7649055452219430515\n- 平台：抖音\n\n### [S53] #iQOOxNBA高校篮球赛# #iQOO15T#\n- 来源：论坛 / 七宝宝公寓\n- 链接：内部数据（无公开链接）\n- 摘要：#iQOOxNBA高校篮球赛# #iQOO15T#\n- 图谱引用：source-S53\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5302482246830365\n- 平台：微博评论\n\n### [S54] #iQOOxNBA高校篮球赛# 官方#iQOO15T#\n- 来源：论坛 / xlm零度\n- 链接：内部数据（无公开链接）\n- 摘要：#iQOOxNBA高校篮球赛# 官方#iQOO15T#\n- 图谱引用：source-S54\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5301288339769892\n- 平台：微博评论\n\n### [S55] #iQOOxNBA高校篮球赛# #iQOO15T#\n- 来源：论坛 / 用户5518483064\n- 链接：内部数据（无公开链接）\n- 摘要：#iQOOxNBA高校篮球赛# #iQOO15T#\n- 图谱引用：source-S55\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5301218050310936\n- 平台：微博评论\n\n### [S56] #iQOOxNBA高校篮球赛# #iQOO15T#\n- 来源：论坛 / 火星夜晚之声\n- 链接：内部数据（无公开链接）\n- 摘要：#iQOOxNBA高校篮球赛# #iQOO15T#\n- 图谱引用：source-S56\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5301168163262145\n- 平台：微博评论\n\n### [S57] #iQOOxNBA高校篮球赛# #iQOO15T#\n- 来源：论坛 / 妖风小姐姐闺蜜\n- 链接：内部数据（无公开链接）\n- 摘要：#iQOOxNBA高校篮球赛# #iQOO15T#\n- 图谱引用：source-S57\n\n- 数据溯源：media_crawler.weibo_note_comment / comment_id=5301063978844990\n- 平台：微博评论\n\n### [S58] 第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！\n- 来源：论坛 / iQOO手机\n- 链接：https://m.weibo.cn/detail/5301049700123229\n- 摘要：第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！\n- 图谱引用：source-S58\n\n- 数据溯源：media_crawler.weibo_note / note_id=5301049700123229\n- 平台：微博\n\n## 结论摘要\n本次样本共 58 条，正向 1 条、中性 57 条、负向 0 条；规则风险等级为 low。建议核验负向线索、持续跟踪来源变化，不将样本比例外推至总体。 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29] [S30] [S31] [S32] [S33] [S34] [S35] [S36] [S37] [S38] [S39] [S40] [S41] [S42] [S43] [S44] [S45] [S46] [S47] [S48] [S49] [S50] [S51] [S52] [S53] [S54] [S55] [S56] [S57] [S58]\n\n## 方法与局限\n多媒体只检索已提供的文字说明、标题和字幕，不执行 OCR、语音识别或视频理解。关键词按空格/逗号分隔，任意词命中；去重按来源 ID；样本未按阅读量加权。\n",
+  "conclusion": "本次样本共 58 条，正向 1 条、中性 57 条、负向 0 条；规则风险等级为 low。建议核验负向线索、持续跟踪来源变化，不将样本比例外推至总体。 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29] [S30] [S31] [S32] [S33] [S34] [S35] [S36] [S37] [S38] [S39] [S40] [S41] [S42] [S43] [S44] [S45] [S46] [S47] [S48] [S49] [S50] [S51] [S52] [S53] [S54] [S55] [S56] [S57] [S58]",
+  "graph_path": "graphs/20261021-152618-72a85cb3/graph.json"
+}

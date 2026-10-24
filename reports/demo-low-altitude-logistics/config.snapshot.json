@@ -1,0 +1,44 @@
+{
+  "system": {
+    "name": "观潮 · 舆情分析平台",
+    "auto_start": false,
+    "max_results": 100,
+    "request_timeout": 15
+  },
+  "collection": {
+    "mode": "demo",
+    "rss_feeds": [],
+    "internal_file": "examples/sources.json",
+    "forum_interval": 15
+  },
+  "analysis": {
+    "positive_words": [
+      "支持",
+      "便利",
+      "改善",
+      "安全",
+      "满意",
+      "利好",
+      "优化",
+      "提升"
+    ],
+    "negative_words": [
+      "担忧",
+      "投诉",
+      "事故",
+      "风险",
+      "故障",
+      "泄露",
+      "反对",
+      "损失"
+    ],
+    "risk_threshold": 0.4
+  },
+  "apps": {
+    "search": true,
+    "multimedia": true,
+    "insight": true,
+    "report": true,
+    "graph": true
+  }
+}

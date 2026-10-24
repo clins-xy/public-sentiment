@@ -1,0 +1,58 @@
+{
+  "report_id": "20261021-152626-c440ebf2",
+  "query": "你好",
+  "created_at": "2026-10-21T15:26:26+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "你好",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "id": "channel-forum_post",
+      "type": "channel",
+      "label": "论坛",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "id": "source-S1",
+      "type": "forum_post",
+      "label": "你好 请问有无答案版的题目嘛 想自己做一下（下一届的）",
+      "source_refs": [
+        "S1"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307681071432064"
+      },
+      "platform": "微博评论"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "channel-forum_post",
+      "type": "propagated_via",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S1",
+      "type": "contains",
+      "source_refs": [
+        "S1"
+      ]
+    }
+  ]
+}

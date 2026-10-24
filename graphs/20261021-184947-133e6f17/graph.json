@@ -1,0 +1,14 @@
+{
+  "report_id": "20261021-184947-133e6f17",
+  "query": "问界m9起火",
+  "created_at": "2026-10-21T18:49:47+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "问界m9起火",
+      "source_refs": []
+    }
+  ],
+  "edges": []
+}

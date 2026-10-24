@@ -1,0 +1,33 @@
+{
+  "database": {
+    "tables": [
+      {
+        "table": "xhs_note",
+        "platform": "小红书",
+        "source_type": "forum_post",
+        "time_unit": "ms",
+        "fields": {
+          "id": "note_id",
+          "title": "title",
+          "content": "desc",
+          "url": "note_url",
+          "author": "nickname",
+          "published_at": "time"
+        }
+      },
+      {
+        "table": "douyin_aweme",
+        "platform": "抖音",
+        "source_type": "video",
+        "time_unit": "s",
+        "fields": {
+          "id": "aweme_id",
+          "content": "desc",
+          "url": "aweme_url",
+          "author": "nickname",
+          "published_at": "create_time"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+database-schema.local.json
+runtime/
+outputs/
+training/
+*.egg-info/
+dist/

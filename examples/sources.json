@@ -1,0 +1,10 @@
+[
+  {"id":"demo-news-01","source_type":"news","title":"城市低空物流试点启动，配送时效得到提升","url":"https://example.com/demo/news/pilot","published_at":"2026-10-16T09:00:00+08:00","content":"城市低空物流进入试点阶段。公开说明提出以医疗物资和园区配送为主，支持提升运输效率，试点设置安全隔离区。","author":"示例城市日报","demo":true},
+  {"id":"demo-news-02","source_type":"news","title":"低空物流试点公布监管与噪声评估安排","url":"https://example.com/demo/news/regulation","published_at":"2026-10-17T10:30:00+08:00","content":"低空物流主管部门公布运行时段和噪声监测安排，计划改善社区沟通机制。居民仍担忧夜间噪声与航线风险。","author":"示例公共资讯","demo":true},
+  {"id":"demo-image-01","source_type":"image","title":"低空物流航线与配送站示意图","url":"https://example.com/demo/images/route","published_at":"2026-10-17T14:00:00+08:00","content":"图文说明：低空物流配送站与居民区保持距离，标注试运行航线和降落点。此项仅分析文字说明，不执行图像识别。","author":"示例规划观察","demo":true},
+  {"id":"demo-video-01","source_type":"video","title":"低空物流试飞现场与居民采访","url":"https://example.com/demo/videos/flight","published_at":"2026-10-18T11:00:00+08:00","content":"示例视频字幕：配送过程便利，药品送达速度提升；受访居民提出对噪声和隐私泄露的担忧。此项仅分析字幕，不执行音视频识别。","author":"示例城市视频","demo":true},
+  {"id":"demo-forum-01","source_type":"forum_post","title":"低空物流能否优先保障急救运输？","url":"https://example.com/demo/forum/101","published_at":"2026-10-18T15:20:00+08:00","content":"支持低空物流用于急救运输，配送便利，希望公布效果数据，优化配送流程。","author":"示例论坛·居民甲","demo":true},
+  {"id":"demo-forum-02","source_type":"forum_post","title":"低空物流试点社区的噪声反馈","url":"https://example.com/demo/forum/102","published_at":"2026-10-19T08:40:00+08:00","content":"担忧低空物流夜间噪声，已有居民投诉，希望公开飞行时段，防止故障和事故风险。","author":"示例论坛·居民乙","demo":true},
+  {"id":"demo-forum-03","source_type":"forum_post","title":"低空物流航线信息与反馈渠道汇总","url":"https://example.com/demo/forum/103","published_at":"2026-10-19T12:00:00+08:00","content":"整理低空物流已公布的航线信息与反馈渠道，等待后续数据披露。","author":"示例论坛·信息整理员","demo":true},
+  {"id":"demo-internal-01","source_type":"internal_data","title":"低空物流试点服务反馈台账（合成）","url":"","published_at":"2026-10-20T09:00:00+08:00","content":"合成内部台账：低空物流配送体验满意，服务便利；部分反馈涉及噪声投诉和隐私风险，应跟进社区解释及处置闭环。","author":"示例内部服务团队","demo":true}
+]

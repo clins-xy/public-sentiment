@@ -1,0 +1,1668 @@
+{
+  "report_id": "20261021-152618-72a85cb3",
+  "query": "nba",
+  "created_at": "2026-10-21T15:26:18+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "nba",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S39",
+        "S40",
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S47",
+        "S48",
+        "S49",
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S54",
+        "S55",
+        "S56",
+        "S57",
+        "S58"
+      ]
+    },
+    {
+      "id": "channel-forum_post",
+      "type": "channel",
+      "label": "论坛",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S39",
+        "S53",
+        "S54",
+        "S55",
+        "S56",
+        "S57",
+        "S58"
+      ]
+    },
+    {
+      "id": "source-S1",
+      "type": "forum_post",
+      "label": "【#众星现身NBA总决赛G3赛场##NBA尼克斯主场门票有多贵#】北京时间6月9日，NBA季后赛G3精彩不断，麦迪逊花园群星云集，本场比赛场均票价约7768美元",
+      "source_refs": [
+        "S1"
+      ],
+      "url": "https://m.weibo.cn/detail/5307905223164473",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307905223164473"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S2",
+      "type": "forum_post",
+      "label": "🔥21岁创历史！文班亚马成魔术师后总决赛最年轻30+先生，马刺1-2绝境扳回一城！ 北京时间6月9日，2025-26赛季NBA总决赛G3打响，客场作战的马刺以1",
+      "source_refs": [
+        "S2"
+      ],
+      "url": "https://m.weibo.cn/detail/5307904803999092",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904803999092"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S3",
+      "type": "forum_post",
+      "label": "#马刺1比2尼克斯##nba总决赛# 总比分1-2！文班32+8+6 卡斯尔23分 马刺115-111尼克斯扳回一城 北京时间6月9日，2026年NBA总决赛第",
+      "source_refs": [
+        "S3"
+      ],
+      "url": "https://m.weibo.cn/detail/5307904173540879",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904173540879"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S4",
+      "type": "forum_post",
+      "label": "特朗普成为首位出席NBA总决赛的在任美国总统！#特朗普# 小何同學Anny的微博视频",
+      "source_refs": [
+        "S4"
+      ],
+      "url": "https://m.weibo.cn/detail/5307904136840805",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904136840805"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S5",
+      "type": "forum_post",
+      "label": "NBA联盟这两年收入减少，缺钱了，趁着总决赛通过强队多弄点银子，很正常",
+      "source_refs": [
+        "S5"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307903949145668"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S6",
+      "type": "forum_post",
+      "label": "🏀争议判罚引爆总决赛！NBA总决赛G3，马刺115比111击败尼克斯，将系列赛大比分追至1比2。但赛后最受关注的话题，却是布伦森的一次防守动作。第三节比赛中，尚",
+      "source_refs": [
+        "S6"
+      ],
+      "url": "https://m.weibo.cn/detail/5307903856608208",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307903856608208"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S7",
+      "type": "forum_post",
+      "label": "nba裁判真tm cba",
+      "source_refs": [
+        "S7"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307893058637306"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S8",
+      "type": "forum_post",
+      "label": "“11日NBA总决赛第二场（G2）赛后”，不知道是哪个时间线的事情",
+      "source_refs": [
+        "S8"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307892829782389"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S9",
+      "type": "forum_post",
+      "label": "【#美国警察将尼克斯球迷头部砸向柱子#】#尼克斯球迷遭美警暴力执法# 美国《纽约邮报》8日曝光了11日NBA总决赛第二场（G2）赛后，纽约警察的暴力执法画面。一",
+      "source_refs": [
+        "S9"
+      ],
+      "url": "https://m.weibo.cn/detail/5307891777015235",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307891777015235"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S10",
+      "type": "forum_post",
+      "label": "这场票钱据说10000💲起步，是不是都用来给#川建国同志#买防弹玻璃了#特朗普看nba总决赛睡着了#",
+      "source_refs": [
+        "S10"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307882149250817"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S11",
+      "type": "forum_post",
+      "label": "？？？？#nba总决赛#",
+      "source_refs": [
+        "S11"
+      ],
+      "url": "https://m.weibo.cn/detail/5307878765760204",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307878765760204"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S12",
+      "type": "forum_post",
+      "label": "😰疯狂！美媒：尼克斯球迷袭击马刺球迷，撕烂了文班亚马球衣今日NBA总决赛G3马刺（1）115-111（2）战胜尼克斯。本场比赛，马刺球员维克托-文班亚马出战38",
+      "source_refs": [
+        "S12"
+      ],
+      "url": "https://m.weibo.cn/detail/5307877694898949",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307877694898949"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S13",
+      "type": "forum_post",
+      "label": "🔻特朗普从开场到离开，纽约人都在嘘他。🔻via MeidasTouch#特朗普看NBA总决赛睡着了##马刺1比2尼克斯##海外新鲜事##热点现场#",
+      "source_refs": [
+        "S13"
+      ],
+      "url": "https://m.weibo.cn/detail/5307876048375321",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307876048375321"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S14",
+      "type": "forum_post",
+      "label": "【#布伦森一级恶意犯规#】#马刺4分险胜尼克斯#NBA总决赛第三场，马刺战胜尼克斯。本场比赛的多次判罚引发争议，尤其是第三节比赛中，尚帕尼倒地三分投进打成3+1",
+      "source_refs": [
+        "S14"
+      ],
+      "url": "https://m.weibo.cn/detail/5307875515958965",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307875515958965"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S15",
+      "type": "forum_post",
+      "label": "一架美国陆军AH-64“阿帕奇”攻击直升机昨天在霍尔木兹海峡附近坠毁，机组人员成功获救——《纽约时报》====美军这飞机又掉一架。。#伊朗打击以色列两处军事基地",
+      "source_refs": [
+        "S15"
+      ],
+      "url": "https://m.weibo.cn/detail/5307868599550696",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307868599550696"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S16",
+      "type": "forum_post",
+      "label": "NBA总决赛第一次也是NBA历史上第一次出现这种情况。裁判把球给尼克斯队，都已经开球进攻了。马上吹停比赛让马刺队换人，硬保太明显了。 雷霆中文网的微博视频",
+      "source_refs": [
+        "S16"
+      ],
+      "url": "https://m.weibo.cn/detail/5307868035154909",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307868035154909"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S17",
+      "type": "forum_post",
+      "label": "尼克斯今天对阵马刺总决赛G3的全场集锦！错过比赛的可以来补补！非常精彩的一场比赛，马刺从领先到落后，然后重新拿回优势，第四节收尾超级精彩，卡斯尔、布伦森、福克斯",
+      "source_refs": [
+        "S17"
+      ],
+      "url": "https://m.weibo.cn/detail/5307865498913861",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307865498913861"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S18",
+      "type": "forum_post",
+      "label": "拿下G3！#马刺vs尼克斯##NBA总决赛##GoSpursGo##NBA总决赛#",
+      "source_refs": [
+        "S18"
+      ],
+      "url": "https://m.weibo.cn/detail/5307859938314511",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307859938314511"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S19",
+      "type": "forum_post",
+      "label": "裁判第四节已经在帮了，联盟给的机会，是赛季结束，还是保有悬念，就看最后一哆嗦了。#马刺vs尼克斯##nba总决赛#",
+      "source_refs": [
+        "S19"
+      ],
+      "url": "https://m.weibo.cn/detail/5307851427545153",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307851427545153"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S20",
+      "type": "forum_post",
+      "label": "#特朗普遭全场嘘声#  NBA总决赛G3，美国总统特朗普现场观战，不过纽约球迷完全不给总统面子！ 后厂村体工队的微博视频",
+      "source_refs": [
+        "S20"
+      ],
+      "url": "https://m.weibo.cn/detail/5307832052221985",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307832052221985"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S21",
+      "type": "forum_post",
+      "label": "杨毅：马刺这些动作和雷霆也差不多。#马刺vs尼克斯##NBA总决赛# 演曼巴的微博视频",
+      "source_refs": [
+        "S21"
+      ],
+      "url": "https://m.weibo.cn/detail/5307828657195389",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307828657195389"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S22",
+      "type": "forum_post",
+      "label": "这！？文班亚马卡位时压着布伦森的后脑勺将其推倒，裁判没有吹罚。#马刺vs尼克斯##nba总决赛# 隆多的战术板的微博视频",
+      "source_refs": [
+        "S22"
+      ],
+      "url": "https://m.weibo.cn/detail/5307823665709657",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307823665709657"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S23",
+      "type": "forum_post",
+      "label": "不是说詹姆斯退役了，没有人看NBA了吗",
+      "source_refs": [
+        "S23"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649275008149947170"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S24",
+      "type": "forum_post",
+      "label": "看点时政新闻的应该都知道：尼克斯老板和特朗普关系好，今天特朗普到现场观赛，然而NBA是比较倾向民主党的联盟之一，我觉得这可能也是其中一个原因。大家回想一下：特朗",
+      "source_refs": [
+        "S24"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649273185967866687"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S25",
+      "type": "forum_post",
+      "label": "你看文班，来了一趟少林寺。学了铁砂掌和铁肘功，还收了多少大儿子，建议nba的以后都来少林寺进修。",
+      "source_refs": [
+        "S25"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649271933598925574"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S26",
+      "type": "forum_post",
+      "label": "NBA管理层不可能让尼克斯4：0横扫马刺，怎么也得4：2呀。",
+      "source_refs": [
+        "S26"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649264884605584155"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S27",
+      "type": "forum_post",
+      "label": "马刺如果夺冠，文班能成为nba有史以来第一人吗[泪奔][泪奔][泪奔]",
+      "source_refs": [
+        "S27"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649263225732940559"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S28",
+      "type": "forum_post",
+      "label": "一场比赛票价1万刀，NBA怎么可能让马刺输，必须G7啊",
+      "source_refs": [
+        "S28"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649260835566699316"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S29",
+      "type": "forum_post",
+      "label": "当地时间6月8日晚，国家总统特朗普在纽约市调研。他强调，各地各部门要坚决扛起主体责任，保安全促稳定，扎扎实实做好世界杯开幕前各项准备工作。\n调研期间，特朗普专程",
+      "source_refs": [
+        "S29"
+      ],
+      "url": "",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649260400055698233"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "channel-video",
+      "type": "channel",
+      "label": "视频字幕",
+      "source_refs": [
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S40",
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S47",
+        "S48",
+        "S49",
+        "S50",
+        "S51",
+        "S52"
+      ]
+    },
+    {
+      "id": "source-S30",
+      "type": "video",
+      "label": "球迷钱白花了，尼克斯主场惜败马刺，总决赛大比分2比1 #nba #dou来nba #马刺 #尼克斯",
+      "source_refs": [
+        "S30"
+      ],
+      "url": "https://www.douyin.com/video/7649249124981673225",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649249124981673225"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S31",
+      "type": "video",
+      "label": "NBA总决赛G3马刺扳回一城！文班32+8+6+3帽，客场掀翻尼克斯总分1比2！#NBA总决赛G3马刺胜尼克斯 #马刺1比2尼克斯 #马刺胜尼克斯扳回一城",
+      "source_refs": [
+        "S31"
+      ],
+      "url": "https://www.douyin.com/video/7649249105156621669",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649249105156621669"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S32",
+      "type": "video",
+      "label": "大比分1:2！ 马刺客场115:111险胜尼克斯，文班完成救赎，福克斯关键中投准绝杀！#文班亚马#福克斯#马刺vs尼克斯G3 #dou来nba #NBA总决赛",
+      "source_refs": [
+        "S32"
+      ],
+      "url": "https://www.douyin.com/video/7649248750364773119",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649248750364773119"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S33",
+      "type": "video",
+      "label": "NBA总决赛G3文班爆发轰32+8+6！马刺攻陷尼克斯主场，总比分1比2，终结对手13连胜？#NBA总决赛G3马刺胜尼克斯 #马刺胜尼克斯扳回一城 #NBA总决赛",
+      "source_refs": [
+        "S33"
+      ],
+      "url": "https://www.douyin.com/video/7649246683263665657",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649246683263665657"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S34",
+      "type": "video",
+      "label": "#热门 总决赛G3 马刺战胜尼克斯扳回一城\n文班亚马32分 卡斯尔23分 哈珀13分 #NBA #文班亚马 #马刺 #尼克斯",
+      "source_refs": [
+        "S34"
+      ],
+      "url": "https://www.douyin.com/video/7649246548655687545",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649246548655687545"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S35",
+      "type": "video",
+      "label": "布朗：这种判罚我们赢不了 #马刺战胜尼克斯 #迈克布朗 #NBA总决赛",
+      "source_refs": [
+        "S35"
+      ],
+      "url": "https://www.douyin.com/video/7649246032487796003",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649246032487796003"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S36",
+      "type": "video",
+      "label": "NBA总决赛G3马刺客场险胜尼克斯扳回一城！大比分1比2，文班亚马32分8板6助，布伦森32分5板5助！#NBA总决赛G3马刺胜尼克斯大比分1比2 #NBA总决赛马刺胜尼克斯 #文班亚马 #布伦森",
+      "source_refs": [
+        "S36"
+      ],
+      "url": "https://www.douyin.com/video/7649243773357395877",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649243773357395877"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S37",
+      "type": "video",
+      "label": "文班亚马爆砍32分带马刺取胜，尼克斯遭针对虽败犹荣 #尼克斯vs马刺 #布伦森 #文班亚马 #NBA总决赛",
+      "source_refs": [
+        "S37"
+      ],
+      "url": "https://www.douyin.com/video/7649243549485707185",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649243549485707185"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S38",
+      "type": "video",
+      "label": "文班亚马怒砍32分带队拿下G3！#文班亚马\n#马刺vs尼克斯#NBA",
+      "source_refs": [
+        "S38"
+      ],
+      "url": "https://www.douyin.com/video/7649238721431601000",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649238721431601000"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S39",
+      "type": "forum_post",
+      "label": "这nba还是硬啊，特朗普来了黑哨也不改一点儿的",
+      "source_refs": [
+        "S39"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649237016014504755"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S40",
+      "type": "video",
+      "label": "文班双历史纪录！马刺G3击败尼克斯追分 \n#2026NBA总决赛 #文班亚马 #马刺 #卡斯尔",
+      "source_refs": [
+        "S40"
+      ],
+      "url": "https://www.douyin.com/video/7649235695286029686",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649235695286029686"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S41",
+      "type": "video",
+      "label": "文班亚马3加1被取消，但是球队还是拿下比赛，马刺1比2尼克斯！#马刺1比2尼克斯 #NBA总决赛",
+      "source_refs": [
+        "S41"
+      ],
+      "url": "https://www.douyin.com/video/7649230936475629222",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649230936475629222"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S42",
+      "type": "video",
+      "label": "【尼克斯与马刺对飙三分】太精彩了！第三节两队下起三分雨，文班超远三分飙中，随后克拉克森替补奇兵，高难度神仙三分入网，随后哈珀立刻回击一记三分！ #NBA总决赛  #马刺vs尼克斯",
+      "source_refs": [
+        "S42"
+      ],
+      "url": "https://www.douyin.com/video/7649223996080180495",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649223996080180495"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S43",
+      "type": "video",
+      "label": "NBA总决赛第三场，马刺输急眼了，以至于杨毅直言，马刺今天的防守和西决雷霆差不多了！西决第三场球场冲突不断！尼克斯次节轰出42-24净胜马刺18分，尼克斯首节落后11分、半场反超7分，马刺完蛋了，要被3-0了！#NBA总决赛G3#文班亚马推搡布伦森#卡斯尔掀翻布伦森#马刺VS尼克斯G3#文班亚马",
+      "source_refs": [
+        "S43"
+      ],
+      "url": "https://www.douyin.com/video/7649223127595750885",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649223127595750885"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S44",
+      "type": "video",
+      "label": "NBA总决赛G3，文班亚马在特朗普面前给布伦森一个脑拍！ #NBA总决赛 #尼克斯vs马刺 #赛场冲突 #文班亚马 #布伦森",
+      "source_refs": [
+        "S44"
+      ],
+      "url": "https://www.douyin.com/video/7649222252429723578",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649222252429723578"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S45",
+      "type": "video",
+      "label": "当地时间6月8日，美国总统特朗普亲临NBA总决赛第三场，大屏闪现嘘声四起，只是微微一笑…",
+      "source_refs": [
+        "S45"
+      ],
+      "url": "https://www.douyin.com/video/7649220978156883234",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649220978156883234"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S46",
+      "type": "video",
+      "label": "川普隔着防弹玻璃观赛#NBA总决赛G3尼克斯vs马刺",
+      "source_refs": [
+        "S46"
+      ],
+      "url": "https://www.douyin.com/video/7649218637123143929",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649218637123143929"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S47",
+      "type": "video",
+      "label": "马刺vs尼克斯，布伦森15分血条都快被打没了，文班15分，卡斯尔18分#马刺#NBA总决赛 #布伦森 #文班亚马",
+      "source_refs": [
+        "S47"
+      ],
+      "url": "https://www.douyin.com/video/7649215190025866395",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649215190025866395"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S48",
+      "type": "video",
+      "label": "NBA总决赛g3尼克斯vs马刺，如同第一场的翻版，尼克斯太有韧劲了！#NBA总决赛G3尼克斯vs马刺 #NBA总决赛 #马刺vs尼克斯",
+      "source_refs": [
+        "S48"
+      ],
+      "url": "https://www.douyin.com/video/7649210695082391540",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649210695082391540"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S49",
+      "type": "video",
+      "label": "#NBA总决赛 马刺vs尼克斯第三场，可能是体育史上最贵一战，为何场内却出现大量空座？原来是特朗普来了… #马刺 #尼克斯",
+      "source_refs": [
+        "S49"
+      ],
+      "url": "https://www.douyin.com/video/7649210031275052294",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649210031275052294"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S50",
+      "type": "video",
+      "label": "文班小动作还挺阴！总决赛g3火药味十足，双方险些爆发冲突。 #创作者中心 #创作灵感 #NBA总决赛重回麦迪逊 #文班亚马#布伦森",
+      "source_refs": [
+        "S50"
+      ],
+      "url": "https://www.douyin.com/video/7649202373369952154",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649202373369952154"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S51",
+      "type": "video",
+      "label": "特朗普现身尼克斯主场观战NBA总决赛 大屏闪现嘘声四起特朗普微笑回应",
+      "source_refs": [
+        "S51"
+      ],
+      "url": "https://www.douyin.com/video/7649199528641367332",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649199528641367332"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S52",
+      "type": "video",
+      "label": "总决赛G3的第一排票的“起拍价”居然达到了恐怖的一百万美元一张！这真的是太夸张了！#尼克斯 #纽约 #nba总决赛",
+      "source_refs": [
+        "S52"
+      ],
+      "url": "https://www.douyin.com/video/7649055452219430515",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649055452219430515"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S53",
+      "type": "forum_post",
+      "label": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "source_refs": [
+        "S53"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5302482246830365"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S54",
+      "type": "forum_post",
+      "label": "#iQOOxNBA高校篮球赛# 官方#iQOO15T#",
+      "source_refs": [
+        "S54"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5301288339769892"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S55",
+      "type": "forum_post",
+      "label": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "source_refs": [
+        "S55"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5301218050310936"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S56",
+      "type": "forum_post",
+      "label": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "source_refs": [
+        "S56"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5301168163262145"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S57",
+      "type": "forum_post",
+      "label": "#iQOOxNBA高校篮球赛# #iQOO15T#",
+      "source_refs": [
+        "S57"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5301063978844990"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S58",
+      "type": "forum_post",
+      "label": "第四届#iQOOxNBA高校篮球赛#火热进行中！全国16城、近百所高校，上千支球队热血集结！与NBA中国官方手机#iQOO15T#一起，见证热血对决！",
+      "source_refs": [
+        "S58"
+      ],
+      "url": "https://m.weibo.cn/detail/5301049700123229",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5301049700123229"
+      },
+      "platform": "微博"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "channel-forum_post",
+      "type": "propagated_via",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S39",
+        "S53",
+        "S54",
+        "S55",
+        "S56",
+        "S57",
+        "S58"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S1",
+      "type": "contains",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S2",
+      "type": "contains",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S3",
+      "type": "contains",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S4",
+      "type": "contains",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S5",
+      "type": "contains",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S6",
+      "type": "contains",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S7",
+      "type": "contains",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S8",
+      "type": "contains",
+      "source_refs": [
+        "S8"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S9",
+      "type": "contains",
+      "source_refs": [
+        "S9"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S10",
+      "type": "contains",
+      "source_refs": [
+        "S10"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S11",
+      "type": "contains",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S12",
+      "type": "contains",
+      "source_refs": [
+        "S12"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S13",
+      "type": "contains",
+      "source_refs": [
+        "S13"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S14",
+      "type": "contains",
+      "source_refs": [
+        "S14"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S15",
+      "type": "contains",
+      "source_refs": [
+        "S15"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S16",
+      "type": "contains",
+      "source_refs": [
+        "S16"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S17",
+      "type": "contains",
+      "source_refs": [
+        "S17"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S18",
+      "type": "contains",
+      "source_refs": [
+        "S18"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S19",
+      "type": "contains",
+      "source_refs": [
+        "S19"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S20",
+      "type": "contains",
+      "source_refs": [
+        "S20"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S21",
+      "type": "contains",
+      "source_refs": [
+        "S21"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S22",
+      "type": "contains",
+      "source_refs": [
+        "S22"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S23",
+      "type": "contains",
+      "source_refs": [
+        "S23"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S24",
+      "type": "contains",
+      "source_refs": [
+        "S24"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S25",
+      "type": "contains",
+      "source_refs": [
+        "S25"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S26",
+      "type": "contains",
+      "source_refs": [
+        "S26"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S27",
+      "type": "contains",
+      "source_refs": [
+        "S27"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S28",
+      "type": "contains",
+      "source_refs": [
+        "S28"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S29",
+      "type": "contains",
+      "source_refs": [
+        "S29"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-video",
+      "type": "propagated_via",
+      "source_refs": [
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S40",
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S47",
+        "S48",
+        "S49",
+        "S50",
+        "S51",
+        "S52"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S30",
+      "type": "contains",
+      "source_refs": [
+        "S30"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S31",
+      "type": "contains",
+      "source_refs": [
+        "S31"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S32",
+      "type": "contains",
+      "source_refs": [
+        "S32"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S33",
+      "type": "contains",
+      "source_refs": [
+        "S33"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S34",
+      "type": "contains",
+      "source_refs": [
+        "S34"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S35",
+      "type": "contains",
+      "source_refs": [
+        "S35"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S36",
+      "type": "contains",
+      "source_refs": [
+        "S36"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S37",
+      "type": "contains",
+      "source_refs": [
+        "S37"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S38",
+      "type": "contains",
+      "source_refs": [
+        "S38"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S39",
+      "type": "contains",
+      "source_refs": [
+        "S39"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S40",
+      "type": "contains",
+      "source_refs": [
+        "S40"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S41",
+      "type": "contains",
+      "source_refs": [
+        "S41"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S42",
+      "type": "contains",
+      "source_refs": [
+        "S42"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S43",
+      "type": "contains",
+      "source_refs": [
+        "S43"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S44",
+      "type": "contains",
+      "source_refs": [
+        "S44"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S45",
+      "type": "contains",
+      "source_refs": [
+        "S45"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S46",
+      "type": "contains",
+      "source_refs": [
+        "S46"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S47",
+      "type": "contains",
+      "source_refs": [
+        "S47"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S48",
+      "type": "contains",
+      "source_refs": [
+        "S48"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S49",
+      "type": "contains",
+      "source_refs": [
+        "S49"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S50",
+      "type": "contains",
+      "source_refs": [
+        "S50"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S51",
+      "type": "contains",
+      "source_refs": [
+        "S51"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S52",
+      "type": "contains",
+      "source_refs": [
+        "S52"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S53",
+      "type": "contains",
+      "source_refs": [
+        "S53"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S54",
+      "type": "contains",
+      "source_refs": [
+        "S54"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S55",
+      "type": "contains",
+      "source_refs": [
+        "S55"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S56",
+      "type": "contains",
+      "source_refs": [
+        "S56"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S57",
+      "type": "contains",
+      "source_refs": [
+        "S57"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S58",
+      "type": "contains",
+      "source_refs": [
+        "S58"
+      ]
+    }
+  ]
+}

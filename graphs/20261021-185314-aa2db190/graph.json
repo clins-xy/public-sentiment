@@ -1,0 +1,953 @@
+{
+  "report_id": "20261021-185314-aa2db190",
+  "query": "问界",
+  "created_at": "2026-10-21T18:53:14+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "问界",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29"
+      ]
+    },
+    {
+      "id": "channel-forum_post",
+      "type": "channel",
+      "label": "论坛",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S7",
+        "S13",
+        "S14",
+        "S17",
+        "S18",
+        "S19",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26"
+      ]
+    },
+    {
+      "id": "source-S1",
+      "type": "forum_post",
+      "label": "视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。",
+      "source_refs": [
+        "S1"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699066442969416458"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S2",
+      "type": "forum_post",
+      "label": "人下来了没？问界怎么没说？？？？",
+      "source_refs": [
+        "S2"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699066406239421222"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S3",
+      "type": "forum_post",
+      "label": "有人能告诉我问界的老板大不大",
+      "source_refs": [
+        "S3"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699065478296388409"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "channel-video",
+      "type": "channel",
+      "label": "视频字幕",
+      "source_refs": [
+        "S4",
+        "S5",
+        "S6",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S15",
+        "S16",
+        "S20",
+        "S27",
+        "S28",
+        "S29"
+      ]
+    },
+    {
+      "id": "source-S4",
+      "type": "video",
+      "label": "不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。",
+      "source_refs": [
+        "S4"
+      ],
+      "url": "https://www.douyin.com/video/7699059199025141753",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699059199025141753"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-867d0e7007",
+      "type": "risk",
+      "label": "事故",
+      "source_refs": [
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S11",
+        "S13",
+        "S28",
+        "S29"
+      ]
+    },
+    {
+      "id": "source-S5",
+      "type": "video",
+      "label": "问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击”",
+      "source_refs": [
+        "S5"
+      ],
+      "url": "https://www.douyin.com/video/7699056429772164361",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699056429772164361"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S6",
+      "type": "video",
+      "label": "车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶",
+      "source_refs": [
+        "S6"
+      ],
+      "url": "https://www.douyin.com/video/7699055579997785379",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699055579997785379"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S7",
+      "type": "forum_post",
+      "label": "现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度",
+      "source_refs": [
+        "S7"
+      ],
+      "url": "",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699048833867957049"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S8",
+      "type": "video",
+      "label": "问界回应车辆起火事故 #问界  #车辆起火  #事故",
+      "source_refs": [
+        "S8"
+      ],
+      "url": "https://www.douyin.com/video/7699044797947940137",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699044797947940137"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S9",
+      "type": "video",
+      "label": "10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9",
+      "source_refs": [
+        "S9"
+      ],
+      "url": "https://www.douyin.com/video/7699039657488551177",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699039657488551177"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S10",
+      "type": "video",
+      "label": "问界回应起火 #财经",
+      "source_refs": [
+        "S10"
+      ],
+      "url": "https://www.douyin.com/video/7699037546415803657",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699037546415803657"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S11",
+      "type": "video",
+      "label": "10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火",
+      "source_refs": [
+        "S11"
+      ],
+      "url": "https://www.douyin.com/video/7699033882007506239",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699033882007506239"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S12",
+      "type": "video",
+      "label": "一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准",
+      "source_refs": [
+        "S12"
+      ],
+      "url": "https://www.douyin.com/video/7699013553399544050",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699013553399544050"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S13",
+      "type": "forum_post",
+      "label": "昨天问界发生的起火事故，怎么洗？[奸笑]",
+      "source_refs": [
+        "S13"
+      ],
+      "url": "",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699005225383101234"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S14",
+      "type": "forum_post",
+      "label": "问界是赛力斯汽车，不是华为",
+      "source_refs": [
+        "S14"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7698997732648289039"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S15",
+      "type": "video",
+      "label": "问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏",
+      "source_refs": [
+        "S15"
+      ],
+      "url": "https://www.douyin.com/video/7698981052250185626",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698981052250185626"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S16",
+      "type": "video",
+      "label": "华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。",
+      "source_refs": [
+        "S16"
+      ],
+      "url": "https://www.douyin.com/video/7698902415999847145",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698902415999847145"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S17",
+      "type": "forum_post",
+      "label": "问界是最好的电车[看]",
+      "source_refs": [
+        "S17"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7670159812810048262"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S18",
+      "type": "forum_post",
+      "label": "有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是",
+      "source_refs": [
+        "S18"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7648166346483745563"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S19",
+      "type": "forum_post",
+      "label": "一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙]",
+      "source_refs": [
+        "S19"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647721341311402789"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S20",
+      "type": "video",
+      "label": "问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行",
+      "source_refs": [
+        "S20"
+      ],
+      "url": "https://www.douyin.com/video/7647511408939276874",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647511408939276874"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S21",
+      "type": "forum_post",
+      "label": "我搜关门灭火为什么推的全是问界的视频[疑问]",
+      "source_refs": [
+        "S21"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647344289760625445"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S22",
+      "type": "forum_post",
+      "label": "希望华为问界能够作为中国车企的领航员，而不是小米苏\n7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望，\n做良心车企！",
+      "source_refs": [
+        "S22"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647230849175601958"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S23",
+      "type": "forum_post",
+      "label": "我觉得这个车主绝对不会再买问界[不看]",
+      "source_refs": [
+        "S23"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647177636837999409"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S24",
+      "type": "forum_post",
+      "label": "小米你怎么回事？搞得问界生气起火了🔥？",
+      "source_refs": [
+        "S24"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647172011622794041"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S25",
+      "type": "forum_post",
+      "label": "问界保密工作不到位啊，人家小米保密工作多到位[呲牙]",
+      "source_refs": [
+        "S25"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647171774518379283"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S26",
+      "type": "forum_post",
+      "label": "有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了",
+      "source_refs": [
+        "S26"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647114802616009531"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S27",
+      "type": "video",
+      "label": "又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行",
+      "source_refs": [
+        "S27"
+      ],
+      "url": "https://www.douyin.com/video/7647086429763407158",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647086429763407158"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S28",
+      "type": "video",
+      "label": "台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9",
+      "source_refs": [
+        "S28"
+      ],
+      "url": "https://www.douyin.com/video/7647071959125134601",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647071959125134601"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S29",
+      "type": "video",
+      "label": "6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。",
+      "source_refs": [
+        "S29"
+      ],
+      "url": "https://www.douyin.com/video/7647061806418119936",
+      "sentiment": "negative",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647061806418119936"
+      },
+      "platform": "抖音"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "channel-forum_post",
+      "type": "propagated_via",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S7",
+        "S13",
+        "S14",
+        "S17",
+        "S18",
+        "S19",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S1",
+      "type": "contains",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S2",
+      "type": "contains",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S3",
+      "type": "contains",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-video",
+      "type": "propagated_via",
+      "source_refs": [
+        "S4",
+        "S5",
+        "S6",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S15",
+        "S16",
+        "S20",
+        "S27",
+        "S28",
+        "S29"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S4",
+      "type": "contains",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "source": "source-S4",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S5",
+      "type": "contains",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "source-S5",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S6",
+      "type": "contains",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "source": "source-S6",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S7",
+      "type": "contains",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "source-S7",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S8",
+      "type": "contains",
+      "source_refs": [
+        "S8"
+      ]
+    },
+    {
+      "source": "source-S8",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S8"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S9",
+      "type": "contains",
+      "source_refs": [
+        "S9"
+      ]
+    },
+    {
+      "source": "source-S9",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S9"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S10",
+      "type": "contains",
+      "source_refs": [
+        "S10"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S11",
+      "type": "contains",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "source": "source-S11",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S12",
+      "type": "contains",
+      "source_refs": [
+        "S12"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S13",
+      "type": "contains",
+      "source_refs": [
+        "S13"
+      ]
+    },
+    {
+      "source": "source-S13",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S13"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S14",
+      "type": "contains",
+      "source_refs": [
+        "S14"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S15",
+      "type": "contains",
+      "source_refs": [
+        "S15"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S16",
+      "type": "contains",
+      "source_refs": [
+        "S16"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S17",
+      "type": "contains",
+      "source_refs": [
+        "S17"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S18",
+      "type": "contains",
+      "source_refs": [
+        "S18"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S19",
+      "type": "contains",
+      "source_refs": [
+        "S19"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S20",
+      "type": "contains",
+      "source_refs": [
+        "S20"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S21",
+      "type": "contains",
+      "source_refs": [
+        "S21"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S22",
+      "type": "contains",
+      "source_refs": [
+        "S22"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S23",
+      "type": "contains",
+      "source_refs": [
+        "S23"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S24",
+      "type": "contains",
+      "source_refs": [
+        "S24"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S25",
+      "type": "contains",
+      "source_refs": [
+        "S25"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S26",
+      "type": "contains",
+      "source_refs": [
+        "S26"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S27",
+      "type": "contains",
+      "source_refs": [
+        "S27"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S28",
+      "type": "contains",
+      "source_refs": [
+        "S28"
+      ]
+    },
+    {
+      "source": "source-S28",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S28"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S29",
+      "type": "contains",
+      "source_refs": [
+        "S29"
+      ]
+    },
+    {
+      "source": "source-S29",
+      "target": "risk-867d0e7007",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S29"
+      ]
+    }
+  ]
+}

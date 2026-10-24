@@ -1,0 +1,107 @@
+{
+  "system": {
+    "name": "观潮 · 舆情分析平台",
+    "auto_start": false,
+    "max_results": 100,
+    "request_timeout": 15
+  },
+  "collection": {
+    "mode": "database",
+    "rss_feeds": [],
+    "internal_file": "",
+    "forum_interval": 15
+  },
+  "database": {
+    "driver": "mysql",
+    "name": "media_crawler",
+    "host_env": "MEDIA_CRAWLER_DB_HOST",
+    "port_env": "MEDIA_CRAWLER_DB_PORT",
+    "user_env": "MEDIA_CRAWLER_DB_USER",
+    "password_env": "MEDIA_CRAWLER_DB_PASSWORD",
+    "timezone": "+08:00",
+    "ssl_ca": "",
+    "tables": [
+      {
+        "table": "douyin_aweme",
+        "platform": "抖音",
+        "source_type": "video",
+        "time_unit": "s",
+        "fields": {
+          "id": "aweme_id",
+          "title": "title",
+          "content": "desc",
+          "url": "aweme_url",
+          "author": "nickname",
+          "published_at": "create_time"
+        }
+      },
+      {
+        "table": "douyin_aweme_comment",
+        "platform": "抖音评论",
+        "source_type": "forum_post",
+        "time_unit": "s",
+        "fields": {
+          "id": "comment_id",
+          "content": "content",
+          "author": "nickname",
+          "published_at": "create_time"
+        }
+      },
+      {
+        "table": "weibo_note",
+        "platform": "微博",
+        "source_type": "forum_post",
+        "time_unit": "s",
+        "fields": {
+          "id": "note_id",
+          "content": "content",
+          "url": "note_url",
+          "author": "nickname",
+          "published_at": "create_time"
+        }
+      },
+      {
+        "table": "weibo_note_comment",
+        "platform": "微博评论",
+        "source_type": "forum_post",
+        "time_unit": "s",
+        "fields": {
+          "id": "comment_id",
+          "content": "content",
+          "author": "nickname",
+          "published_at": "create_time"
+        }
+      }
+    ]
+  },
+  "analysis": {
+    "positive_words": [
+      "支持",
+      "便利",
+      "改善",
+      "安全",
+      "满意",
+      "利好",
+      "优化",
+      "提升"
+    ],
+    "negative_words": [
+      "担忧",
+      "投诉",
+      "事故",
+      "风险",
+      "故障",
+      "泄露",
+      "反对",
+      "损失"
+    ],
+    "risk_threshold": 0.4
+  },
+  "apps": {
+    "search": true,
+    "multimedia": true,
+    "insight": true,
+    "report": true,
+    "graph": true
+  }
+}

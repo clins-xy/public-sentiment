@@ -1,0 +1,2373 @@
+{
+  "report_id": "20261022-114710-9d731f2b",
+  "query": "中朝关系",
+  "created_at": "2026-10-22T11:47:10+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "中朝关系",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S39",
+        "S40",
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S47",
+        "S48",
+        "S49",
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S54"
+      ]
+    },
+    {
+      "id": "channel-forum_post",
+      "type": "channel",
+      "label": "论坛",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S16",
+        "S18",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S45",
+        "S48"
+      ]
+    },
+    {
+      "id": "source-S1",
+      "type": "forum_post",
+      "label": "#中朝最高领导人握手合影#【此行间·现场画面！#习近平和金正恩种下一株枞树#】习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。枞树四季常绿，象征",
+      "source_refs": [
+        "S1"
+      ],
+      "url": "https://m.weibo.cn/detail/5307906267810557",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307906267810557"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-0d56aa63eb5ad25e",
+      "type": "risk",
+      "label": "内容以象征性活动表达友好，不能据此判断双边关系的实际进展或整体民意。",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "id": "source-S2",
+      "type": "forum_post",
+      "label": "【#习近平参访朝鲜劳动党中央干部学校#】当地时间2026年6月9日上午，中共中央总书记、国家主席习近平在朝鲜劳动党总书记、国务委员长金正恩陪同下，参访位于平壤的",
+      "source_refs": [
+        "S2"
+      ],
+      "url": "https://m.weibo.cn/detail/5307905982857457",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307905982857457"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-17ddec73e07cb3f1",
+      "type": "risk",
+      "label": "该来源是活动报道，未提供合作成果或关系变化的独立验证，不能据此外推更广泛的公众看法。",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "id": "source-S3",
+      "type": "forum_post",
+      "label": "#中朝最高领导人会谈有这些关键词##朝鲜欢迎最尊重的贵宾#当地时间 6 月 8 日下午，习近平主席在平壤锦绣山迎宾馆同朝鲜劳动党总书记、国务委员长金正恩举行会谈",
+      "source_refs": [
+        "S3"
+      ],
+      "url": "https://m.weibo.cn/detail/5307904926156134",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904926156134"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-a0b551884f69007b",
+      "type": "risk",
+      "label": "内容概述会谈方向，但没有列明具体协议或实施安排，无法判断合作落实程度。",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "id": "source-S4",
+      "type": "forum_post",
+      "label": "【出席金正恩举行的欢迎宴会 强调两国命运与共 习近平：拓展中朝务实合作 增进民心相通】当地时间6月8日晚，中共中央总书记、国家主席习近平和夫人彭丽媛在平壤木兰馆",
+      "source_refs": [
+        "S4"
+      ],
+      "url": "https://m.weibo.cn/detail/5307904824708729",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307904824708729"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-314bd09c27570f7d",
+      "type": "risk",
+      "label": "来源主要转述官方致辞与宴会场景，未提供具体合作项目进度或不同立场的材料。",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "id": "source-S5",
+      "type": "forum_post",
+      "label": "#近观中国#【习近平访朝提出四个“坚持”，推动中朝关系与时俱进】#习近平访朝提出四个坚持#“面对加速演进的世界百年变局，双方要登高望远、继往开来”，当地时间6月",
+      "source_refs": [
+        "S5"
+      ],
+      "url": "https://m.weibo.cn/detail/5307902412986207",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307902412986207"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-dc3c629172c810ec",
+      "type": "risk",
+      "label": "内容呈现的是政策主张与目标，未说明具体执行措施或成效，无法据此判断实际落实情况。",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "id": "source-S6",
+      "type": "forum_post",
+      "label": "#推动中朝关系与时俱进#【独家视频 | 习近平：#时隔七年再次到访美丽的平壤# 我感到十分高兴 也格外亲切】当地时间6月8日下午，中共中央总书记、国家主席习近平",
+      "source_refs": [
+        "S6"
+      ],
+      "url": "https://m.weibo.cn/detail/5307901864576660",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307901864576660"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-c4b89e6c3970fbc4",
+      "type": "risk",
+      "label": "内容主要呈现双方官方表态，未提供其他观点或具体政策执行信息，不能据此判断双边关系整体状况。",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "id": "source-S7",
+      "type": "forum_post",
+      "label": "#中朝最高领导人握手合影#【此行间·现场画面！#习近平和金正恩种下一株枞树#】习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。枞树四季常绿，象征",
+      "source_refs": [
+        "S7"
+      ],
+      "url": "https://m.weibo.cn/detail/5307897737120186",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307897737120186"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-1ad9760c46816092",
+      "type": "risk",
+      "label": "这是象征性活动的文字描述，不能单独证明双边关系的实际变化或具体合作成果。",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "id": "source-S8",
+      "type": "forum_post",
+      "label": "【#中朝关系必将乘风破浪勇往直前#】当地时间6月8日下午，#习近平同金正恩举行会谈#。在会谈时，习近平同金正恩共话中朝传统友谊，共商中朝关系发展大计。谈及中朝传",
+      "source_refs": [
+        "S8"
+      ],
+      "url": "https://m.weibo.cn/detail/5307882226322214",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307882226322214"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-c7e6c68f435609b5",
+      "type": "risk",
+      "label": "文本为正面评论性表述，没有提供所提意见的具体内容或落实情况，不能据此判断实际成效。",
+      "source_refs": [
+        "S8"
+      ]
+    },
+    {
+      "id": "source-S9",
+      "type": "forum_post",
+      "label": "第一观察·瞬间 | 最隆重礼遇欢迎最尊贵客人网页链接 拾光纪·中朝两党两国最高领导人会谈，有这些关键词网页链接 独家视频丨习近平：时隔七年再次到访美丽的平壤 我",
+      "source_refs": [
+        "S9"
+      ],
+      "url": "https://m.weibo.cn/detail/5307882128016153",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307882128016153"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-118c61ddfa04e53d",
+      "type": "risk",
+      "label": "内容是标题和报道线索的汇集，信息简略，无法据此核实各项报道的具体内容或评估关系变化。",
+      "source_refs": [
+        "S9"
+      ]
+    },
+    {
+      "id": "source-S10",
+      "type": "forum_post",
+      "label": "习近平总书记署名文章为中朝关系迈向新高度提供指引网页链接",
+      "source_refs": [
+        "S10"
+      ],
+      "url": "https://m.weibo.cn/detail/5307875406906841",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307875406906841"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-779af367d03db18a",
+      "type": "risk",
+      "label": "正文仅有标题，缺少文章内容，无法核实其具体论点、依据或潜在风险。",
+      "source_refs": [
+        "S10"
+      ]
+    },
+    {
+      "id": "source-S11",
+      "type": "forum_post",
+      "label": "【读懂中朝关系“三个不会改变”】#习近平同金正恩在平壤会谈#6月8日至9日，中共中央总书记、国家主席习近平对朝鲜进行国事访问。“习近平总书记同志时隔7年再次访问",
+      "source_refs": [
+        "S11"
+      ],
+      "url": "https://m.weibo.cn/detail/5307843043133774",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307843043133774"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-c3ade52a43eff732",
+      "type": "risk",
+      "label": "该来源主要呈现官方或支持性叙事，未提供不同立场、公众态度或关系中潜在分歧的材料，不能据此判断整体舆情。",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "id": "source-S12",
+      "type": "forum_post",
+      "label": "习近平：时隔七年再次到访美丽的平壤 我感到十分高兴 也格外亲切 农民日报的微博视频",
+      "source_refs": [
+        "S12"
+      ],
+      "url": "https://m.weibo.cn/detail/5307831902278672",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307831902278672"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-fdac744588f3f4f9",
+      "type": "risk",
+      "label": "信息仅反映一段个人表述，缺乏对中朝关系具体议题、分歧或社会反应的补充证据。",
+      "source_refs": [
+        "S12"
+      ]
+    },
+    {
+      "id": "source-S13",
+      "type": "forum_post",
+      "label": "中朝关系世代友好，中朝人民幸福安康[比心]",
+      "source_refs": [
+        "S13"
+      ],
+      "url": "",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649273441422820131"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "risk-5910710d026acef6",
+      "type": "risk",
+      "label": "内容为简短态度表达，未说明形成该观点的具体事实，也不能代表更广泛群体的意见。",
+      "source_refs": [
+        "S13"
+      ]
+    },
+    {
+      "id": "channel-video",
+      "type": "channel",
+      "label": "视频字幕",
+      "source_refs": [
+        "S14",
+        "S15",
+        "S17",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S38",
+        "S39",
+        "S40",
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S46",
+        "S47",
+        "S49",
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S54"
+      ]
+    },
+    {
+      "id": "source-S14",
+      "type": "video",
+      "label": "习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。枞树四季常绿，象征中朝友谊生生不息。7年前，习近平总书记曾以“参天大树”生动比喻中朝关系。“中朝友谊万古长青”！（来源：人民日报）",
+      "source_refs": [
+        "S14"
+      ],
+      "url": "https://www.douyin.com/video/7649272289929760026",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649272289929760026"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-608b07f9d2939652",
+      "type": "risk",
+      "label": "该条侧重象征性活动和友谊表达，没有提供双边关系实际合作成效或争议情况，信息维度有限。",
+      "source_refs": [
+        "S14"
+      ]
+    },
+    {
+      "id": "source-S15",
+      "type": "video",
+      "label": "习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。枞树四季常绿，象征中朝友谊生生不息。7年前，习近平总书记曾以“参天大树”生动比喻中朝关系。“中朝友谊万古长青”！",
+      "source_refs": [
+        "S15"
+      ],
+      "url": "https://www.douyin.com/video/7649270370809302324",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649270370809302324"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-3c023cd22b1dd3a8",
+      "type": "risk",
+      "label": "该条与同类正面叙事相近，主要是象征性表达，缺乏对其他观点和实际关系问题的呈现。",
+      "source_refs": [
+        "S15"
+      ]
+    },
+    {
+      "id": "source-S16",
+      "type": "forum_post",
+      "label": "中朝关系山水相连，唇齿相依，友谊长存[握手]",
+      "source_refs": [
+        "S16"
+      ],
+      "url": "",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649249507636790073"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S17",
+      "type": "video",
+      "label": "6月9日，习近平总书记和夫人彭丽媛参谒为纪念中国人民志愿军英烈的丰功伟绩而修建的中朝友谊塔。中国人民志愿军烈士永垂不朽！愿中朝传统友谊焕发更加璀璨的时代光辉！",
+      "source_refs": [
+        "S17"
+      ],
+      "url": "https://www.douyin.com/video/7649247552906284303",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649247552906284303"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S18",
+      "type": "forum_post",
+      "label": "中朝关系是唯一具有军事互助的双边关系",
+      "source_refs": [
+        "S18"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649231643211875121"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "risk-a657ad4bc4afd0d9",
+      "type": "risk",
+      "label": "“唯一”属于范围很广的比较性断言，但该来源未提供依据，单凭此条无法核实其准确性。",
+      "source_refs": [
+        "S18"
+      ]
+    },
+    {
+      "id": "source-S19",
+      "type": "video",
+      "label": "独家视频！习近平同金正恩举行会谈：时隔七年再次到访美丽的平壤，我感到十分高兴，也格外亲切。（来源：央视时政）",
+      "source_refs": [
+        "S19"
+      ],
+      "url": "https://www.douyin.com/video/7649212940932376482",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649212940932376482"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S20",
+      "type": "video",
+      "label": "看到中方对朝鲜开始国事访问，韩国心里是五味杂陈 #军事科普 #军事科技",
+      "source_refs": [
+        "S20"
+      ],
+      "url": "https://www.douyin.com/video/7649208685788450067",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649208685788450067"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-59bbf94f13ccb16a",
+      "type": "risk",
+      "label": "将韩国描述为具有一致的复杂情绪，可能造成对群体态度的过度概括；该标题未提供相关证据。",
+      "source_refs": [
+        "S20"
+      ]
+    },
+    {
+      "id": "source-S21",
+      "type": "video",
+      "label": "习近平：中朝传统友谊植根于双方共同的理想信念和奋斗目标 （新闻联播）",
+      "source_refs": [
+        "S21"
+      ],
+      "url": "https://www.douyin.com/video/7649200855454928138",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649200855454928138"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S22",
+      "type": "video",
+      "label": "当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾馆同朝鲜劳动党总书记、国务委员长金正恩举行会谈。中朝两党两国最高领导人会谈，这些关键词值得关注，一支视频了解。",
+      "source_refs": [
+        "S22"
+      ],
+      "url": "https://www.douyin.com/video/7649193681399876915",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649193681399876915"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S23",
+      "type": "forum_post",
+      "label": "牢不可破的中朝关系！",
+      "source_refs": [
+        "S23"
+      ],
+      "url": "",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649180883887702822"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S24",
+      "type": "forum_post",
+      "label": "#推动中朝关系与时俱进# #时隔七年再次到访美丽的平壤#",
+      "source_refs": [
+        "S24"
+      ],
+      "url": "",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307654499211198"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "source-S25",
+      "type": "forum_post",
+      "label": "#推动中朝关系与时俱进#【独家视频 | 习近平：#时隔七年再次到访美丽的平壤# 我感到十分高兴 也格外亲切】当地时间6月8日下午，中共中央总书记、国家主席习近平",
+      "source_refs": [
+        "S25"
+      ],
+      "url": "https://m.weibo.cn/detail/5307654278484467",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307654278484467"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S26",
+      "type": "forum_post",
+      "label": "【#习近平同金正恩举行会谈#】当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾馆同朝鲜劳动党总书记、国务委员长金正恩举行会谈。习近平指出，时",
+      "source_refs": [
+        "S26"
+      ],
+      "url": "https://m.weibo.cn/detail/5307651101820068",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307651101820068"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-24fa5cd6b49835b4",
+      "type": "risk",
+      "label": "内容是会谈表述，主要呈现双方的政策意向；合作落实情况及实际效果无法据此判断。",
+      "source_refs": [
+        "S26"
+      ]
+    },
+    {
+      "id": "source-S27",
+      "type": "forum_post",
+      "label": "#习言道#【#让中朝传统友谊更加深入人心#】当地时间6月8日，中共中央总书记、国家主席习近平在平壤锦绣山迎宾馆同朝鲜劳动党总书记、国务委员长金正恩举行会谈。习近",
+      "source_refs": [
+        "S27"
+      ],
+      "url": "https://m.weibo.cn/detail/5307649445072400",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307649445072400"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-557f885b3a0d0300",
+      "type": "risk",
+      "label": "正文未展示具体论述，不能据此判断相关观点的完整内容或实施安排。",
+      "source_refs": [
+        "S27"
+      ]
+    },
+    {
+      "id": "source-S28",
+      "type": "forum_post",
+      "label": "习近平同金正恩举行会谈 农民日报的微博视频",
+      "source_refs": [
+        "S28"
+      ],
+      "url": "https://m.weibo.cn/detail/5307626680484628",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307626680484628"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S29",
+      "type": "forum_post",
+      "label": "【#习近平同金正恩举行会谈#】6月8日，中共中央总书记、中国国家主席习近平在访问平壤时同朝鲜劳动党总书记、国务委员长金正恩举行会谈。习近平表示，愿以这次访问为契",
+      "source_refs": [
+        "S29"
+      ],
+      "url": "https://m.weibo.cn/detail/5307621206659198",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307621206659198"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-5c0be8e7b95c2d95",
+      "type": "risk",
+      "label": "帖子呈现的是会谈表态，不能据此确认合作项目的落实进度或实际成效。",
+      "source_refs": [
+        "S29"
+      ]
+    },
+    {
+      "id": "source-S30",
+      "type": "forum_post",
+      "label": "#习近平强调3个不会改变#【#中朝关系的鲜明特征#】#习近平同金正恩举行会谈# 当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾馆同朝鲜劳动",
+      "source_refs": [
+        "S30"
+      ],
+      "url": "https://m.weibo.cn/detail/5307594860398649",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307594860398649"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-b1e0c6abf3f8c0f4",
+      "type": "risk",
+      "label": "内容为立场和政策表述，未提供具体执行细节或实际效果，相关情况无法由此判断。",
+      "source_refs": [
+        "S30"
+      ]
+    },
+    {
+      "id": "source-S31",
+      "type": "forum_post",
+      "label": "#习近平同金正恩在平壤会谈#【习近平同金正恩举行会谈】#习近平就发展中朝关系提出4点意见#",
+      "source_refs": [
+        "S31"
+      ],
+      "url": "",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "5307591788069819"
+      },
+      "platform": "微博评论"
+    },
+    {
+      "id": "risk-d10cf0880aa2c372",
+      "type": "risk",
+      "label": "信息内容极少，若据此解读公众对中朝关系的态度，可能造成过度推断。",
+      "source_refs": [
+        "S31"
+      ]
+    },
+    {
+      "id": "source-S32",
+      "type": "forum_post",
+      "label": "#习近平同金正恩在平壤会谈#【习近平同金正恩举行会谈】#习近平就发展中朝关系提出4点意见# 当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾",
+      "source_refs": [
+        "S32"
+      ],
+      "url": "https://m.weibo.cn/detail/5307591313589852",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307591313589852"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-20ba87307a0bd767",
+      "type": "risk",
+      "label": "来源主要呈现官方会谈表述，不能据此推断两国社会整体民意或合作实际成效。",
+      "source_refs": [
+        "S32"
+      ]
+    },
+    {
+      "id": "risk-11bb1c2bdbf98fbe",
+      "type": "risk",
+      "label": "涉及半岛和平、安全、主权和发展利益等敏感议题，相关表述可能引发不同解读。",
+      "source_refs": [
+        "S32"
+      ]
+    },
+    {
+      "id": "source-S33",
+      "type": "forum_post",
+      "label": "#外交部回应对朝鲜半岛问题立场#【外交部：中方在半岛问题上的立场和政策保持连续性、稳定性】6月8日，外交部发言人林剑主持例行记者会。法新社记者就中方对朝鲜半岛问",
+      "source_refs": [
+        "S33"
+      ],
+      "url": "https://m.weibo.cn/detail/5307557591125760",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307557591125760"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-63160f617b5704e8",
+      "type": "risk",
+      "label": "表述较为概括，无法据此判断半岛局势后续走向或中朝关系的具体变化。",
+      "source_refs": [
+        "S33"
+      ]
+    },
+    {
+      "id": "source-S34",
+      "type": "forum_post",
+      "label": "近闻·总书记这样讲述中朝友谊网页链接",
+      "source_refs": [
+        "S34"
+      ],
+      "url": "https://m.weibo.cn/detail/5307555876438972",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307555876438972"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-ce1c9e362c7ae315",
+      "type": "risk",
+      "label": "正文未提供实际网页内容，无法核验其具体信息或据此开展可靠判断。",
+      "source_refs": [
+        "S34"
+      ]
+    },
+    {
+      "id": "source-S35",
+      "type": "forum_post",
+      "label": "【此行间·#从这些瞬间感受中朝友谊#】#朝鲜民众沿途欢迎现场# 在礼宾摩托车队的护卫下，习近平总书记乘车前往金日成广场。沿途民众挥舞着中朝两国国旗，手持五彩缤纷",
+      "source_refs": [
+        "S35"
+      ],
+      "url": "https://m.weibo.cn/detail/5307548397208418",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307548397208418"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-03bf812017346f3c",
+      "type": "risk",
+      "label": "来源描述的是特定欢迎场景，不能将其外推为朝鲜民众整体态度或总体民意。",
+      "source_refs": [
+        "S35"
+      ]
+    },
+    {
+      "id": "risk-e74855ab5d05d7b5",
+      "type": "risk",
+      "label": "场景化宣传可能突出欢迎与友谊的一面，未呈现其他可能存在的观点，信息代表性有限。",
+      "source_refs": [
+        "S35"
+      ]
+    },
+    {
+      "id": "source-S36",
+      "type": "forum_post",
+      "label": "中朝关系同志加兄弟，山水相连，友谊长存[赞][赞]",
+      "source_refs": [
+        "S36"
+      ],
+      "url": "",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649031341899760442"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "risk-4b34068d110d5af5",
+      "type": "risk",
+      "label": "该帖为单条论坛观点，不能据此判断总体民意或中朝关系的实际状况。",
+      "source_refs": [
+        "S36"
+      ]
+    },
+    {
+      "id": "source-S37",
+      "type": "forum_post",
+      "label": "中朝关系牢不可破，携手并进！！！",
+      "source_refs": [
+        "S37"
+      ],
+      "url": "",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649030424697848630"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "risk-32bb8dfcccd36272",
+      "type": "risk",
+      "label": "该帖属于单条论坛表达，措辞较为概括，未提供支撑具体判断的背景信息。",
+      "source_refs": [
+        "S37"
+      ]
+    },
+    {
+      "id": "source-S38",
+      "type": "video",
+      "label": "当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾馆同朝鲜劳动党总书记、国务委员长金正恩举行会谈。中朝两党两国最高领导人会谈，这些关键词值得关注，一支视频了解。",
+      "source_refs": [
+        "S38"
+      ],
+      "url": "https://www.douyin.com/video/7649028717896944911",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649028717896944911"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-e5d95844b20faa6b",
+      "type": "risk",
+      "label": "仅凭该来源文字无法判断会谈成果、具体议题或潜在影响。",
+      "source_refs": [
+        "S38"
+      ]
+    },
+    {
+      "id": "source-S39",
+      "type": "video",
+      "label": "金正恩：无论国际形势如何风云变幻，久经考验的朝中关系牢不可破",
+      "source_refs": [
+        "S39"
+      ],
+      "url": "https://www.douyin.com/video/7649027288532667682",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649027288532667682"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-1ef99fb4a41be459",
+      "type": "risk",
+      "label": "该来源仅呈现一项表态，无法据此推断双方关系的全部状况或未来走向。",
+      "source_refs": [
+        "S39"
+      ]
+    },
+    {
+      "id": "source-S40",
+      "type": "video",
+      "label": "现场视频！当地时间6月8日下午，中共中央总书记、国家主席习近平在平壤锦绣山迎宾馆同朝鲜劳动党总书记、国务委员长金正恩举行会谈。（来源：央视时政）",
+      "source_refs": [
+        "S40"
+      ],
+      "url": "https://www.douyin.com/video/7649025349644324139",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649025349644324139"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-55b17ec93667e24b",
+      "type": "risk",
+      "label": "来源文字未说明会谈具体内容和结果，因此无法判断其对中朝关系的实际影响。",
+      "source_refs": [
+        "S40"
+      ]
+    },
+    {
+      "id": "source-S41",
+      "type": "video",
+      "label": "独家视频！习近平同金正恩举行会谈：时隔七年再次到访美丽的平壤，我感到十分高兴，也格外亲切。",
+      "source_refs": [
+        "S41"
+      ],
+      "url": "https://www.douyin.com/video/7649024860051475722",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649024860051475722"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-587bdee4e52b6ec4",
+      "type": "risk",
+      "label": "仅凭视频标题无法确认会谈具体成果、议题和后续落实情况，相关判断存在信息不足。",
+      "source_refs": [
+        "S41"
+      ]
+    },
+    {
+      "id": "source-S42",
+      "type": "video",
+      "label": "当地时间6月8日下午，习近平同金正恩举行会谈。习近平就发展中朝关系提出“四个坚持”，为推动中朝关系与时俱进、得到更大发展提供了重要支撑。#主播说联播",
+      "source_refs": [
+        "S42"
+      ],
+      "url": "https://www.douyin.com/video/7649017828690889984",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649017828690889984"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-8a8643ecfde3d1a8",
+      "type": "risk",
+      "label": "来源未说明“四个坚持”的具体内容，也未提供政策落实、执行效果或各方反馈，无法据此判断实际影响。",
+      "source_refs": [
+        "S42"
+      ]
+    },
+    {
+      "id": "source-S43",
+      "type": "video",
+      "label": "金正恩：朝中两国的特殊性不仅在于我们互为邻国，更在于双方具有深厚传统友谊和共同的理想信念，并对此彼此珍视和代代传承。",
+      "source_refs": [
+        "S43"
+      ],
+      "url": "https://www.douyin.com/video/7649009206788113771",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7649009206788113771"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-d691e4671649cf26",
+      "type": "risk",
+      "label": "该表述主要反映政治和历史叙事，未涉及现实合作领域、分歧或民间态度，不能据此全面判断双边关系状况。",
+      "source_refs": [
+        "S43"
+      ]
+    },
+    {
+      "id": "source-S44",
+      "type": "video",
+      "label": "一旦解锁这个通道，东北从此不靠借港出海 李在明心里是五味杂陈，眼看着中方将年内首次重量级外访锁定朝鲜，规格拉满，韩国上下猛然发现不对劲，这次中朝一会，不仅要有大事相商，还有一个关键契机也被推上了台面，一旦促成，东北从此不再靠“借港”出海。#全球创作者计划   #零基础看懂全球   #时代砺剑高燃出列",
+      "source_refs": [
+        "S44"
+      ],
+      "url": "https://www.douyin.com/video/7648994261425343754",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7648994261425343754"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-2a656c8cdf400d96",
+      "type": "risk",
+      "label": "来源使用“一旦解锁”“从此不靠借港出海”等确定性和煽动性表述，但未提供通道方案、会谈文件或权威依据，存在夸大和误导风险。",
+      "source_refs": [
+        "S44"
+      ]
+    },
+    {
+      "id": "risk-88dcd8d936efe9db",
+      "type": "risk",
+      "label": "将会谈与韩国上下“猛然发现不对劲”等反应相联系，但未提供韩国方面的具体来源或可核实证据，可能放大地区紧张叙事。",
+      "source_refs": [
+        "S44"
+      ]
+    },
+    {
+      "id": "source-S45",
+      "type": "forum_post",
+      "label": "#习近平这样阐述发展中朝关系#【金句海报 | 习近平总书记在署名文章中这样阐述发展中朝关系】6月8日，在赴平壤对朝鲜民主主义人民共和国进行国事访问之际，中共中央",
+      "source_refs": [
+        "S45"
+      ],
+      "url": "https://m.weibo.cn/detail/5307493695619113",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307493695619113"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "risk-9ec7436131dda6f4",
+      "type": "risk",
+      "label": "正文未呈现署名文章的具体内容，且标题信息存在截断，无法判断其具体政策主张和实际影响。",
+      "source_refs": [
+        "S45"
+      ]
+    },
+    {
+      "id": "source-S46",
+      "type": "video",
+      "label": "看到中方对朝鲜的国事访问后，韩国朝野上下“五味杂陈” #全球创作者计划   #零基础看懂全球",
+      "source_refs": [
+        "S46"
+      ],
+      "url": "https://www.douyin.com/video/7648937950771694867",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7648937950771694867"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S47",
+      "type": "video",
+      "label": "在礼宾摩托车队的护卫下，习近平总书记乘车前往金日成广场。沿途民众挥舞着中朝两国国旗，手持五彩缤纷的鲜花，高举欢迎标语，热情迎接习近平总书记的到访。期待中朝最高领导人共话中朝传统友谊，共商中朝关系发展大计。",
+      "source_refs": [
+        "S47"
+      ],
+      "url": "https://www.douyin.com/video/7648912921086414120",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7648912921086414120"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S48",
+      "type": "forum_post",
+      "label": "【习近平在朝鲜媒体发表署名文章】6月8日，在赴平壤对朝鲜民主主义人民共和国进行国事访问之际，中共中央总书记、国家主席习近平在朝鲜《劳动新闻》发表题为《继往开来、",
+      "source_refs": [
+        "S48"
+      ],
+      "url": "https://m.weibo.cn/detail/5307418143621737",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "weibo_note",
+        "primary_key_column": "note_id",
+        "primary_key": "5307418143621737"
+      },
+      "platform": "微博"
+    },
+    {
+      "id": "source-S49",
+      "type": "video",
+      "label": "2025年9月，习近平总书记在北京同金正恩总书记举行会谈时，特别提到2019年对朝鲜的国事访问，“庄严的中朝友谊塔、壮观的大型团体操表演、热情的朝鲜人民都给我留下了深刻的印象”。回顾这些瞬间，感受“中朝一家亲的浓厚氛围”！",
+      "source_refs": [
+        "S49"
+      ],
+      "url": "https://www.douyin.com/video/7648102433310182671",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7648102433310182671"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S50",
+      "type": "video",
+      "label": "中共中央总书记、中华人民共和国主席习近平将于6月8日至9日对朝鲜进行国事访问。2019年，习近平访朝时，沿途数十万群众夹道欢迎，盛况空前。回顾这一幕，感受中朝传统友谊历久弥坚。",
+      "source_refs": [
+        "S50"
+      ],
+      "url": "https://www.douyin.com/video/7647745997132631311",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647745997132631311"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "source-S51",
+      "type": "video",
+      "label": "中朝公路、铁路、航空全面复开！“中朝友谊永不褪色、牢不可破”",
+      "source_refs": [
+        "S51"
+      ],
+      "url": "https://www.douyin.com/video/7629161809517268274",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7629161809517268274"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-77a564b3cb45ca6b",
+      "type": "risk",
+      "label": "“全面复开”等表述缺乏正文细节支持，可能造成对交通恢复范围和实际状态的过度判断。",
+      "source_refs": [
+        "S51"
+      ]
+    },
+    {
+      "id": "source-S52",
+      "type": "video",
+      "label": "现场视频！习近平同金正恩会谈：你这次来华，体现了朝方维护二战胜利成果的坚定意志（来源：央视时政）",
+      "source_refs": [
+        "S52"
+      ],
+      "url": "https://www.douyin.com/video/7546242450084449576",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7546242450084449576"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-a709c8bda251ec15",
+      "type": "risk",
+      "label": "将来华行为解释为特定政治意志的体现，但来源未提供会谈全文或更多背景，存在解读范围受限的风险。",
+      "source_refs": [
+        "S52"
+      ]
+    },
+    {
+      "id": "source-S53",
+      "type": "video",
+      "label": "现场视频！习近平：很高兴时隔六年再次与金正恩总书记同志会晤。",
+      "source_refs": [
+        "S53"
+      ],
+      "url": "https://www.douyin.com/video/7546231257185717544",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7546231257185717544"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-158708b1ba825894",
+      "type": "risk",
+      "label": "仅凭对再次会晤的正面表述，无法判断中朝关系整体变化或会谈实际成果。",
+      "source_refs": [
+        "S53"
+      ]
+    },
+    {
+      "id": "source-S54",
+      "type": "video",
+      "label": "朝鲜是我们的铁哥们吗？（第1集） #万万没想到 #知识科普 #硬核深度计划#独立思考",
+      "source_refs": [
+        "S54"
+      ],
+      "url": "https://www.douyin.com/video/7468602007394323724",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7468602007394323724"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-3343d33971aac07f",
+      "type": "risk",
+      "label": "“铁哥们”等口语化标签可能简化复杂的中朝关系，但该来源未提供具体论述，影响程度无法判断。",
+      "source_refs": [
+        "S54"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "channel-forum_post",
+      "type": "propagated_via",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S16",
+        "S18",
+        "S23",
+        "S24",
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32",
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S45",
+        "S48"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S1",
+      "type": "contains",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "source-S1",
+      "target": "risk-0d56aa63eb5ad25e",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S1"
+      ],
+      "evidence_quotes": [
+        "枞树四季常绿，象征中朝友谊生生不息。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S2",
+      "type": "contains",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "source": "source-S2",
+      "target": "risk-17ddec73e07cb3f1",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S2"
+      ],
+      "evidence_quotes": [
+        "习近平和金正恩驻足观摩授课，不时颔首赞许。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S3",
+      "type": "contains",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "source-S3",
+      "target": "risk-a0b551884f69007b",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S3"
+      ],
+      "evidence_quotes": [
+        "双方共叙传统友谊、共商合作大计"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S4",
+      "type": "contains",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "source": "source-S4",
+      "target": "risk-314bd09c27570f7d",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S4"
+      ],
+      "evidence_quotes": [
+        "推动中朝关系高水平发展"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S5",
+      "type": "contains",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "source-S5",
+      "target": "risk-dc3c629172c810ec",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S5"
+      ],
+      "evidence_quotes": [
+        "习近平在会谈中提出四个“坚持”"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S6",
+      "type": "contains",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "source": "source-S6",
+      "target": "risk-c4b89e6c3970fbc4",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S6"
+      ],
+      "evidence_quotes": [
+        "推动中朝关系与时俱进、得到更大发展"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S7",
+      "type": "contains",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "source-S7",
+      "target": "risk-1ad9760c46816092",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S7"
+      ],
+      "evidence_quotes": [
+        "共同执锹培土、提水浇灌，种下一株枞树。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S8",
+      "type": "contains",
+      "source_refs": [
+        "S8"
+      ]
+    },
+    {
+      "source": "source-S8",
+      "target": "risk-c7e6c68f435609b5",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S8"
+      ],
+      "evidence_quotes": [
+        "习近平提出的4点意见，为推动中朝关系与时俱进、得到更大发展提供了重要支撑。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S9",
+      "type": "contains",
+      "source_refs": [
+        "S9"
+      ]
+    },
+    {
+      "source": "source-S9",
+      "target": "risk-118c61ddfa04e53d",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S9"
+      ],
+      "evidence_quotes": [
+        "中朝两党两国最高领导人会谈，有这些关键词"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S10",
+      "type": "contains",
+      "source_refs": [
+        "S10"
+      ]
+    },
+    {
+      "source": "source-S10",
+      "target": "risk-779af367d03db18a",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S10"
+      ],
+      "evidence_quotes": [
+        "习近平总书记署名文章为中朝关系迈向新高度提供指引"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S11",
+      "type": "contains",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "source": "source-S11",
+      "target": "risk-c3ade52a43eff732",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S11"
+      ],
+      "evidence_quotes": [
+        "维护好、巩固好、发展好中朝关系始终是中国党和政府坚定不移的方针。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S12",
+      "type": "contains",
+      "source_refs": [
+        "S12"
+      ]
+    },
+    {
+      "source": "source-S12",
+      "target": "risk-fdac744588f3f4f9",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S12"
+      ],
+      "evidence_quotes": [
+        "习近平：时隔七年再次到访美丽的平壤 我感到十分高兴 也格外亲切"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S13",
+      "type": "contains",
+      "source_refs": [
+        "S13"
+      ]
+    },
+    {
+      "source": "source-S13",
+      "target": "risk-5910710d026acef6",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S13"
+      ],
+      "evidence_quotes": [
+        "中朝关系世代友好，中朝人民幸福安康[比心]"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-video",
+      "type": "propagated_via",
+      "source_refs": [
+        "S14",
+        "S15",
+        "S17",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S38",
+        "S39",
+        "S40",
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S46",
+        "S47",
+        "S49",
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S54"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S14",
+      "type": "contains",
+      "source_refs": [
+        "S14"
+      ]
+    },
+    {
+      "source": "source-S14",
+      "target": "risk-608b07f9d2939652",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S14"
+      ],
+      "evidence_quotes": [
+        "习近平总书记和金正恩总书记共同执锹培土、提水浇灌，种下一株枞树。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S15",
+      "type": "contains",
+      "source_refs": [
+        "S15"
+      ]
+    },
+    {
+      "source": "source-S15",
+      "target": "risk-3c023cd22b1dd3a8",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S15"
+      ],
+      "evidence_quotes": [
+        "7年前，习近平总书记曾以“参天大树”生动比喻中朝关系。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S16",
+      "type": "contains",
+      "source_refs": [
+        "S16"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S17",
+      "type": "contains",
+      "source_refs": [
+        "S17"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S18",
+      "type": "contains",
+      "source_refs": [
+        "S18"
+      ]
+    },
+    {
+      "source": "source-S18",
+      "target": "risk-a657ad4bc4afd0d9",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S18"
+      ],
+      "evidence_quotes": [
+        "中朝关系是唯一具有军事互助的双边关系"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S19",
+      "type": "contains",
+      "source_refs": [
+        "S19"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S20",
+      "type": "contains",
+      "source_refs": [
+        "S20"
+      ]
+    },
+    {
+      "source": "source-S20",
+      "target": "risk-59bbf94f13ccb16a",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S20"
+      ],
+      "evidence_quotes": [
+        "韩国心里是五味杂陈"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S21",
+      "type": "contains",
+      "source_refs": [
+        "S21"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S22",
+      "type": "contains",
+      "source_refs": [
+        "S22"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S23",
+      "type": "contains",
+      "source_refs": [
+        "S23"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S24",
+      "type": "contains",
+      "source_refs": [
+        "S24"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S25",
+      "type": "contains",
+      "source_refs": [
+        "S25"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S26",
+      "type": "contains",
+      "source_refs": [
+        "S26"
+      ]
+    },
+    {
+      "source": "source-S26",
+      "target": "risk-24fa5cd6b49835b4",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S26"
+      ],
+      "evidence_quotes": [
+        "朝方各部门将同中方同志一道全力以赴全面落实"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S27",
+      "type": "contains",
+      "source_refs": [
+        "S27"
+      ]
+    },
+    {
+      "source": "source-S27",
+      "target": "risk-557f885b3a0d0300",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S27"
+      ],
+      "evidence_quotes": [
+        "习近平指出——"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S28",
+      "type": "contains",
+      "source_refs": [
+        "S28"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S29",
+      "type": "contains",
+      "source_refs": [
+        "S29"
+      ]
+    },
+    {
+      "source": "source-S29",
+      "target": "risk-5c0be8e7b95c2d95",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S29"
+      ],
+      "evidence_quotes": [
+        "中方愿同朝方加强发展战略对接"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S30",
+      "type": "contains",
+      "source_refs": [
+        "S30"
+      ]
+    },
+    {
+      "source": "source-S30",
+      "target": "risk-b1e0c6abf3f8c0f4",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S30"
+      ],
+      "evidence_quotes": [
+        "坚定立场不会改变"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S31",
+      "type": "contains",
+      "source_refs": [
+        "S31"
+      ]
+    },
+    {
+      "source": "source-S31",
+      "target": "risk-d10cf0880aa2c372",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S31"
+      ],
+      "evidence_quotes": [
+        "#习近平同金正恩在平壤会谈#【习近平同金正恩举行会谈】#习近平就发展中朝关系提出4点意见#"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S32",
+      "type": "contains",
+      "source_refs": [
+        "S32"
+      ]
+    },
+    {
+      "source": "source-S32",
+      "target": "risk-20ba87307a0bd767",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S32"
+      ],
+      "evidence_quotes": [
+        "习近平就发展中朝关系提出4点意见。"
+      ]
+    },
+    {
+      "source": "source-S32",
+      "target": "risk-11bb1c2bdbf98fbe",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S32"
+      ],
+      "evidence_quotes": [
+        "中朝两国应加强战略协调和配合，坚定捍卫各自主权、安全、发展利益，共同维护地区和平与发展。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S33",
+      "type": "contains",
+      "source_refs": [
+        "S33"
+      ]
+    },
+    {
+      "source": "source-S33",
+      "target": "risk-63160f617b5704e8",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S33"
+      ],
+      "evidence_quotes": [
+        "中方在半岛问题上的立场和政策保持连续性、稳定性。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S34",
+      "type": "contains",
+      "source_refs": [
+        "S34"
+      ]
+    },
+    {
+      "source": "source-S34",
+      "target": "risk-ce1c9e362c7ae315",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S34"
+      ],
+      "evidence_quotes": [
+        "近闻·总书记这样讲述中朝友谊网页链接"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S35",
+      "type": "contains",
+      "source_refs": [
+        "S35"
+      ]
+    },
+    {
+      "source": "source-S35",
+      "target": "risk-03bf812017346f3c",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S35"
+      ],
+      "evidence_quotes": [
+        "朝鲜民众沿途欢迎现场"
+      ]
+    },
+    {
+      "source": "source-S35",
+      "target": "risk-e74855ab5d05d7b5",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S35"
+      ],
+      "evidence_quotes": [
+        "沿途民众挥舞着中朝两国国旗，手持五彩缤纷的鲜花，高举欢迎标语，热情迎接习近平总书记的到访。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S36",
+      "type": "contains",
+      "source_refs": [
+        "S36"
+      ]
+    },
+    {
+      "source": "source-S36",
+      "target": "risk-4b34068d110d5af5",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S36"
+      ],
+      "evidence_quotes": [
+        "中朝关系同志加兄弟，山水相连，友谊长存[赞][赞]"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S37",
+      "type": "contains",
+      "source_refs": [
+        "S37"
+      ]
+    },
+    {
+      "source": "source-S37",
+      "target": "risk-32bb8dfcccd36272",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S37"
+      ],
+      "evidence_quotes": [
+        "中朝关系牢不可破，携手并进！！！"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S38",
+      "type": "contains",
+      "source_refs": [
+        "S38"
+      ]
+    },
+    {
+      "source": "source-S38",
+      "target": "risk-e5d95844b20faa6b",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S38"
+      ],
+      "evidence_quotes": [
+        "中朝两党两国最高领导人会谈，这些关键词值得关注，一支视频了解。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S39",
+      "type": "contains",
+      "source_refs": [
+        "S39"
+      ]
+    },
+    {
+      "source": "source-S39",
+      "target": "risk-1ef99fb4a41be459",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S39"
+      ],
+      "evidence_quotes": [
+        "金正恩：无论国际形势如何风云变幻，久经考验的朝中关系牢不可破"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S40",
+      "type": "contains",
+      "source_refs": [
+        "S40"
+      ]
+    },
+    {
+      "source": "source-S40",
+      "target": "risk-55b17ec93667e24b",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S40"
+      ],
+      "evidence_quotes": [
+        "同朝鲜劳动党总书记、国务委员长金正恩举行会谈。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S41",
+      "type": "contains",
+      "source_refs": [
+        "S41"
+      ]
+    },
+    {
+      "source": "source-S41",
+      "target": "risk-587bdee4e52b6ec4",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S41"
+      ],
+      "evidence_quotes": [
+        "独家视频！习近平同金正恩举行会谈：时隔七年再次到访美丽的平壤，我感到十分高兴，也格外亲切。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S42",
+      "type": "contains",
+      "source_refs": [
+        "S42"
+      ]
+    },
+    {
+      "source": "source-S42",
+      "target": "risk-8a8643ecfde3d1a8",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S42"
+      ],
+      "evidence_quotes": [
+        "习近平就发展中朝关系提出“四个坚持”，为推动中朝关系与时俱进、得到更大发展提供了重要支撑。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S43",
+      "type": "contains",
+      "source_refs": [
+        "S43"
+      ]
+    },
+    {
+      "source": "source-S43",
+      "target": "risk-d691e4671649cf26",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S43"
+      ],
+      "evidence_quotes": [
+        "金正恩：朝中两国的特殊性不仅在于我们互为邻国，更在于双方具有深厚传统友谊和共同的理想信念，并对此彼此珍视和代代传承。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S44",
+      "type": "contains",
+      "source_refs": [
+        "S44"
+      ]
+    },
+    {
+      "source": "source-S44",
+      "target": "risk-2a656c8cdf400d96",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S44"
+      ],
+      "evidence_quotes": [
+        "一旦解锁这个通道，东北从此不靠借港出海"
+      ]
+    },
+    {
+      "source": "source-S44",
+      "target": "risk-88dcd8d936efe9db",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S44"
+      ],
+      "evidence_quotes": [
+        "规格拉满，韩国上下猛然发现不对劲"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S45",
+      "type": "contains",
+      "source_refs": [
+        "S45"
+      ]
+    },
+    {
+      "source": "source-S45",
+      "target": "risk-9ec7436131dda6f4",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S45"
+      ],
+      "evidence_quotes": [
+        "中共中央总书记、国家主席习近平在朝鲜《劳动新闻》发表题为《继往开来、砥砺同行　续写中朝传统友谊崭新篇章》的署名文章，这样阐述发展中朝关系。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S46",
+      "type": "contains",
+      "source_refs": [
+        "S46"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S47",
+      "type": "contains",
+      "source_refs": [
+        "S47"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S48",
+      "type": "contains",
+      "source_refs": [
+        "S48"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S49",
+      "type": "contains",
+      "source_refs": [
+        "S49"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S50",
+      "type": "contains",
+      "source_refs": [
+        "S50"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S51",
+      "type": "contains",
+      "source_refs": [
+        "S51"
+      ]
+    },
+    {
+      "source": "source-S51",
+      "target": "risk-77a564b3cb45ca6b",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S51"
+      ],
+      "evidence_quotes": [
+        "中朝公路、铁路、航空全面复开！“中朝友谊永不褪色、牢不可破”"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S52",
+      "type": "contains",
+      "source_refs": [
+        "S52"
+      ]
+    },
+    {
+      "source": "source-S52",
+      "target": "risk-a709c8bda251ec15",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S52"
+      ],
+      "evidence_quotes": [
+        "现场视频！习近平同金正恩会谈：你这次来华，体现了朝方维护二战胜利成果的坚定意志（来源：央视时政）"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S53",
+      "type": "contains",
+      "source_refs": [
+        "S53"
+      ]
+    },
+    {
+      "source": "source-S53",
+      "target": "risk-158708b1ba825894",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S53"
+      ],
+      "evidence_quotes": [
+        "现场视频！习近平：很高兴时隔六年再次与金正恩总书记同志会晤。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S54",
+      "type": "contains",
+      "source_refs": [
+        "S54"
+      ]
+    },
+    {
+      "source": "source-S54",
+      "target": "risk-3343d33971aac07f",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S54"
+      ],
+      "evidence_quotes": [
+        "朝鲜是我们的铁哥们吗？（第1集） #万万没想到 #知识科普 #硬核深度计划#独立思考"
+      ]
+    }
+  ]
+}

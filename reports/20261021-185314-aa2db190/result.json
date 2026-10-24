@@ -1,0 +1,1113 @@
+{
+  "report_id": "20261021-185314-aa2db190",
+  "query": "问界",
+  "executed_at": "2026-10-21T18:53:14+08:00",
+  "source_types": [
+    "video",
+    "forum_post"
+  ],
+  "source_count": 29,
+  "mode": "database",
+  "warnings": [],
+  "sources": [
+    {
+      "id": "db-2f10845cb8be67e3036da59db3773e3b",
+      "source_type": "forum_post",
+      "title": "视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。",
+      "content": "视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。",
+      "url": "",
+      "published_at": "2026-10-21T10:29:57+00:00",
+      "author": "糖炒皮牙子",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699066442969416458"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S1",
+      "summary": "视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。"
+    },
+    {
+      "id": "db-058a5dd6208877aa1596938a94123e5c",
+      "source_type": "forum_post",
+      "title": "人下来了没？问界怎么没说？？？？",
+      "content": "人下来了没？问界怎么没说？？？？",
+      "url": "",
+      "published_at": "2026-10-21T10:29:48+00:00",
+      "author": "笑看人生",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699066406239421222"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S2",
+      "summary": "人下来了没？问界怎么没说？？？？"
+    },
+    {
+      "id": "db-da3cbbb39302dffc37010a889c3bfe82",
+      "source_type": "forum_post",
+      "title": "有人能告诉我问界的老板大不大",
+      "content": "有人能告诉我问界的老板大不大",
+      "url": "",
+      "published_at": "2026-10-21T10:26:12+00:00",
+      "author": "快到碗里来🌊fzj",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699065478296388409"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S3",
+      "summary": "有人能告诉我问界的老板大不大"
+    },
+    {
+      "id": "db-728408dc46e9faf94b2fae74372878ea",
+      "source_type": "video",
+      "title": "不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。",
+      "content": "不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。",
+      "url": "https://www.douyin.com/video/7699059199025141753",
+      "published_at": "2026-10-21T10:01:49+00:00",
+      "author": "抖音账号海口龙华礼春纸香",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699059199025141753"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [
+          "安全"
+        ],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S4",
+      "summary": "不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。"
+    },
+    {
+      "id": "db-bac975d88ce5eb787a91b835051b598e",
+      "source_type": "video",
+      "title": "问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击”",
+      "content": "问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击”",
+      "url": "https://www.douyin.com/video/7699056429772164361",
+      "published_at": "2026-10-21T09:51:08+00:00",
+      "author": "红星资本局",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699056429772164361"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S5",
+      "summary": "问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击”"
+    },
+    {
+      "id": "db-361fa382ca8e9c4458997e52ef8913c2",
+      "source_type": "video",
+      "title": "车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶",
+      "content": "车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶",
+      "url": "https://www.douyin.com/video/7699055579997785379",
+      "published_at": "2026-10-21T09:47:53+00:00",
+      "author": "二三里资讯",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699055579997785379"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S6",
+      "summary": "车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶"
+    },
+    {
+      "id": "db-cfae74370960ff163c4d9bebc89b2427",
+      "source_type": "forum_post",
+      "title": "现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度",
+      "content": "现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度，然后用这样的数字做标题！",
+      "url": "",
+      "published_at": "2026-10-21T09:21:38+00:00",
+      "author": "冷萃浮尘",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699048833867957049"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S7",
+      "summary": "现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度，然后用这样的数字做标题！"
+    },
+    {
+      "id": "db-e33438740e518cf1c6827dc43deeb5e9",
+      "source_type": "video",
+      "title": "问界回应车辆起火事故 #问界  #车辆起火  #事故",
+      "content": "问界回应车辆起火事故 #问界  #车辆起火  #事故",
+      "url": "https://www.douyin.com/video/7699044797947940137",
+      "published_at": "2026-10-21T09:06:02+00:00",
+      "author": "宁夏广电新闻中心",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699044797947940137"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S8",
+      "summary": "问界回应车辆起火事故 #问界  #车辆起火  #事故"
+    },
+    {
+      "id": "db-c7fcab0f6a370377e37b0c809130d3e0",
+      "source_type": "video",
+      "title": "10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9",
+      "content": "10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9",
+      "url": "https://www.douyin.com/video/7699039657488551177",
+      "published_at": "2026-10-21T08:46:02+00:00",
+      "author": "财闻",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699039657488551177"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S9",
+      "summary": "10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9"
+    },
+    {
+      "id": "db-6e2a55cf18bdfe60751e41814fc2e4ee",
+      "source_type": "video",
+      "title": "问界回应起火 #财经",
+      "content": "问界回应起火 #财经",
+      "url": "https://www.douyin.com/video/7699037546415803657",
+      "published_at": "2026-10-21T08:37:52+00:00",
+      "author": "落日逐帆",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699037546415803657"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S10",
+      "summary": "问界回应起火 #财经"
+    },
+    {
+      "id": "db-deaea951a9ad00b65c41994276819b3b",
+      "source_type": "video",
+      "title": "10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火",
+      "content": "10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火",
+      "url": "https://www.douyin.com/video/7699033882007506239",
+      "published_at": "2026-10-21T08:23:40+00:00",
+      "author": "九派新闻",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699033882007506239"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S11",
+      "summary": "10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火"
+    },
+    {
+      "id": "db-d08a6d2e1d1f4d851ac968e0658df1d0",
+      "source_type": "video",
+      "title": "一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准",
+      "content": "一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准",
+      "url": "https://www.douyin.com/video/7699013553399544050",
+      "published_at": "2026-10-21T07:04:42+00:00",
+      "author": "哈基米",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7699013553399544050"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S12",
+      "summary": "一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准"
+    },
+    {
+      "id": "db-b694fbdf9354dba9e40547fe2ed5df09",
+      "source_type": "forum_post",
+      "title": "昨天问界发生的起火事故，怎么洗？[奸笑]",
+      "content": "昨天问界发生的起火事故，怎么洗？[奸笑]",
+      "url": "",
+      "published_at": "2026-10-21T06:32:24+00:00",
+      "author": "路漫漫",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7699005225383101234"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S13",
+      "summary": "昨天问界发生的起火事故，怎么洗？[奸笑]"
+    },
+    {
+      "id": "db-befd6e139c8cb0308a845c508e7e45b9",
+      "source_type": "forum_post",
+      "title": "问界是赛力斯汽车，不是华为",
+      "content": "问界是赛力斯汽车，不是华为",
+      "url": "",
+      "published_at": "2026-10-21T06:03:19+00:00",
+      "author": "蜗牛也很牛　　　　　　     　　　༽",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7698997732648289039"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S14",
+      "summary": "问界是赛力斯汽车，不是华为"
+    },
+    {
+      "id": "db-6df60eb9088ed071495ccdd76a8d4c04",
+      "source_type": "video",
+      "title": "问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏",
+      "content": "问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏",
+      "url": "https://www.douyin.com/video/7698981052250185626",
+      "published_at": "2026-10-21T04:58:34+00:00",
+      "author": "啦啦啦哦哦哦",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698981052250185626"
+      },
+      "sentiment": "positive",
+      "matched_words": {
+        "positive": [
+          "安全"
+        ],
+        "negative": []
+      },
+      "reference": "S15",
+      "summary": "问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏"
+    },
+    {
+      "id": "db-cdb9a00b7cb5e4726a4b663e04a27809",
+      "source_type": "video",
+      "title": "华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。",
+      "content": "华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。",
+      "url": "https://www.douyin.com/video/7698902415999847145",
+      "published_at": "2026-10-20T23:53:25+00:00",
+      "author": "满满聚宝盆",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698902415999847145"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S16",
+      "summary": "华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。"
+    },
+    {
+      "id": "db-aafcc138094fd6e28bcf7b8291922dde",
+      "source_type": "forum_post",
+      "title": "问界是最好的电车[看]",
+      "content": "问界是最好的电车[看]",
+      "url": "",
+      "published_at": "2026-08-04T12:57:27+00:00",
+      "author": "不想长大",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7670159812810048262"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S17",
+      "summary": "问界是最好的电车[看]"
+    },
+    {
+      "id": "db-f9cd0abce015d10b95562bc880735e01",
+      "source_type": "forum_post",
+      "title": "有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是",
+      "content": "有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是",
+      "url": "",
+      "published_at": "2026-06-06T06:31:34+00:00",
+      "author": "2.22",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7648166346483745563"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S18",
+      "summary": "有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是"
+    },
+    {
+      "id": "db-12f4cf021ceb98833b555dfb71af9d22",
+      "source_type": "forum_post",
+      "title": "一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙]",
+      "content": "一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙]",
+      "url": "",
+      "published_at": "2026-06-05T01:44:44+00:00",
+      "author": "子昱",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647721341311402789"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S19",
+      "summary": "一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙]"
+    },
+    {
+      "id": "db-4e70d47f6bb523272468006dd3aca88c",
+      "source_type": "video",
+      "title": "问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行",
+      "content": "问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行",
+      "url": "https://www.douyin.com/video/7647511408939276874",
+      "published_at": "2026-06-04T12:10:04+00:00",
+      "author": "懂sir咔咔说",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647511408939276874"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S20",
+      "summary": "问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行"
+    },
+    {
+      "id": "db-7124ce8bf2e9b566f2e8e0ba7de75222",
+      "source_type": "forum_post",
+      "title": "我搜关门灭火为什么推的全是问界的视频[疑问]",
+      "content": "我搜关门灭火为什么推的全是问界的视频[疑问]",
+      "url": "",
+      "published_at": "2026-06-04T01:21:34+00:00",
+      "author": "L J。",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647344289760625445"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S21",
+      "summary": "我搜关门灭火为什么推的全是问界的视频[疑问]"
+    },
+    {
+      "id": "db-d3a04df50dda6d18453c61119c57815b",
+      "source_type": "forum_post",
+      "title": "希望华为问界能够作为中国车企的领航员，而不是小米苏\n7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望，\n做良心车企！",
+      "content": "希望华为问界能够作为中国车企的领航员，而不是小米苏\n7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望，\n做良心车企！",
+      "url": "",
+      "published_at": "2026-06-03T18:01:24+00:00",
+      "author": "老五",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647230849175601958"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S22",
+      "summary": "希望华为问界能够作为中国车企的领航员，而不是小米苏\n7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望，\n做良心车企！"
+    },
+    {
+      "id": "db-b2dbb373802efa598a23e61fc6568352",
+      "source_type": "forum_post",
+      "title": "我觉得这个车主绝对不会再买问界[不看]",
+      "content": "我觉得这个车主绝对不会再买问界[不看]",
+      "url": "",
+      "published_at": "2026-06-03T14:34:52+00:00",
+      "author": "东莞铁匠",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647177636837999409"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S23",
+      "summary": "我觉得这个车主绝对不会再买问界[不看]"
+    },
+    {
+      "id": "db-b008b2f6f392c3db39d01eda6d419e7a",
+      "source_type": "forum_post",
+      "title": "小米你怎么回事？搞得问界生气起火了🔥？",
+      "content": "小米你怎么回事？搞得问界生气起火了🔥？",
+      "url": "",
+      "published_at": "2026-06-03T14:13:02+00:00",
+      "author": "帝帝🧨",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647172011622794041"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S24",
+      "summary": "小米你怎么回事？搞得问界生气起火了🔥？"
+    },
+    {
+      "id": "db-ddd949bd48c3bb302f6c54b863b6986b",
+      "source_type": "forum_post",
+      "title": "问界保密工作不到位啊，人家小米保密工作多到位[呲牙]",
+      "content": "问界保密工作不到位啊，人家小米保密工作多到位[呲牙]",
+      "url": "",
+      "published_at": "2026-06-03T14:12:08+00:00",
+      "author": "丨",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647171774518379283"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S25",
+      "summary": "问界保密工作不到位啊，人家小米保密工作多到位[呲牙]"
+    },
+    {
+      "id": "db-f7c9bc60977f98975ccb24ed6fc7670f",
+      "source_type": "forum_post",
+      "title": "有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了",
+      "content": "有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了",
+      "url": "",
+      "published_at": "2026-06-03T10:31:02+00:00",
+      "author": "不惑之岁",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音评论",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7647114802616009531"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S26",
+      "summary": "有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了"
+    },
+    {
+      "id": "db-4e25ca4c43d5b812b62bdc67a41e0063",
+      "source_type": "video",
+      "title": "又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行",
+      "content": "又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行",
+      "url": "https://www.douyin.com/video/7647086429763407158",
+      "published_at": "2026-06-03T08:41:02+00:00",
+      "author": "朱海辉Tech",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647086429763407158"
+      },
+      "sentiment": "neutral",
+      "matched_words": {
+        "positive": [],
+        "negative": []
+      },
+      "reference": "S27",
+      "summary": "又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行"
+    },
+    {
+      "id": "db-8bbc1a29afe764720f8844304bc1264a",
+      "source_type": "video",
+      "title": "台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9",
+      "content": "台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9",
+      "url": "https://www.douyin.com/video/7647071959125134601",
+      "published_at": "2026-06-03T07:44:50+00:00",
+      "author": "都市现场",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647071959125134601"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S28",
+      "summary": "台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9"
+    },
+    {
+      "id": "db-82af2da0ec7fa87dd60c694174cd97c0",
+      "source_type": "video",
+      "title": "6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。",
+      "content": "6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。",
+      "url": "https://www.douyin.com/video/7647061806418119936",
+      "published_at": "2026-06-03T07:05:31+00:00",
+      "author": "生活帮",
+      "demo": false,
+      "origin": "database",
+      "platform": "抖音",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647061806418119936"
+      },
+      "sentiment": "negative",
+      "matched_words": {
+        "positive": [],
+        "negative": [
+          "事故"
+        ]
+      },
+      "reference": "S29",
+      "summary": "6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。"
+    }
+  ],
+  "sentiment": {
+    "positive": 1,
+    "neutral": 19,
+    "negative": 9
+  },
+  "channels": {
+    "forum_post": 15,
+    "video": 14
+  },
+  "negative_ratio": 0.3103,
+  "risk_level": "medium",
+  "method": "可解释词典规则：按不同命中词数比较正负倾向，相同归为中性；非机器学习预测，不能代表总体民意。",
+  "opinions": [
+    {
+      "source_type": "forum_post",
+      "author": "糖炒皮牙子",
+      "text": "视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。",
+      "references": [
+        "S1"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "笑看人生",
+      "text": "人下来了没？问界怎么没说？？？？",
+      "references": [
+        "S2"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "快到碗里来🌊fzj",
+      "text": "有人能告诉我问界的老板大不大",
+      "references": [
+        "S3"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "抖音账号海口龙华礼春纸香",
+      "text": "不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。",
+      "references": [
+        "S4"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "红星资本局",
+      "text": "问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击”",
+      "references": [
+        "S5"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "二三里资讯",
+      "text": "车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶",
+      "references": [
+        "S6"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "冷萃浮尘",
+      "text": "现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度，然后用这样的数字做标题！",
+      "references": [
+        "S7"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "宁夏广电新闻中心",
+      "text": "问界回应车辆起火事故 #问界  #车辆起火  #事故",
+      "references": [
+        "S8"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "财闻",
+      "text": "10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9",
+      "references": [
+        "S9"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "落日逐帆",
+      "text": "问界回应起火 #财经",
+      "references": [
+        "S10"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "九派新闻",
+      "text": "10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火",
+      "references": [
+        "S11"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "哈基米",
+      "text": "一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准",
+      "references": [
+        "S12"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "路漫漫",
+      "text": "昨天问界发生的起火事故，怎么洗？[奸笑]",
+      "references": [
+        "S13"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "蜗牛也很牛　　　　　　     　　　༽",
+      "text": "问界是赛力斯汽车，不是华为",
+      "references": [
+        "S14"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "啦啦啦哦哦哦",
+      "text": "问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏",
+      "references": [
+        "S15"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "满满聚宝盆",
+      "text": "华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。",
+      "references": [
+        "S16"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "不想长大",
+      "text": "问界是最好的电车[看]",
+      "references": [
+        "S17"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "2.22",
+      "text": "有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是",
+      "references": [
+        "S18"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "子昱",
+      "text": "一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙]",
+      "references": [
+        "S19"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "懂sir咔咔说",
+      "text": "问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行",
+      "references": [
+        "S20"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "L J。",
+      "text": "我搜关门灭火为什么推的全是问界的视频[疑问]",
+      "references": [
+        "S21"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "老五",
+      "text": "希望华为问界能够作为中国车企的领航员，而不是小米苏\n7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望，\n做良心车企！",
+      "references": [
+        "S22"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "东莞铁匠",
+      "text": "我觉得这个车主绝对不会再买问界[不看]",
+      "references": [
+        "S23"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "帝帝🧨",
+      "text": "小米你怎么回事？搞得问界生气起火了🔥？",
+      "references": [
+        "S24"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "丨",
+      "text": "问界保密工作不到位啊，人家小米保密工作多到位[呲牙]",
+      "references": [
+        "S25"
+      ]
+    },
+    {
+      "source_type": "forum_post",
+      "author": "不惑之岁",
+      "text": "有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了",
+      "references": [
+        "S26"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "朱海辉Tech",
+      "text": "又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行",
+      "references": [
+        "S27"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "都市现场",
+      "text": "台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9",
+      "references": [
+        "S28"
+      ]
+    },
+    {
+      "source_type": "video",
+      "author": "生活帮",
+      "text": "6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。",
+      "references": [
+        "S29"
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "text": "不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。",
+      "references": [
+        "S4"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击”",
+      "references": [
+        "S5"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶",
+      "references": [
+        "S6"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度，然后用这样的数字做标题！",
+      "references": [
+        "S7"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "问界回应车辆起火事故 #问界  #车辆起火  #事故",
+      "references": [
+        "S8"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9",
+      "references": [
+        "S9"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火",
+      "references": [
+        "S11"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "昨天问界发生的起火事故，怎么洗？[奸笑]",
+      "references": [
+        "S13"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9",
+      "references": [
+        "S28"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    },
+    {
+      "text": "6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。",
+      "references": [
+        "S29"
+      ],
+      "matched_words": [
+        "事故"
+      ]
+    }
+  ],
+  "provenance": {
+    "mode": "database",
+    "database": "media_crawler",
+    "tables": [
+      "douyin_aweme",
+      "douyin_aweme_comment"
+    ],
+    "sample_limit": 100
+  },
+  "markdown": "# 问界 · 舆情分析报告\n\n报告编号：20261021-185314-aa2db190\n执行时间：2026-10-21T18:53:14+08:00\n\n> 来自 media_crawler 数据库的只读检索快照，仅代表本次样本。\n\n## 事件概述\n围绕“问界”检索 视频字幕, 论坛，纳入 29 条证据。\n\n## 时间线\n- 2026-06-03T07:05:31+00:00 · 6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。 [S29]\n- 2026-06-03T07:44:50+00:00 · 台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9 [S28]\n- 2026-06-03T08:41:02+00:00 · 又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行 [S27]\n- 2026-06-03T10:31:02+00:00 · 有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了 [S26]\n- 2026-06-03T14:12:08+00:00 · 问界保密工作不到位啊，人家小米保密工作多到位[呲牙] [S25]\n- 2026-06-03T14:13:02+00:00 · 小米你怎么回事？搞得问界生气起火了🔥？ [S24]\n- 2026-06-03T14:34:52+00:00 · 我觉得这个车主绝对不会再买问界[不看] [S23]\n- 2026-06-03T18:01:24+00:00 · 希望华为问界能够作为中国车企的领航员，而不是小米苏 7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望， 做良心车企！ [S22]\n- 2026-06-04T01:21:34+00:00 · 我搜关门灭火为什么推的全是问界的视频[疑问] [S21]\n- 2026-06-04T12:10:04+00:00 · 问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行 [S20]\n- 2026-06-05T01:44:44+00:00 · 一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙] [S19]\n- 2026-06-06T06:31:34+00:00 · 有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是 [S18]\n- 2026-08-04T12:57:27+00:00 · 问界是最好的电车[看] [S17]\n- 2026-10-20T23:53:25+00:00 · 华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。 [S16]\n- 2026-10-21T04:58:34+00:00 · 问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏 [S15]\n- 2026-10-21T06:03:19+00:00 · 问界是赛力斯汽车，不是华为 [S14]\n- 2026-10-21T06:32:24+00:00 · 昨天问界发生的起火事故，怎么洗？[奸笑] [S13]\n- 2026-10-21T07:04:42+00:00 · 一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准 [S12]\n- 2026-10-21T08:23:40+00:00 · 10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火 [S11]\n- 2026-10-21T08:37:52+00:00 · 问界回应起火 #财经 [S10]\n- 2026-10-21T08:46:02+00:00 · 10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9 [S9]\n- 2026-10-21T09:06:02+00:00 · 问界回应车辆起火事故 #问界  #车辆起火  #事故 [S8]\n- 2026-10-21T09:21:38+00:00 · 现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度 [S7]\n- 2026-10-21T09:47:53+00:00 · 车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶 [S6]\n- 2026-10-21T09:51:08+00:00 · 问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击” [S5]\n- 2026-10-21T10:01:49+00:00 · 不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。 [S4]\n- 2026-10-21T10:26:12+00:00 · 有人能告诉我问界的老板大不大 [S3]\n- 2026-10-21T10:29:48+00:00 · 人下来了没？问界怎么没说？？？？ [S2]\n- 2026-10-21T10:29:57+00:00 · 视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。 [S1]\n\n## 传播渠道\n| 渠道 | 样本数 |\n| --- | ---: |\n| 论坛 | 15 [S1] [S2] [S3] [S7] [S13] [S14] [S17] [S18] [S19] [S21] [S22] [S23] [S24] [S25] [S26] |\n| 视频字幕 | 14 [S4] [S5] [S6] [S8] [S9] [S10] [S11] [S12] [S15] [S16] [S20] [S27] [S28] [S29] |\n\n## 主要观点\n- 糖炒皮牙子：视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。 [S1]\n- 笑看人生：人下来了没？问界怎么没说？？？？ [S2]\n- 快到碗里来🌊fzj：有人能告诉我问界的老板大不大 [S3]\n- 抖音账号海口龙华礼春纸香：不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。 [S4]\n- 红星资本局：问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击” [S5]\n- 二三里资讯：车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶 [S6]\n- 冷萃浮尘：现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度，然后用这样的数字做标题！ [S7]\n- 宁夏广电新闻中心：问界回应车辆起火事故 #问界  #车辆起火  #事故 [S8]\n- 财闻：10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9 [S9]\n- 落日逐帆：问界回应起火 #财经 [S10]\n- 九派新闻：10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火 [S11]\n- 哈基米：一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准 [S12]\n- 路漫漫：昨天问界发生的起火事故，怎么洗？[奸笑] [S13]\n- 蜗牛也很牛　　　　　　     　　　༽：问界是赛力斯汽车，不是华为 [S14]\n- 啦啦啦哦哦哦：问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏 [S15]\n- 满满聚宝盆：华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。 [S16]\n- 不想长大：问界是最好的电车[看] [S17]\n- 2.22：有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是 [S18]\n- 子昱：一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙] [S19]\n- 懂sir咔咔说：问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行 [S20]\n- L J。：我搜关门灭火为什么推的全是问界的视频[疑问] [S21]\n- 老五：希望华为问界能够作为中国车企的领航员，而不是小米苏 7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望， 做良心车企！ [S22]\n- 东莞铁匠：我觉得这个车主绝对不会再买问界[不看] [S23]\n- 帝帝🧨：小米你怎么回事？搞得问界生气起火了🔥？ [S24]\n- 丨：问界保密工作不到位啊，人家小米保密工作多到位[呲牙] [S25]\n- 不惑之岁：有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了 [S26]\n- 朱海辉Tech：又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行 [S27]\n- 都市现场：台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9 [S28]\n- 生活帮：6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。 [S29]\n\n## 情绪倾向\n正向 1 / 中性 19 / 负向 9。 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29]\n可解释词典规则：按不同命中词数比较正负倾向，相同归为中性；非机器学习预测，不能代表总体民意。\n\n## 风险判断\n规则等级：medium。负向占比 31.0%。 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29]\n- 待核验线索：不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。 [S4]\n- 待核验线索：问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击” [S5]\n- 待核验线索：车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶 [S6]\n- 待核验线索：现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度，然后用这样的数字做标题！ [S7]\n- 待核验线索：问界回应车辆起火事故 #问界  #车辆起火  #事故 [S8]\n- 待核验线索：10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9 [S9]\n- 待核验线索：10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火 [S11]\n- 待核验线索：昨天问界发生的起火事故，怎么洗？[奸笑] [S13]\n- 待核验线索：台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9 [S28]\n- 待核验线索：6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。 [S29]\n\n## 重点证据\n### [S1] 视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。\n- 来源：论坛 / 糖炒皮牙子\n- 链接：内部数据（无公开链接）\n- 摘要：视频里那个十字路口，从摄像头拍到到撞墙，充其量20米，车出现大概两秒。就宽一点按1.5秒走30米计算，时速也只有72公里。问界139的说辞，纯粹瞎编乱造。\n- 图谱引用：source-S1\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7699066442969416458\n- 平台：抖音评论\n\n### [S2] 人下来了没？问界怎么没说？？？？\n- 来源：论坛 / 笑看人生\n- 链接：内部数据（无公开链接）\n- 摘要：人下来了没？问界怎么没说？？？？\n- 图谱引用：source-S2\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7699066406239421222\n- 平台：抖音评论\n\n### [S3] 有人能告诉我问界的老板大不大\n- 来源：论坛 / 快到碗里来🌊fzj\n- 链接：内部数据（无公开链接）\n- 摘要：有人能告诉我问界的老板大不大\n- 图谱引用：source-S3\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7699065478296388409\n- 平台：抖音评论\n\n### [S4] 不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。\n- 来源：视频字幕 / 抖音账号海口龙华礼春纸香\n- 链接：https://www.douyin.com/video/7699059199025141753\n- 摘要：不可思议，漏油引起。？10月21日消息，日前，陕西榆林发生的一起交通事故，在网上引发了不少网友关注。网传现场视频显示，一辆疑似问界M9的汽车在路口发生碰撞，随后车辆起火，现场火势较大，也让不少网友对事故原因以及车辆安全问题产生了疑问。\n- 图谱引用：source-S4\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7699059199025141753\n- 平台：抖音\n\n### [S5] 问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击”\n- 来源：视频字幕 / 红星资本局\n- 链接：https://www.douyin.com/video/7699056429772164361\n- 摘要：问界通报“榆林一M9碰撞起火事故\"：事发时为人驾，车速139.1km/h远超限速，否认“电池爆炸”“智驾撞击”，起火原因或为剧烈撞击引发线路短路及油液泄漏#问界通报“榆林一M9碰撞起火事故\" #问界M9 #榆林一M9碰撞起火 #问界否认“电池爆炸”“智驾撞击”\n- 图谱引用：source-S5\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7699056429772164361\n- 平台：抖音\n\n### [S6] 车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶\n- 来源：视频字幕 / 二三里资讯\n- 链接：https://www.douyin.com/video/7699055579997785379\n- 摘要：车辆高速行驶，撞击灯柱后起火，警方：车上仅司机一人，已遇难，问界初步判断机舱受撞击引发燃烧 #问界  #交通事故  #起火 #警方回应  #人工驾驶\n- 图谱引用：source-S6\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7699055579997785379\n- 平台：抖音\n\n### [S7] 现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度\n- 来源：论坛 / 冷萃浮尘\n- 链接：内部数据（无公开链接）\n- 摘要：现在这新闻媒体这公告都不核实一下内容就发，还长江日报旗下的呢！问界的公告是事故车行驶到路口的速度是139.1公里每小时！就视频而言过路口的时候绝对到不了这个速度，然后用这样的数字做标题！\n- 图谱引用：source-S7\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7699048833867957049\n- 平台：抖音评论\n\n### [S8] 问界回应车辆起火事故 #问界  #车辆起火  #事故\n- 来源：视频字幕 / 宁夏广电新闻中心\n- 链接：https://www.douyin.com/video/7699044797947940137\n- 摘要：问界回应车辆起火事故 #问界  #车辆起火  #事故\n- 图谱引用：source-S8\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7699044797947940137\n- 平台：抖音\n\n### [S9] 10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9\n- 来源：视频字幕 / 财闻\n- 链接：https://www.douyin.com/video/7699039657488551177\n- 摘要：10月21日，问界发布关于陕西榆林神木市车辆事故的情况说明。问界表示，10月17日23时25分左右，一辆问界汽车在陕西榆林神木市发生碰撞后起火。经初步核实，事发时车辆处于人工驾驶状态，因车速过高撞击路口交通信号灯立柱，随后车辆前部起火。事发前车辆未见异常。针对网传“电池爆燃”“智驾撞击”等说法，问界回应称，均为不实信息。#陕西榆林问界起火 #陕西榆林问界m9\n- 图谱引用：source-S9\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7699039657488551177\n- 平台：抖音\n\n### [S10] 问界回应起火 #财经\n- 来源：视频字幕 / 落日逐帆\n- 链接：https://www.douyin.com/video/7699037546415803657\n- 摘要：问界回应起火 #财经\n- 图谱引用：source-S10\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7699037546415803657\n- 平台：抖音\n\n### [S11] 10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火\n- 来源：视频字幕 / 九派新闻\n- 链接：https://www.douyin.com/video/7699033882007506239\n- 摘要：10月21日，#问界发布榆林神木车辆事故说明 ：事发时车辆处于人驾状态，车速139.1km/h，“电池爆燃” “智驾撞击”不实。#问界回应M9碰撞后起火\n- 图谱引用：source-S11\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7699033882007506239\n- 平台：抖音\n\n### [S12] 一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准\n- 来源：视频字幕 / 哈基米\n- 链接：https://www.douyin.com/video/7699013553399544050\n- 摘要：一看就没有按照华为的质量标准。#小米汽车 #问界m9 #华为汽车 #遥遥领先 #华为的质量标准\n- 图谱引用：source-S12\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7699013553399544050\n- 平台：抖音\n\n### [S13] 昨天问界发生的起火事故，怎么洗？[奸笑]\n- 来源：论坛 / 路漫漫\n- 链接：内部数据（无公开链接）\n- 摘要：昨天问界发生的起火事故，怎么洗？[奸笑]\n- 图谱引用：source-S13\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7699005225383101234\n- 平台：抖音评论\n\n### [S14] 问界是赛力斯汽车，不是华为\n- 来源：论坛 / 蜗牛也很牛　　　　　　     　　　༽\n- 链接：内部数据（无公开链接）\n- 摘要：问界是赛力斯汽车，不是华为\n- 图谱引用：source-S14\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7698997732648289039\n- 平台：抖音评论\n\n### [S15] 问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏\n- 来源：视频字幕 / 啦啦啦哦哦哦\n- 链接：https://www.douyin.com/video/7698981052250185626\n- 摘要：问界m9，最近有点上火了🔥 #莫拿生命安全当儿戏\n- 图谱引用：source-S15\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7698981052250185626\n- 平台：抖音\n\n### [S16] 华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。\n- 来源：视频字幕 / 满满聚宝盆\n- 链接：https://www.douyin.com/video/7698902415999847145\n- 摘要：华为是强大，刚才还是看到问界9的撞车起火视频，现在看不到了，短短半小时没了。电车只能靠这样的方式营销了，不知道的起火事件还不知道有多少，买电车多三思三思吧，不，要九思吧。\n- 图谱引用：source-S16\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7698902415999847145\n- 平台：抖音\n\n### [S17] 问界是最好的电车[看]\n- 来源：论坛 / 不想长大\n- 链接：内部数据（无公开链接）\n- 摘要：问界是最好的电车[看]\n- 图谱引用：source-S17\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7670159812810048262\n- 平台：抖音评论\n\n### [S18] 有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是\n- 来源：论坛 / 2.22\n- 链接：内部数据（无公开链接）\n- 摘要：有没有发现，小米关门灭火的视频，网上搜都搜不到了[看][看][看]攻关做的真好啊，至于这个问界M9的视频，不同角度遍地都是\n- 图谱引用：source-S18\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7648166346483745563\n- 平台：抖音评论\n\n### [S19] 一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙]\n- 来源：论坛 / 子昱\n- 链接：内部数据（无公开链接）\n- 摘要：一开始认为问界这次要遭大劫了[捂脸]，没想到最后成了超级热点广告[呲牙]\n- 图谱引用：source-S19\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7647721341311402789\n- 平台：抖音评论\n\n### [S20] 问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行\n- 来源：视频字幕 / 懂sir咔咔说\n- 链接：https://www.douyin.com/video/7647511408939276874\n- 摘要：问界M9这次真火了 问界M9着火了，到底烧了谁的脸呢#问界M9 #鸿蒙智行 #你心中的7座车首选 #创作者中心 #创作灵感 @鸿蒙智行\n- 图谱引用：source-S20\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7647511408939276874\n- 平台：抖音\n\n### [S21] 我搜关门灭火为什么推的全是问界的视频[疑问]\n- 来源：论坛 / L J。\n- 链接：内部数据（无公开链接）\n- 摘要：我搜关门灭火为什么推的全是问界的视频[疑问]\n- 图谱引用：source-S21\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7647344289760625445\n- 平台：抖音评论\n\n### [S22] 希望华为问界能够作为中国车企的领航员，而不是小米苏 7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望， 做良心车企！\n- 来源：论坛 / 老五\n- 链接：内部数据（无公开链接）\n- 摘要：希望华为问界能够作为中国车企的领航员，而不是小米苏 7，一定要成为中国汽车的引领者！华为加油，我挺你！不要让国人失望， 做良心车企！\n- 图谱引用：source-S22\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7647230849175601958\n- 平台：抖音评论\n\n### [S23] 我觉得这个车主绝对不会再买问界[不看]\n- 来源：论坛 / 东莞铁匠\n- 链接：内部数据（无公开链接）\n- 摘要：我觉得这个车主绝对不会再买问界[不看]\n- 图谱引用：source-S23\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7647177636837999409\n- 平台：抖音评论\n\n### [S24] 小米你怎么回事？搞得问界生气起火了🔥？\n- 来源：论坛 / 帝帝🧨\n- 链接：内部数据（无公开链接）\n- 摘要：小米你怎么回事？搞得问界生气起火了🔥？\n- 图谱引用：source-S24\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7647172011622794041\n- 平台：抖音评论\n\n### [S25] 问界保密工作不到位啊，人家小米保密工作多到位[呲牙]\n- 来源：论坛 / 丨\n- 链接：内部数据（无公开链接）\n- 摘要：问界保密工作不到位啊，人家小米保密工作多到位[呲牙]\n- 图谱引用：source-S25\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7647171774518379283\n- 平台：抖音评论\n\n### [S26] 有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了\n- 来源：论坛 / 不惑之岁\n- 链接：内部数据（无公开链接）\n- 摘要：有人发了个车载记录仪，不是这样的，撞了东西问界就停车了，没有拖行，然后就烧了\n- 图谱引用：source-S26\n\n- 数据溯源：media_crawler.douyin_aweme_comment / comment_id=7647114802616009531\n- 平台：抖音评论\n\n### [S27] 又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行\n- 来源：视频字幕 / 朱海辉Tech\n- 链接：https://www.douyin.com/video/7647086429763407158\n- 摘要：又让黑子们白高潮了，官方通报来了！华为巨鲸立大功！#问界M9 #鸿蒙智行\n- 图谱引用：source-S27\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7647086429763407158\n- 平台：抖音\n\n### [S28] 台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9\n- 来源：视频字幕 / 都市现场\n- 链接：https://www.douyin.com/video/7647071959125134601\n- 摘要：台州一辆问界M9发生事故后起火，问界发布声明：非车辆自身原因导致，事发前三电系统状态正常，撞击前车掉落金属部件 拖行后导致起火。#问界回应浙江台州M9事故  #问界  #鸿蒙智行  #问界M9\n- 图谱引用：source-S28\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7647071959125134601\n- 平台：抖音\n\n### [S29] 6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。\n- 来源：视频字幕 / 生活帮\n- 链接：https://www.douyin.com/video/7647061806418119936\n- 摘要：6月3日上午，浙江台州，一辆#问界M9 在街头起火，未造成人员伤亡。#问界 发布事故说明：目前火已扑灭。经初步调查，事故非车辆自身原因导致。\n- 图谱引用：source-S29\n\n- 数据溯源：media_crawler.douyin_aweme / aweme_id=7647061806418119936\n- 平台：抖音\n\n## 结论摘要\n本次样本共 29 条，正向 1 条、中性 19 条、负向 9 条；规则风险等级为 medium。建议核验负向线索、持续跟踪来源变化，不将样本比例外推至总体。 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29]\n\n## 方法与局限\n多媒体只检索已提供的文字说明、标题和字幕，不执行 OCR、语音识别或视频理解。关键词按空格/逗号分隔，任意词命中；去重按来源 ID；样本未按阅读量加权。\n",
+  "conclusion": "本次样本共 29 条，正向 1 条、中性 19 条、负向 9 条；规则风险等级为 medium。建议核验负向线索、持续跟踪来源变化，不将样本比例外推至总体。 [S1] [S2] [S3] [S4] [S5] [S6] [S7] [S8] [S9] [S10] [S11] [S12] [S13] [S14] [S15] [S16] [S17] [S18] [S19] [S20] [S21] [S22] [S23] [S24] [S25] [S26] [S27] [S28] [S29]",
+  "graph_path": "graphs/20261021-185314-aa2db190/graph.json"
+}

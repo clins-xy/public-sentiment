@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>观潮 · 舆情分析平台</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script defer src="/static/app.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a href="/" class="brand"><span class="brand-mark">观</span><span>观潮 <small>PUBLIC SENTIMENT</small></span></a>
+    <div class="workspace"><span class="workspace-icon">◈</span><div>舆情分析工作空间<small>多源汇聚 · 证据驱动</small></div></div>
+    <div class="nav-label">工作台 / WORKSPACE</div>
+    <nav aria-label="主导航">
+      <a href="/" data-page="home"><span>▦</span>控制台总览</a>
+      <a href="/search" data-page="search"><span>⌕</span>主题检索</a>
+      <a href="/forum" data-page="forum"><span>≋</span>论坛监控</a>
+      <a href="/graph-viewer" data-page="graph"><span>⌘</span>关系图谱</a>
+      <a href="/reports" data-page="reports"><span>▤</span>分析报告</a>
+    </nav>
+    <div class="nav-label">管理 / MANAGEMENT</div>
+    <nav aria-label="系统管理">
+      <a href="/config" data-page="config"><span>⚙</span>配置管理</a>
+      <a href="/system" data-page="system"><span>◴</span>系统状态</a>
+    </nav>
+    <div class="sidebar-bottom"><span class="live-dot"></span><span id="connection">连接中…</span><small>v0.1.0 · 本地优先</small></div>
+  </aside>
+  <div class="shell">
+    <header class="topbar"><div><span class="muted">工作空间</span><span class="slash">/</span><span id="breadcrumb">控制台总览</span></div><div class="topbar-right"><span id="mode-badge" class="badge">读取数据配置…</span><span id="clock"></span><span class="avatar" id="role-badge" title="当前角色">管</span></div></header>
+    <main id="main" tabindex="-1"><div class="empty">正在连接工作空间…</div></main>
+    <footer>观潮 · 让信息有迹可循 <span>多源检索 / 可解释分析 / 证据溯源</span></footer>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="output-dialog"><div class="section-head"><div><div class="eyebrow">APPLICATION OUTPUT</div><h2 id="output-title">应用输出</h2></div><button id="close-dialog" class="button secondary">关闭 ×</button></div><div class="toolbar"><button id="show-output" class="button secondary">最新结果</button><button id="show-log" class="button secondary">运行日志</button><button id="refresh-output" class="button secondary">刷新 ↻</button><label><input id="auto-scroll" type="checkbox" checked> 自动滚动</label></div><pre id="output-content" class="terminal"></pre></dialog>
+</body>
+</html>

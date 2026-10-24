@@ -1,0 +1,128 @@
+{
+  "report_id": "20261021-152638-9bfa1424",
+  "query": "不对",
+  "created_at": "2026-10-21T15:26:38+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "不对",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "channel-forum_post",
+      "type": "channel",
+      "label": "论坛",
+      "source_refs": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "source-S1",
+      "type": "forum_post",
+      "label": "你说的不对，半岛无核化始终也是中国的立场",
+      "source_refs": [
+        "S1"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649265472094257962"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "source-S2",
+      "type": "forum_post",
+      "label": "教的不改，学的不对，考的不会，到底该从哪开始整",
+      "source_refs": [
+        "S2"
+      ],
+      "url": "",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7649191133440672547"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "channel-video",
+      "type": "channel",
+      "label": "视频字幕",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "id": "source-S3",
+      "type": "video",
+      "label": "一旦解锁这个通道，东北从此不靠借港出海 李在明心里是五味杂陈，眼看着中方将年内首次重量级外访锁定朝鲜，规格拉满，韩国上下猛然发现不对劲，这次中朝一会，不仅要有大事相商，还有一个关键契机也被推上了台面，一旦促成，东北从此不再靠“借港”出海。#全球创作者计划   #零基础看懂全球   #时代砺剑高燃出列",
+      "source_refs": [
+        "S3"
+      ],
+      "url": "https://www.douyin.com/video/7648994261425343754",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7648994261425343754"
+      },
+      "platform": "抖音"
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "channel-forum_post",
+      "type": "propagated_via",
+      "source_refs": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S1",
+      "type": "contains",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S2",
+      "type": "contains",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-video",
+      "type": "propagated_via",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S3",
+      "type": "contains",
+      "source_refs": [
+        "S3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "system": {"name": "观潮 · 舆情分析平台", "auto_start": false, "max_results": 100, "request_timeout": 15},
+  "collection": {"mode": "database", "rss_feeds": [], "internal_file": "", "forum_interval": 15},
+  "database": {
+    "driver": "mysql",
+    "name": "media_crawler",
+    "host_env": "MEDIA_CRAWLER_DB_HOST",
+    "port_env": "MEDIA_CRAWLER_DB_PORT",
+    "user_env": "MEDIA_CRAWLER_DB_USER",
+    "password_env": "MEDIA_CRAWLER_DB_PASSWORD",
+    "timezone": "+08:00",
+    "ssl_ca": "",
+    "tables": [
+      {
+        "table": "douyin_aweme",
+        "platform": "抖音",
+        "source_type": "video",
+        "time_unit": "s",
+        "fields": {"id": "aweme_id", "title": "title", "content": "desc", "url": "aweme_url", "author": "nickname", "published_at": "create_time"}
+      },
+      {
+        "table": "douyin_aweme_comment",
+        "platform": "抖音评论",
+        "source_type": "forum_post",
+        "time_unit": "s",
+        "fields": {"id": "comment_id", "content": "content", "author": "nickname", "published_at": "create_time"}
+      },
+      {
+        "table": "weibo_note",
+        "platform": "微博",
+        "source_type": "forum_post",
+        "time_unit": "s",
+        "fields": {"id": "note_id", "content": "content", "url": "note_url", "author": "nickname", "published_at": "create_time"}
+      },
+      {
+        "table": "weibo_note_comment",
+        "platform": "微博评论",
+        "source_type": "forum_post",
+        "time_unit": "s",
+        "fields": {"id": "comment_id", "content": "content", "author": "nickname", "published_at": "create_time"}
+      }
+    ]
+  },
+  "llm": {
+    "base_url": "http://127.0.0.1:8001/v1",
+    "model": "",
+    "api_key_env": "LLM_API_KEY",
+    "base_url_env": "LLM_BASE_URL",
+    "model_env": "LLM_MODEL",
+    "response_format": "json_object",
+    "temperature": 0.2,
+    "max_tokens": 6000,
+    "timeout": 120,
+    "max_retries": 1,
+    "batch_size": 5,
+    "max_chars_per_source": 6000,
+    "capture_training": true
+  },
+  "apps": {"search": true, "multimedia": true, "insight": true, "report": true, "graph": true}
+}

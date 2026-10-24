@@ -1,0 +1,1075 @@
+{
+  "report_id": "20261022-134546-6b94ef0c",
+  "query": "医保跨省",
+  "created_at": "2026-10-22T13:45:46+08:00",
+  "nodes": [
+    {
+      "id": "topic",
+      "type": "topic",
+      "label": "医保跨省",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21"
+      ]
+    },
+    {
+      "id": "channel-video",
+      "type": "channel",
+      "label": "视频字幕",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S15",
+        "S16",
+        "S17",
+        "S19",
+        "S20",
+        "S21"
+      ]
+    },
+    {
+      "id": "source-S1",
+      "type": "video",
+      "label": "医保跨省共济。#职工医保家庭共济 #医保跨省共济",
+      "source_refs": [
+        "S1"
+      ],
+      "url": "https://www.douyin.com/video/7698970885156506536",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698970885156506536"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-4a3990b0071997f3",
+      "type": "risk",
+      "label": "现有文字仅提供主题，无法判断是否涉及政策误读、办理误导或其他具体风险。",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "id": "source-S2",
+      "type": "video",
+      "label": "#媒体原创 医保个人账户跨省共济落地全国。",
+      "source_refs": [
+        "S2"
+      ],
+      "url": "https://www.douyin.com/video/7698926275335155099",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698926275335155099"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-8d25d2a092d7b1c4",
+      "type": "risk",
+      "label": "“落地全国”的概括未附适用范围和办理条件，可能被理解为各地均可无条件使用；现有文字不足以核实这一表述的具体边界。",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "id": "source-S3",
+      "type": "video",
+      "label": "跨省共济，如何给家人缴纳医保？\n手把手教你如何操作#医保跨省共济 #上海盐城",
+      "source_refs": [
+        "S3"
+      ],
+      "url": "https://www.douyin.com/video/7698755628178135720",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698755628178135720"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-85f6df07cd66a352",
+      "type": "risk",
+      "label": "所提供文字未列出可共济的家庭成员范围、办理条件或具体步骤，无法核验教程的适用性；若仅据此办理，可能产生操作或适用范围误解。",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "id": "source-S4",
+      "type": "video",
+      "label": "#媒体人精选计划 医保个人账户跨省共济全国落地，一家人的钱终于能跨过省界，但“跨省共济”还不等于“全国随便刷”。#医保个人账户跨省共济 #医保钱包 #精选主播说",
+      "source_refs": [
+        "S4"
+      ],
+      "url": "https://www.douyin.com/video/7698738501117873417",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698738501117873417"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-d82aa24569306537",
+      "type": "risk",
+      "label": "文字已明确提示使用边界，有助于降低误读风险；但未解释具体限制，仍不足以据此判断哪些使用场景符合条件。",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "id": "source-S5",
+      "type": "video",
+      "label": "跨省医保共济2.0落地，手把手教你操作 医保钱包升级，职工医保能跨省给父母缴医保了。实操代缴全流程，附关键避坑点，建议点赞收藏对照手机一步步办#医保跨省共济 #居民医保缴费  #就医避坑指南#医保钱包 #社保知识科普",
+      "source_refs": [
+        "S5"
+      ],
+      "url": "https://www.douyin.com/video/7698696767373969107",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698696767373969107"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-e1eeb67db05ad3da",
+      "type": "risk",
+      "label": "“职工医保能跨省给父母缴医保”的表述未交代账户资金范围、资格条件及适用地区，可能被理解为普遍适用的办理承诺；具体准确性证据不足。",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "id": "risk-df664cb60e98907b",
+      "type": "risk",
+      "label": "“2.0”和“升级”未附版本依据，所提供文字也未展示所称全流程及避坑点，无法核验其时效性和操作可靠性。",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "id": "source-S6",
+      "type": "video",
+      "label": "医保钱包2.0版上线，个人账户跨省共济落地全国！从就医购药扩展到城乡居民的医保和长期护理保险参保缴费。#媒体原创",
+      "source_refs": [
+        "S6"
+      ],
+      "url": "https://www.douyin.com/video/7698607873760218410",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698607873760218410"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-3056fb1763363a16",
+      "type": "risk",
+      "label": "“落地全国”的概括未附具体时间、适用条件或操作限制，可能使读者将全国覆盖理解为个人可无条件使用。仅凭所给文字无法核实实施细节。",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "id": "source-S7",
+      "type": "video",
+      "label": "#媒体原创 医保钱包2.0版上线，个人账户资金跨省共济全面落地。",
+      "source_refs": [
+        "S7"
+      ],
+      "url": "https://www.douyin.com/video/7698564282182667555",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698564282182667555"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-5f5db1b6aa200acc",
+      "type": "risk",
+      "label": "“全面落地”缺少适用对象、办理条件和时间信息，存在被过度理解为所有情形均可直接办理的可能；具体可用范围证据不足。",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "id": "source-S8",
+      "type": "video",
+      "label": "医保钱包跨省共济，给外省家人交城乡居民医保，一条视频讲清楚#医保 #医保钱包  #城乡居民医保 #老百姓关心的话题 #跨省共济",
+      "source_refs": [
+        "S8"
+      ],
+      "url": "https://www.douyin.com/video/7698442140502444239",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698442140502444239"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-d441f87383c18426",
+      "type": "risk",
+      "label": "所给文字只有教程介绍，未包含实际操作步骤、适用亲属范围和办理条件，无法据此确认教程是否完整或适用于具体个人。",
+      "source_refs": [
+        "S8"
+      ]
+    },
+    {
+      "id": "source-S9",
+      "type": "video",
+      "label": "#媒体原创 近日，广东省医疗保障局出台《关于提升参保人基层就医保障水平的通知》，广东作为全国首批试点省份，正式落地职工医保个人账户跨省共济服务。参保人可通过国家医保服务平台APP，将医保个人账户资金共济给外省近亲属，用于家人参保缴费、就医购药。（广东台记者：莫晓艳）#直击第一线",
+      "source_refs": [
+        "S9"
+      ],
+      "url": "https://www.douyin.com/video/7698548433635822874",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698548433635822874"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-ce4a4b5a9c44b30d",
+      "type": "risk",
+      "label": "正文使用“近日”但未提供明确日期，无法据此判断该试点信息与当前实施阶段的关系；具体办理要求也未展开。",
+      "source_refs": [
+        "S9"
+      ]
+    },
+    {
+      "id": "source-S10",
+      "type": "video",
+      "label": "跨省交农村居民医保全流程 感谢国家，又省一笔开销💰#医保跨省共济 #城乡居民医保",
+      "source_refs": [
+        "S10"
+      ],
+      "url": "https://www.douyin.com/video/7698235441896123802",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698235441896123802"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-13994d868d7ae19e",
+      "type": "risk",
+      "label": "“又省一笔开销”属于来源表达的获益感，未提供金额或计算依据，不能据此确认缴费标准降低或实际总支出减少，也不能推广为所有参保人的体验。",
+      "source_refs": [
+        "S10"
+      ]
+    },
+    {
+      "id": "source-S11",
+      "type": "video",
+      "label": "关于广东深圳跨省湖南交农合医保成功的教程来了#跨省共济 #医保共济",
+      "source_refs": [
+        "S11"
+      ],
+      "url": "https://www.douyin.com/video/7698050281095453119",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7698050281095453119"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-914b7374faac1ddb",
+      "type": "risk",
+      "label": "文字仅声称缴费成功，未列出办理条件、操作步骤和适用时间，无法核验成功情况或判断能否复用，风险程度证据不足。",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "id": "source-S12",
+      "type": "video",
+      "label": "跨省共济，仅供参考#一分钟搞定居民医保缴费 #跨省",
+      "source_refs": [
+        "S12"
+      ],
+      "url": "https://www.douyin.com/video/7697874739582630757",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7697874739582630757"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-46f5719b811ff563",
+      "type": "risk",
+      "label": "“一分钟搞定”可能形成快速办结的预期，但文字未提供耗时依据、地区范围或办理条件；是否构成实际误导证据不足。",
+      "source_refs": [
+        "S12"
+      ]
+    },
+    {
+      "id": "source-S13",
+      "type": "video",
+      "label": "如何利用上海职工医保跨省给老家人交城乡居民医保教程\n#城乡居民医保 #医保共济 #上海医保 #职工医保家庭共济",
+      "source_refs": [
+        "S13"
+      ],
+      "url": "https://www.douyin.com/video/7697228727071329766",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7697228727071329766"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-db4f48e0e2cfc324",
+      "type": "risk",
+      "label": "未说明家人参保地、可共济对象范围及具体办理条件，无法仅凭教程标题确认个案适用性，风险程度证据不足。",
+      "source_refs": [
+        "S13"
+      ]
+    },
+    {
+      "id": "channel-forum_post",
+      "type": "channel",
+      "label": "论坛",
+      "source_refs": [
+        "S14",
+        "S18"
+      ]
+    },
+    {
+      "id": "source-S14",
+      "type": "forum_post",
+      "label": "非常感谢，搞了几天，就你这个视频教会我了，广州职工医保跨省帮老家湖南张家界的小孩交居民医保完美缴费了[抱拳]",
+      "source_refs": [
+        "S14"
+      ],
+      "url": "",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7696857374083269413"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "risk-8bd1582bda2ec681",
+      "type": "risk",
+      "label": "“搞了几天”提示该发帖者此前存在操作困难，但未说明卡点或失败原因，无法判断问题是否普遍存在。",
+      "source_refs": [
+        "S14"
+      ]
+    },
+    {
+      "id": "source-S15",
+      "type": "video",
+      "label": "广东省职工医保余额跨省共济湖南省，用广东省医保余额给家里人缴纳居民医保详细步骤#跨省共济#医保共济账户 #医保共济",
+      "source_refs": [
+        "S15"
+      ],
+      "url": "https://www.douyin.com/video/7696797900689554161",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7696797900689554161"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-c1e3ecd35627263d",
+      "type": "risk",
+      "label": "文字以省级范围概括跨省共济用途，但未提供适用条件、办理时间或具体步骤，无法确认该表述覆盖的实际范围，风险程度证据不足。",
+      "source_refs": [
+        "S15"
+      ]
+    },
+    {
+      "id": "source-S16",
+      "type": "video",
+      "label": "你的医保钱 能给外省 家人用了 #分享你的医保知识吧 #创作者中心 #创作灵感 #广东医保新规 #医保共济 就医买药 + 缴居民医保费 全认@抖音小助手",
+      "source_refs": [
+        "S16"
+      ],
+      "url": "https://www.douyin.com/video/7695588357199402611",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7695588357199402611"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-bb629c9119fc69c7",
+      "type": "risk",
+      "label": "“医保钱”“全认”的表述较宽泛，缺少账户范围、亲属资格和适用条件，可能使读者误解为各类医保资金均可无条件跨省供家人使用。现有文字不足以核实具体政策边界。",
+      "source_refs": [
+        "S16"
+      ]
+    },
+    {
+      "id": "source-S17",
+      "type": "video",
+      "label": "职工医保账户余额跨省为家人代缴城乡居民医保的教程来了。#社保知识科普 #社保#城乡居民医保",
+      "source_refs": [
+        "S17"
+      ],
+      "url": "https://www.douyin.com/video/7694212300673549690",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7694212300673549690"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-1092fdd7c9f1e355",
+      "type": "risk",
+      "label": "现有文字只有教程主题，缺少适用条件、操作步骤和办理渠道，不能据此确认特定家庭是否符合条件或能够完成代缴。",
+      "source_refs": [
+        "S17"
+      ]
+    },
+    {
+      "id": "source-S18",
+      "type": "forum_post",
+      "label": "职工医保跨省绑定亲属共济信息 显示亲属无参保信息",
+      "source_refs": [
+        "S18"
+      ],
+      "url": "",
+      "sentiment": "unknown",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme_comment",
+        "primary_key_column": "comment_id",
+        "primary_key": "7658628134337758001"
+      },
+      "platform": "抖音评论"
+    },
+    {
+      "id": "risk-9bf14fbef193087b",
+      "type": "risk",
+      "label": "该提示可能影响亲属共济绑定进度，但缺少参保状态、操作过程和后续处理信息，无法判断原因，也不能据此认定存在普遍性系统故障。",
+      "source_refs": [
+        "S18"
+      ]
+    },
+    {
+      "id": "source-S19",
+      "type": "video",
+      "label": "近日，国家医保局、财政部印发通知，进一步规范职工基本医保个人账户跨省共济。医保个人账户跨省共济，“共”的是职工个人账户里的资金，“济”的是家人看病买药的负担。医保真正保在心坎上，大家也就更有获得感。#主播说联播",
+      "source_refs": [
+        "S19"
+      ],
+      "url": "https://www.douyin.com/video/7647906787043167551",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647906787043167551"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-65c79210638cedbc",
+      "type": "risk",
+      "label": "文字未给出通知的具体日期和实施细则，无法据此确认具体办理条件；其中关于“大家”获得感的判断缺少公众反馈证据支持。",
+      "source_refs": [
+        "S19"
+      ]
+    },
+    {
+      "id": "source-S20",
+      "type": "video",
+      "label": "医保个人账户跨省共济来了！谁能共济又如何共济？（央视频号：新闻来了）",
+      "source_refs": [
+        "S20"
+      ],
+      "url": "https://www.douyin.com/video/7647835719087459636",
+      "sentiment": "neutral",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647835719087459636"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-2fe3ac00c22ba4b3",
+      "type": "risk",
+      "label": "现有文字仅提出资格和办理问题，缺少答案，不能作为确认个人适用资格或实际操作流程的依据。",
+      "source_refs": [
+        "S20"
+      ]
+    },
+    {
+      "id": "source-S21",
+      "type": "video",
+      "label": "医保个人账户终于可以跨省共济了！保姆级教你提前开通 今天的消息，跟之前的共济转还不太一样  #医保个人账户跨省共济",
+      "source_refs": [
+        "S21"
+      ],
+      "url": "https://www.douyin.com/video/7647775973395434788",
+      "sentiment": "positive",
+      "locator": {
+        "database": "media_crawler",
+        "table": "douyin_aweme",
+        "primary_key_column": "aweme_id",
+        "primary_key": "7647775973395434788"
+      },
+      "platform": "抖音"
+    },
+    {
+      "id": "risk-ab3232e6c4bbad01",
+      "type": "risk",
+      "label": "文字直接宣称可以跨省共济，但未提供适用地区、对象、实施时间或政策依据，存在读者将其理解为普遍适用的风险；无法据此核实政策范围或判断表述是否准确。",
+      "source_refs": [
+        "S21"
+      ]
+    },
+    {
+      "id": "risk-e91fc1b9e66be7ce",
+      "type": "risk",
+      "label": "文字提及提前开通及与此前安排的差异，却未提供开通条件、步骤或差异说明，可能造成操作和概念理解上的混淆，实际风险程度证据不足。",
+      "source_refs": [
+        "S21"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "topic",
+      "target": "channel-video",
+      "type": "propagated_via",
+      "source_refs": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S15",
+        "S16",
+        "S17",
+        "S19",
+        "S20",
+        "S21"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S1",
+      "type": "contains",
+      "source_refs": [
+        "S1"
+      ]
+    },
+    {
+      "source": "source-S1",
+      "target": "risk-4a3990b0071997f3",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S1"
+      ],
+      "evidence_quotes": [
+        "医保跨省共济。#职工医保家庭共济 #医保跨省共济"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S2",
+      "type": "contains",
+      "source_refs": [
+        "S2"
+      ]
+    },
+    {
+      "source": "source-S2",
+      "target": "risk-8d25d2a092d7b1c4",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S2"
+      ],
+      "evidence_quotes": [
+        "医保个人账户跨省共济落地全国。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S3",
+      "type": "contains",
+      "source_refs": [
+        "S3"
+      ]
+    },
+    {
+      "source": "source-S3",
+      "target": "risk-85f6df07cd66a352",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S3"
+      ],
+      "evidence_quotes": [
+        "跨省共济，如何给家人缴纳医保？",
+        "手把手教你如何操作#医保跨省共济 #上海盐城"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S4",
+      "type": "contains",
+      "source_refs": [
+        "S4"
+      ]
+    },
+    {
+      "source": "source-S4",
+      "target": "risk-d82aa24569306537",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S4"
+      ],
+      "evidence_quotes": [
+        "但“跨省共济”还不等于“全国随便刷”。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S5",
+      "type": "contains",
+      "source_refs": [
+        "S5"
+      ]
+    },
+    {
+      "source": "source-S5",
+      "target": "risk-e1eeb67db05ad3da",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S5"
+      ],
+      "evidence_quotes": [
+        "医保钱包升级，职工医保能跨省给父母缴医保了。"
+      ]
+    },
+    {
+      "source": "source-S5",
+      "target": "risk-df664cb60e98907b",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S5"
+      ],
+      "evidence_quotes": [
+        "跨省医保共济2.0落地，手把手教你操作",
+        "实操代缴全流程，附关键避坑点，建议点赞收藏对照手机一步步办"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S6",
+      "type": "contains",
+      "source_refs": [
+        "S6"
+      ]
+    },
+    {
+      "source": "source-S6",
+      "target": "risk-3056fb1763363a16",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S6"
+      ],
+      "evidence_quotes": [
+        "医保钱包2.0版上线，个人账户跨省共济落地全国！"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S7",
+      "type": "contains",
+      "source_refs": [
+        "S7"
+      ]
+    },
+    {
+      "source": "source-S7",
+      "target": "risk-5f5db1b6aa200acc",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S7"
+      ],
+      "evidence_quotes": [
+        "个人账户资金跨省共济全面落地。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S8",
+      "type": "contains",
+      "source_refs": [
+        "S8"
+      ]
+    },
+    {
+      "source": "source-S8",
+      "target": "risk-d441f87383c18426",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S8"
+      ],
+      "evidence_quotes": [
+        "医保钱包跨省共济，给外省家人交城乡居民医保，一条视频讲清楚"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S9",
+      "type": "contains",
+      "source_refs": [
+        "S9"
+      ]
+    },
+    {
+      "source": "source-S9",
+      "target": "risk-ce4a4b5a9c44b30d",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S9"
+      ],
+      "evidence_quotes": [
+        "近日，广东省医疗保障局出台《关于提升参保人基层就医保障水平的通知》",
+        "广东作为全国首批试点省份，正式落地职工医保个人账户跨省共济服务。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S10",
+      "type": "contains",
+      "source_refs": [
+        "S10"
+      ]
+    },
+    {
+      "source": "source-S10",
+      "target": "risk-13994d868d7ae19e",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S10"
+      ],
+      "evidence_quotes": [
+        "感谢国家，又省一笔开销💰"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S11",
+      "type": "contains",
+      "source_refs": [
+        "S11"
+      ]
+    },
+    {
+      "source": "source-S11",
+      "target": "risk-914b7374faac1ddb",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S11"
+      ],
+      "evidence_quotes": [
+        "关于广东深圳跨省湖南交农合医保成功的教程来了"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S12",
+      "type": "contains",
+      "source_refs": [
+        "S12"
+      ]
+    },
+    {
+      "source": "source-S12",
+      "target": "risk-46f5719b811ff563",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S12"
+      ],
+      "evidence_quotes": [
+        "跨省共济，仅供参考#一分钟搞定居民医保缴费 #跨省"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S13",
+      "type": "contains",
+      "source_refs": [
+        "S13"
+      ]
+    },
+    {
+      "source": "source-S13",
+      "target": "risk-db4f48e0e2cfc324",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S13"
+      ],
+      "evidence_quotes": [
+        "如何利用上海职工医保跨省给老家人交城乡居民医保教程"
+      ]
+    },
+    {
+      "source": "topic",
+      "target": "channel-forum_post",
+      "type": "propagated_via",
+      "source_refs": [
+        "S14",
+        "S18"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S14",
+      "type": "contains",
+      "source_refs": [
+        "S14"
+      ]
+    },
+    {
+      "source": "source-S14",
+      "target": "risk-8bd1582bda2ec681",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S14"
+      ],
+      "evidence_quotes": [
+        "搞了几天，就你这个视频教会我了"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S15",
+      "type": "contains",
+      "source_refs": [
+        "S15"
+      ]
+    },
+    {
+      "source": "source-S15",
+      "target": "risk-c1e3ecd35627263d",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S15"
+      ],
+      "evidence_quotes": [
+        "广东省职工医保余额跨省共济湖南省，用广东省医保余额给家里人缴纳居民医保详细步骤"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S16",
+      "type": "contains",
+      "source_refs": [
+        "S16"
+      ]
+    },
+    {
+      "source": "source-S16",
+      "target": "risk-bb629c9119fc69c7",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S16"
+      ],
+      "evidence_quotes": [
+        "你的医保钱 能给外省 家人用了",
+        "就医买药 + 缴居民医保费 全认"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S17",
+      "type": "contains",
+      "source_refs": [
+        "S17"
+      ]
+    },
+    {
+      "source": "source-S17",
+      "target": "risk-1092fdd7c9f1e355",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S17"
+      ],
+      "evidence_quotes": [
+        "职工医保账户余额跨省为家人代缴城乡居民医保的教程来了。"
+      ]
+    },
+    {
+      "source": "channel-forum_post",
+      "target": "source-S18",
+      "type": "contains",
+      "source_refs": [
+        "S18"
+      ]
+    },
+    {
+      "source": "source-S18",
+      "target": "risk-9bf14fbef193087b",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S18"
+      ],
+      "evidence_quotes": [
+        "职工医保跨省绑定亲属共济信息 显示亲属无参保信息"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S19",
+      "type": "contains",
+      "source_refs": [
+        "S19"
+      ]
+    },
+    {
+      "source": "source-S19",
+      "target": "risk-65c79210638cedbc",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S19"
+      ],
+      "evidence_quotes": [
+        "近日，国家医保局、财政部印发通知，进一步规范职工基本医保个人账户跨省共济。",
+        "医保真正保在心坎上，大家也就更有获得感。"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S20",
+      "type": "contains",
+      "source_refs": [
+        "S20"
+      ]
+    },
+    {
+      "source": "source-S20",
+      "target": "risk-2fe3ac00c22ba4b3",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S20"
+      ],
+      "evidence_quotes": [
+        "谁能共济又如何共济？"
+      ]
+    },
+    {
+      "source": "channel-video",
+      "target": "source-S21",
+      "type": "contains",
+      "source_refs": [
+        "S21"
+      ]
+    },
+    {
+      "source": "source-S21",
+      "target": "risk-ab3232e6c4bbad01",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S21"
+      ],
+      "evidence_quotes": [
+        "医保个人账户终于可以跨省共济了！"
+      ]
+    },
+    {
+      "source": "source-S21",
+      "target": "risk-e91fc1b9e66be7ce",
+      "type": "mentions_risk",
+      "source_refs": [
+        "S21"
+      ],
+      "evidence_quotes": [
+        "保姆级教你提前开通",
+        "今天的消息，跟之前的共济转还不太一样"
+      ]
+    }
+  ]
+}
